@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[queryPoints(${1:})]]></content>
+	<tabTrigger>queryPoints()</tabTrigger>
+	<scope>source.js</scope>
+	<description>ProtocolAds</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[InputMode.DECIMAL]]></content>
+	<tabTrigger>InputMode.DECIMAL</tabTrigger>
+	<scope>source.js</scope>
+	<description>InputMode</description>
+</snippet>

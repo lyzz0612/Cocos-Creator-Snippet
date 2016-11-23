@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setTileOpacity(${1:opacity})]]></content>
+	<tabTrigger>setTileOpacity(opacity)</tabTrigger>
+	<scope>source.js</scope>
+	<description>TiledLayer</description>
+</snippet>

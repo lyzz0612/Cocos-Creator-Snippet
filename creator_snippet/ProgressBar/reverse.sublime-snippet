@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[reverse]]></content>
+	<tabTrigger>ProgressBar.reverse</tabTrigger>
+	<scope>source.js</scope>
+	<description>ProgressBar</description>
+</snippet>

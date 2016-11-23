@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[registerSystemEvent(${1:element})]]></content>
+	<tabTrigger>registerSystemEvent(element)</tabTrigger>
+	<scope>source.js</scope>
+	<description>inputManager</description>
+</snippet>

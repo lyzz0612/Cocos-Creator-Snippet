@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MAGENTA]]></content>
+	<tabTrigger>Color.MAGENTA</tabTrigger>
+	<scope>source.js</scope>
+	<description>Color</description>
+</snippet>

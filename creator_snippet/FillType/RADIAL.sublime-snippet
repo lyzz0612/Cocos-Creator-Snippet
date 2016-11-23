@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FillType.RADIAL]]></content>
+	<tabTrigger>FillType.RADIAL</tabTrigger>
+	<scope>source.js</scope>
+	<description>FillType</description>
+</snippet>

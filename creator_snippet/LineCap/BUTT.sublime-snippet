@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LineCap.BUTT]]></content>
+	<tabTrigger>LineCap.BUTT</tabTrigger>
+	<scope>source.js</scope>
+	<description>LineCap</description>
+</snippet>

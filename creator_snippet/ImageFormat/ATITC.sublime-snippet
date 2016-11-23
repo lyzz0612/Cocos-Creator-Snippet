@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ImageFormat.ATITC]]></content>
+	<tabTrigger>ImageFormat.ATITC</tabTrigger>
+	<scope>source.js</scope>
+	<description>ImageFormat</description>
+</snippet>

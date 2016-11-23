@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.ToolBarPlace]]></content>
+	<tabTrigger>cc.ToolBarPlace</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OS_WINRT]]></content>
+	<tabTrigger>sys.OS_WINRT</tabTrigger>
+	<scope>source.js</scope>
+	<description>sys</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.ScrollView]]></content>
+	<tabTrigger>cc.ScrollView</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

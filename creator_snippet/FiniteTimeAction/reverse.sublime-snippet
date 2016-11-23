@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[reverse(${1:})]]></content>
+	<tabTrigger>reverse()</tabTrigger>
+	<scope>source.js</scope>
+	<description>FiniteTimeAction</description>
+</snippet>

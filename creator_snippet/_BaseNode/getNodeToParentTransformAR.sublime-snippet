@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getNodeToParentTransformAR(${1:})]]></content>
+	<tabTrigger>getNodeToParentTransformAR()</tabTrigger>
+	<scope>source.js</scope>
+	<description>_BaseNode</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isLogined(${1:})]]></content>
+	<tabTrigger>isLogined()</tabTrigger>
+	<scope>source.js</scope>
+	<description>ProtocolUser</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[putInPool(${1:obj})]]></content>
+	<tabTrigger>putInPool(obj)</tabTrigger>
+	<scope>source.js</scope>
+	<description>pool</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AudioState.PLAYING]]></content>
+	<tabTrigger>AudioState.PLAYING</tabTrigger>
+	<scope>source.js</scope>
+	<description>AudioState</description>
+</snippet>

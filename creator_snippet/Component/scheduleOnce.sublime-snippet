@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[scheduleOnce(${1:callback}, ${2:delay?})]]></content>
+	<tabTrigger>scheduleOnce(callback, delay?)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Component</description>
+</snippet>

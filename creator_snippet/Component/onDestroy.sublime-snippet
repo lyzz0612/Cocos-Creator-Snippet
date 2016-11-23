@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[onDestroy(${1:})]]></content>
+	<tabTrigger>onDestroy()</tabTrigger>
+	<scope>source.js</scope>
+	<description>Component</description>
+</snippet>

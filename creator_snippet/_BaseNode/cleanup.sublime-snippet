@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cleanup(${1:})]]></content>
+	<tabTrigger>cleanup()</tabTrigger>
+	<scope>source.js</scope>
+	<description>_BaseNode</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.isChildClassOf(${1:subclass}, ${2:superclass})]]></content>
+	<tabTrigger>cc.isChildClassOf(subclass, superclass)	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

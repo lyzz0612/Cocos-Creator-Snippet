@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Orientation.HEX]]></content>
+	<tabTrigger>Orientation.HEX</tabTrigger>
+	<scope>source.js</scope>
+	<description>Orientation</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getAllTextures(${1:})]]></content>
+	<tabTrigger>getAllTextures()</tabTrigger>
+	<scope>source.js</scope>
+	<description>textureCache</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationState(${1:clip}, ${2:name?})]]></content>
+	<tabTrigger>AnimationState(clip, name?)</tabTrigger>
+	<scope>source.js</scope>
+	<description>AnimationState</description>
+</snippet>

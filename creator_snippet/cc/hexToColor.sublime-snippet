@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.hexToColor(${1:hex})]]></content>
+	<tabTrigger>cc.hexToColor(hex)	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

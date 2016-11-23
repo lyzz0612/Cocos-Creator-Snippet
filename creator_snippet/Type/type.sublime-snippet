@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Type.type]]></content>
+	<tabTrigger>Type.type</tabTrigger>
+	<scope>source.js</scope>
+	<description>Type</description>
+</snippet>

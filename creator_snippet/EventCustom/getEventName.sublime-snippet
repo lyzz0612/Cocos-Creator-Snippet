@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getEventName(${1:})]]></content>
+	<tabTrigger>getEventName()</tabTrigger>
+	<scope>source.js</scope>
+	<description>EventCustom</description>
+</snippet>

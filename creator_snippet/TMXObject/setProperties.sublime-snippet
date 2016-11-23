@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setProperties(${1:props})]]></content>
+	<tabTrigger>setProperties(props)</tabTrigger>
+	<scope>source.js</scope>
+	<description>TMXObject</description>
+</snippet>

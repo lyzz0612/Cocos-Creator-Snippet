@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setPositionY(${1:y})]]></content>
+	<tabTrigger>setPositionY(y)</tabTrigger>
+	<scope>source.js</scope>
+	<description>_BaseNode</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[offset]]></content>
+	<tabTrigger>BoxCollider.offset</tabTrigger>
+	<scope>source.js</scope>
+	<description>BoxCollider</description>
+</snippet>

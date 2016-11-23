@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[eventPhase]]></content>
+	<tabTrigger>Event.eventPhase</tabTrigger>
+	<scope>source.js</scope>
+	<description>Event</description>
+</snippet>

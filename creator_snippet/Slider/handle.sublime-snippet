@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[handle]]></content>
+	<tabTrigger>Slider.handle</tabTrigger>
+	<scope>source.js</scope>
+	<description>Slider</description>
+</snippet>

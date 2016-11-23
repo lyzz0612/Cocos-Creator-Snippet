@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[removeAllTextures(${1:})]]></content>
+	<tabTrigger>removeAllTextures()</tabTrigger>
+	<scope>source.js</scope>
+	<description>textureCache</description>
+</snippet>

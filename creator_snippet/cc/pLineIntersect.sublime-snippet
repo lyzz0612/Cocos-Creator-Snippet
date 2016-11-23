@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.pLineIntersect(${1:A}, ${2:B}, ${3:C}, ${4:D}, ${5:retP})]]></content>
+	<tabTrigger>cc.pLineIntersect(A, B, C, D, retP)	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

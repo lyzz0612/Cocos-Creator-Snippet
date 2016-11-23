@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getBoundingBox(${1:})]]></content>
+	<tabTrigger>getBoundingBox()</tabTrigger>
+	<scope>source.js</scope>
+	<description>_BaseNode</description>
+</snippet>

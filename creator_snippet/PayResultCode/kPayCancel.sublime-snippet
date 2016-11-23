@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PayResultCode.kPayCancel]]></content>
+	<tabTrigger>PayResultCode.kPayCancel</tabTrigger>
+	<scope>source.js</scope>
+	<description>PayResultCode</description>
+</snippet>

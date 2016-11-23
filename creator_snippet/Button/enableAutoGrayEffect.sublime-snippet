@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[enableAutoGrayEffect]]></content>
+	<tabTrigger>Button.enableAutoGrayEffect</tabTrigger>
+	<scope>source.js</scope>
+	<description>Button</description>
+</snippet>

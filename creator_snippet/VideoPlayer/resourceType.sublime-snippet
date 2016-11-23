@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[resourceType]]></content>
+	<tabTrigger>VideoPlayer.resourceType</tabTrigger>
+	<scope>source.js</scope>
+	<description>VideoPlayer</description>
+</snippet>

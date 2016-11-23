@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.setPoints(${1:points})]]></content>
+	<tabTrigger>cc.setPoints(points)	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

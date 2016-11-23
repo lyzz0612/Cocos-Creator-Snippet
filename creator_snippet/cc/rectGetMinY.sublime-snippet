@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.rectGetMinY(${1:rect})]]></content>
+	<tabTrigger>cc.rectGetMinY(rect)	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

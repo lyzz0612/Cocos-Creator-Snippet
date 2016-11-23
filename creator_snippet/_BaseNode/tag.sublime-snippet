@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[tag]]></content>
+	<tabTrigger>_BaseNode.tag</tabTrigger>
+	<scope>source.js</scope>
+	<description>_BaseNode</description>
+</snippet>

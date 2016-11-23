@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[play(${1:name?}, ${2:startTime?})]]></content>
+	<tabTrigger>play(name?, startTime?)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Animation</description>
+</snippet>

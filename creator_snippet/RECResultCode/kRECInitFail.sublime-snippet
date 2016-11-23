@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RECResultCode.kRECInitFail]]></content>
+	<tabTrigger>RECResultCode.kRECInitFail</tabTrigger>
+	<scope>source.js</scope>
+	<description>RECResultCode</description>
+</snippet>

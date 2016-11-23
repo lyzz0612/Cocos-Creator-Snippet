@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[sample(${1:})]]></content>
+	<tabTrigger>sample()</tabTrigger>
+	<scope>source.js</scope>
+	<description>Animation</description>
+</snippet>

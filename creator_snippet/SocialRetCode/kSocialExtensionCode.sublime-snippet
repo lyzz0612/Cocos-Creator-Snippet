@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SocialRetCode.kSocialExtensionCode]]></content>
+	<tabTrigger>SocialRetCode.kSocialExtensionCode</tabTrigger>
+	<scope>source.js</scope>
+	<description>SocialRetCode</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BROWSER_TYPE_360]]></content>
+	<tabTrigger>sys.BROWSER_TYPE_360</tabTrigger>
+	<scope>source.js</scope>
+	<description>sys</description>
+</snippet>

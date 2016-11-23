@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Macro.degreesToRadians]]></content>
+	<tabTrigger>Macro.degreesToRadians</tabTrigger>
+	<scope>source.js</scope>
+	<description>Macro</description>
+</snippet>

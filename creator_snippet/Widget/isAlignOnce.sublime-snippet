@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isAlignOnce]]></content>
+	<tabTrigger>Widget.isAlignOnce</tabTrigger>
+	<scope>source.js</scope>
+	<description>Widget</description>
+</snippet>

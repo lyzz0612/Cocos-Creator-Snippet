@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.easeElasticOut(${1:period})]]></content>
+	<tabTrigger>cc.easeElasticOut(period)	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

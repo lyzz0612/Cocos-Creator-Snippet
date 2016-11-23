@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[run(${1:config?}, ${2:onStart?})]]></content>
+	<tabTrigger>run(config?, onStart?)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Game</description>
+</snippet>

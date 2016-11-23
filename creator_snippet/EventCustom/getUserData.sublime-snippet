@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getUserData(${1:})]]></content>
+	<tabTrigger>getUserData()</tabTrigger>
+	<scope>source.js</scope>
+	<description>EventCustom</description>
+</snippet>

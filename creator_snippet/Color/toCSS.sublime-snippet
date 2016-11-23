@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[toCSS(${1:opt})]]></content>
+	<tabTrigger>toCSS(opt)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Color</description>
+</snippet>

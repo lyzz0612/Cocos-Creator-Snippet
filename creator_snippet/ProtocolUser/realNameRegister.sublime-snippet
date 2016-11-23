@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[realNameRegister(${1:})]]></content>
+	<tabTrigger>realNameRegister()</tabTrigger>
+	<scope>source.js</scope>
+	<description>ProtocolUser</description>
+</snippet>

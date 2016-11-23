@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[declare module anysdk {]]></content>
+	<tabTrigger>Loader.declare module anysdk {</tabTrigger>
+	<scope>source.js</scope>
+	<description>Loader</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[resetPayState(${1:})]]></content>
+	<tabTrigger>resetPayState()</tabTrigger>
+	<scope>source.js</scope>
+	<description>ProtocolIAP</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[rotateSelf(${1:radians})]]></content>
+	<tabTrigger>rotateSelf(radians)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Vec2</description>
+</snippet>

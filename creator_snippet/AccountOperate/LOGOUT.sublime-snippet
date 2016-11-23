@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AccountOperate.LOGOUT]]></content>
+	<tabTrigger>AccountOperate.LOGOUT</tabTrigger>
+	<scope>source.js</scope>
+	<description>AccountOperate</description>
+</snippet>

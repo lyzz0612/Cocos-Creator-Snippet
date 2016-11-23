@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WP8]]></content>
+	<tabTrigger>sys.WP8</tabTrigger>
+	<scope>source.js</scope>
+	<description>sys</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[submitLoginGameRole(${1:data})]]></content>
+	<tabTrigger>submitLoginGameRole(data)</tabTrigger>
+	<scope>source.js</scope>
+	<description>ProtocolUser</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[drainAllPools(${1:})]]></content>
+	<tabTrigger>drainAllPools()</tabTrigger>
+	<scope>source.js</scope>
+	<description>pool</description>
+</snippet>

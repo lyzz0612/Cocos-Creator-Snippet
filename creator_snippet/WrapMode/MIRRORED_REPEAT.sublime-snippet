@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WrapMode.MIRRORED_REPEAT]]></content>
+	<tabTrigger>WrapMode.MIRRORED_REPEAT</tabTrigger>
+	<scope>source.js</scope>
+	<description>WrapMode</description>
+</snippet>

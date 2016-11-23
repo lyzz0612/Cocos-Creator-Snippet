@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[pageTurningEventTiming]]></content>
+	<tabTrigger>PageView.pageTurningEventTiming</tabTrigger>
+	<scope>source.js</scope>
+	<description>PageView</description>
+</snippet>

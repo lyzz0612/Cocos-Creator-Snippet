@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ItemState.WORKING]]></content>
+	<tabTrigger>ItemState.WORKING</tabTrigger>
+	<scope>source.js</scope>
+	<description>ItemState</description>
+</snippet>

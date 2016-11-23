@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mode.HORIZONTAL]]></content>
+	<tabTrigger>Mode.HORIZONTAL</tabTrigger>
+	<scope>source.js</scope>
+	<description>Mode</description>
+</snippet>

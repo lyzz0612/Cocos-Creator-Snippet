@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[stopSession(${1:})]]></content>
+	<tabTrigger>stopSession()</tabTrigger>
+	<scope>source.js</scope>
+	<description>ProtocolAnalytics</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.bezierBy(${1:t}, ${2:c})]]></content>
+	<tabTrigger>cc.bezierBy(t, c)	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

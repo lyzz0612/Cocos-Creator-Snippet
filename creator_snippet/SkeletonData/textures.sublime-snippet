@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[textures]]></content>
+	<tabTrigger>SkeletonData.textures</tabTrigger>
+	<scope>source.js</scope>
+	<description>SkeletonData</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.pSameAs(${1:A}, ${2:B})]]></content>
+	<tabTrigger>cc.pSameAs(A, B)	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

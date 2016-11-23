@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[rectPolygon(${1:a}, ${2:b})]]></content>
+	<tabTrigger>rectPolygon(a, b)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Intersection</description>
+</snippet>

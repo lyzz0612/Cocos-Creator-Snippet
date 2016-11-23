@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[completedCount]]></content>
+	<tabTrigger>LoadingItems.completedCount</tabTrigger>
+	<scope>source.js</scope>
+	<description>LoadingItems</description>
+</snippet>

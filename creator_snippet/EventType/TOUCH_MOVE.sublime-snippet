@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EventType.TOUCH_MOVE]]></content>
+	<tabTrigger>EventType.TOUCH_MOVE</tabTrigger>
+	<scope>source.js</scope>
+	<description>EventType</description>
+</snippet>

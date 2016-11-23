@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isTargetPaused(${1:target})]]></content>
+	<tabTrigger>isTargetPaused(target)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Scheduler</description>
+</snippet>

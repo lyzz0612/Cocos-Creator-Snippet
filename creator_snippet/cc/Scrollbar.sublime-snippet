@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.Scrollbar]]></content>
+	<tabTrigger>cc.Scrollbar</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

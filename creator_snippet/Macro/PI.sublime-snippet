@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Macro.PI]]></content>
+	<tabTrigger>Macro.PI</tabTrigger>
+	<scope>source.js</scope>
+	<description>Macro</description>
+</snippet>

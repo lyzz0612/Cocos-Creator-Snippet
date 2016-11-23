@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[imageAtlas]]></content>
+	<tabTrigger>RichText.imageAtlas</tabTrigger>
+	<scope>source.js</scope>
+	<description>RichText</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.BlendFactor]]></content>
+	<tabTrigger>cc.BlendFactor</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

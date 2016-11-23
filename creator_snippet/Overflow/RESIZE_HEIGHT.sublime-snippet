@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Overflow.RESIZE_HEIGHT]]></content>
+	<tabTrigger>Overflow.RESIZE_HEIGHT</tabTrigger>
+	<scope>source.js</scope>
+	<description>Overflow</description>
+</snippet>

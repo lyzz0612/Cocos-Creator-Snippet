@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getDesignResolutionSize(${1:})]]></content>
+	<tabTrigger>getDesignResolutionSize()</tabTrigger>
+	<scope>source.js</scope>
+	<description>View</description>
+</snippet>

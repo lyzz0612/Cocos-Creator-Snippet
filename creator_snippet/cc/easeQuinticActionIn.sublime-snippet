@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.easeQuinticActionIn(${1:})]]></content>
+	<tabTrigger>cc.easeQuinticActionIn()	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

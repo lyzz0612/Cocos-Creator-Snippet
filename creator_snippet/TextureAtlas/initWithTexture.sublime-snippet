@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[initWithTexture(${1:texture}, ${2:capacity})]]></content>
+	<tabTrigger>initWithTexture(texture, capacity)</tabTrigger>
+	<scope>source.js</scope>
+	<description>TextureAtlas</description>
+</snippet>

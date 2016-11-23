@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SpriteFrame(${1:filename?}, ${2:rect}, ${3:rotated?}, ${4:offset}, ${5:originalSize})]]></content>
+	<tabTrigger>SpriteFrame(filename?, rect, rotated?, offset, originalSize)</tabTrigger>
+	<scope>source.js</scope>
+	<description>SpriteFrame</description>
+</snippet>

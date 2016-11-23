@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[resume(${1:name?})]]></content>
+	<tabTrigger>resume(name?)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Animation</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Macro.nodeDrawSetup]]></content>
+	<tabTrigger>Macro.nodeDrawSetup</tabTrigger>
+	<scope>source.js</scope>
+	<description>Macro</description>
+</snippet>

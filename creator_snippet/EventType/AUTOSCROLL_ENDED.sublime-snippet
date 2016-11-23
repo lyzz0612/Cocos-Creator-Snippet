@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EventType.AUTOSCROLL_ENDED]]></content>
+	<tabTrigger>EventType.AUTOSCROLL_ENDED</tabTrigger>
+	<scope>source.js</scope>
+	<description>EventType</description>
+</snippet>

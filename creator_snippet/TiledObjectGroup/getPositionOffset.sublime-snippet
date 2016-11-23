@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getPositionOffset(${1:})]]></content>
+	<tabTrigger>getPositionOffset()</tabTrigger>
+	<scope>source.js</scope>
+	<description>TiledObjectGroup</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ImageFormat.TIFF]]></content>
+	<tabTrigger>ImageFormat.TIFF</tabTrigger>
+	<scope>source.js</scope>
+	<description>ImageFormat</description>
+</snippet>

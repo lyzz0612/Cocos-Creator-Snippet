@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.colorEqual(${1:color1}, ${2:color2})]]></content>
+	<tabTrigger>cc.colorEqual(color1, color2)	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

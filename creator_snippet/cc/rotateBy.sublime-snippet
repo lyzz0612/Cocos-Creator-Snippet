@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.rotateBy(${1:duration}, ${2:deltaAngleX}, ${3:deltaAngleY?})]]></content>
+	<tabTrigger>cc.rotateBy(duration, deltaAngleX, deltaAngleY?)	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

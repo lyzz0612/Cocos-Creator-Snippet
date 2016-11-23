@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SocialRetCode.kAchUnlockFail]]></content>
+	<tabTrigger>SocialRetCode.kAchUnlockFail</tabTrigger>
+	<scope>source.js</scope>
+	<description>SocialRetCode</description>
+</snippet>

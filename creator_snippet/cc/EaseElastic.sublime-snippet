@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.EaseElastic]]></content>
+	<tabTrigger>cc.EaseElastic</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isFull(${1:})]]></content>
+	<tabTrigger>isFull()</tabTrigger>
+	<scope>source.js</scope>
+	<description>ParticleSystem</description>
+</snippet>

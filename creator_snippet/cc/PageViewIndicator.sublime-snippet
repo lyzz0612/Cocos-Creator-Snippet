@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.PageViewIndicator]]></content>
+	<tabTrigger>cc.PageViewIndicator</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

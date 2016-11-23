@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[js.setClassName(${1:className}, ${2:constructor})]]></content>
+	<tabTrigger>js.setClassName(className, constructor)	</tabTrigger>
+	<scope>source.js</scope>
+	<description>js</description>
+</snippet>

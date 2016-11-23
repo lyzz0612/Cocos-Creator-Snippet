@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.ProtocolAnalytics]]></content>
+	<tabTrigger>cc.ProtocolAnalytics</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

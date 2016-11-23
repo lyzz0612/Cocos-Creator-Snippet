@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ZERO]]></content>
+	<tabTrigger>Size.ZERO</tabTrigger>
+	<scope>source.js</scope>
+	<description>Size</description>
+</snippet>

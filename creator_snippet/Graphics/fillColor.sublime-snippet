@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[fillColor]]></content>
+	<tabTrigger>Graphics.fillColor</tabTrigger>
+	<scope>source.js</scope>
+	<description>Graphics</description>
+</snippet>

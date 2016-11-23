@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.EqualToFrame]]></content>
+	<tabTrigger>cc.EqualToFrame</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

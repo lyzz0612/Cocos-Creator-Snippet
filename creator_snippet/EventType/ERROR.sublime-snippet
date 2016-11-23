@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EventType.ERROR]]></content>
+	<tabTrigger>EventType.ERROR</tabTrigger>
+	<scope>source.js</scope>
+	<description>EventType</description>
+</snippet>

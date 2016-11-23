@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[clear(${1:})]]></content>
+	<tabTrigger>clear()</tabTrigger>
+	<scope>source.js</scope>
+	<description>Graphics</description>
+</snippet>

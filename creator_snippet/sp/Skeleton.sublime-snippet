@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[sp.Skeleton]]></content>
+	<tabTrigger>sp.Skeleton</tabTrigger>
+	<scope>source.js</scope>
+	<description>sp</description>
+</snippet>

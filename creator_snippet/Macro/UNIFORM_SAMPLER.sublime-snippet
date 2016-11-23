@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Macro.UNIFORM_SAMPLER]]></content>
+	<tabTrigger>Macro.UNIFORM_SAMPLER</tabTrigger>
+	<scope>source.js</scope>
+	<description>Macro</description>
+</snippet>

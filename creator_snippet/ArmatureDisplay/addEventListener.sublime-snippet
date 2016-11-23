@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[addEventListener(${1:eventType}, ${2:listener}, ${3:target})]]></content>
+	<tabTrigger>addEventListener(eventType, listener, target)</tabTrigger>
+	<scope>source.js</scope>
+	<description>ArmatureDisplay</description>
+</snippet>

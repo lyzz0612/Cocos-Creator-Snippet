@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AccountType.ND91]]></content>
+	<tabTrigger>AccountType.ND91</tabTrigger>
+	<scope>source.js</scope>
+	<description>AccountType</description>
+</snippet>

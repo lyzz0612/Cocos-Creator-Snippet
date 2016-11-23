@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PayResultCode.kPayProductionInforIncomplete]]></content>
+	<tabTrigger>PayResultCode.kPayProductionInforIncomplete</tabTrigger>
+	<scope>source.js</scope>
+	<description>PayResultCode</description>
+</snippet>

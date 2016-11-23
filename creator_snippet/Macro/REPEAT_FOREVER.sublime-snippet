@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Macro.REPEAT_FOREVER]]></content>
+	<tabTrigger>Macro.REPEAT_FOREVER</tabTrigger>
+	<scope>source.js</scope>
+	<description>Macro</description>
+</snippet>

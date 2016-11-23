@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.spawn(${1:tempArray})]]></content>
+	<tabTrigger>cc.spawn(tempArray)	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

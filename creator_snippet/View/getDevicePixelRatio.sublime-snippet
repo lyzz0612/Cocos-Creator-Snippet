@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getDevicePixelRatio(${1:})]]></content>
+	<tabTrigger>getDevicePixelRatio()</tabTrigger>
+	<scope>source.js</scope>
+	<description>View</description>
+</snippet>

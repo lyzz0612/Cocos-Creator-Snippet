@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[prepare(${1:cb})]]></content>
+	<tabTrigger>prepare(cb)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Game</description>
+</snippet>

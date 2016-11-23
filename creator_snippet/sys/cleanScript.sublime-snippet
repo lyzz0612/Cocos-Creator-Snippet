@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cleanScript(${1:jsfile})]]></content>
+	<tabTrigger>cleanScript(jsfile)</tabTrigger>
+	<scope>source.js</scope>
+	<description>sys</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.callFunc(${1:selector}, ${2:selectorTarget?}, ${3:data?})]]></content>
+	<tabTrigger>cc.callFunc(selector, selectorTarget?, data?)	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

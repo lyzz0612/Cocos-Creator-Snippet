@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.SpriteType]]></content>
+	<tabTrigger>cc.SpriteType</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

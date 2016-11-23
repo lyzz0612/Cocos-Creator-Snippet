@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[showVideoCenter(${1:})]]></content>
+	<tabTrigger>showVideoCenter()</tabTrigger>
+	<scope>source.js</scope>
+	<description>ProtocolREC</description>
+</snippet>

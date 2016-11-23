@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[hideToolBar(${1:})]]></content>
+	<tabTrigger>hideToolBar()</tabTrigger>
+	<scope>source.js</scope>
+	<description>ProtocolREC</description>
+</snippet>

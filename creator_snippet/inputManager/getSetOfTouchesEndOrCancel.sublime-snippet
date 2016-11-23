@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getSetOfTouchesEndOrCancel(${1:touches})]]></content>
+	<tabTrigger>getSetOfTouchesEndOrCancel(touches)</tabTrigger>
+	<scope>source.js</scope>
+	<description>inputManager</description>
+</snippet>

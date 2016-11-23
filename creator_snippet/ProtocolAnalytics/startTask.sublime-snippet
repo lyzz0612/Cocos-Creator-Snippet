@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[startTask(${1:paramMap})]]></content>
+	<tabTrigger>startTask(paramMap)</tabTrigger>
+	<scope>source.js</scope>
+	<description>ProtocolAnalytics</description>
+</snippet>

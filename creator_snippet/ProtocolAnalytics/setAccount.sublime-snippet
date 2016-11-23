@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setAccount(${1:paramMap})]]></content>
+	<tabTrigger>setAccount(paramMap)</tabTrigger>
+	<scope>source.js</scope>
+	<description>ProtocolAnalytics</description>
+</snippet>

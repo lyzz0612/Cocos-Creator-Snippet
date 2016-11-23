@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.pAngleSigned(${1:a}, ${2:b})]]></content>
+	<tabTrigger>cc.pAngleSigned(a, b)	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

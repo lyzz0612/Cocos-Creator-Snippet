@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isAutoRelease(${1:assetOrUrl})]]></content>
+	<tabTrigger>isAutoRelease(assetOrUrl)</tabTrigger>
+	<scope>source.js</scope>
+	<description>loader</description>
+</snippet>

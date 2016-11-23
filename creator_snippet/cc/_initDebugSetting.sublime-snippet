@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc._initDebugSetting(${1:mode})]]></content>
+	<tabTrigger>cc._initDebugSetting(mode)	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

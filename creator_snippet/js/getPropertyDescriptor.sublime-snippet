@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[js.getPropertyDescriptor(${1:obj}, ${2:name})]]></content>
+	<tabTrigger>js.getPropertyDescriptor(obj, name)	</tabTrigger>
+	<scope>source.js</scope>
+	<description>js</description>
+</snippet>

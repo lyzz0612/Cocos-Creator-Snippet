@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Macro.LINEAR]]></content>
+	<tabTrigger>Macro.LINEAR</tabTrigger>
+	<scope>source.js</scope>
+	<description>Macro</description>
+</snippet>

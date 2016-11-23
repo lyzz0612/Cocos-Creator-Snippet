@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BROWSER_TYPE_MIUI]]></content>
+	<tabTrigger>sys.BROWSER_TYPE_MIUI</tabTrigger>
+	<scope>source.js</scope>
+	<description>sys</description>
+</snippet>

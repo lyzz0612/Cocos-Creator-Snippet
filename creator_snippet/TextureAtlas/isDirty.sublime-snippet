@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isDirty(${1:})]]></content>
+	<tabTrigger>isDirty()</tabTrigger>
+	<scope>source.js</scope>
+	<description>TextureAtlas</description>
+</snippet>

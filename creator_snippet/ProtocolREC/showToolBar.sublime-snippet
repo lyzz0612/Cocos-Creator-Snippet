@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[showToolBar(${1:})]]></content>
+	<tabTrigger>showToolBar()</tabTrigger>
+	<scope>source.js</scope>
+	<description>ProtocolREC</description>
+</snippet>

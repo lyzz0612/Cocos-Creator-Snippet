@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Macro.ZOOM_ACTION_TAG]]></content>
+	<tabTrigger>Macro.ZOOM_ACTION_TAG</tabTrigger>
+	<scope>source.js</scope>
+	<description>Macro</description>
+</snippet>

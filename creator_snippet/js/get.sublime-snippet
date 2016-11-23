@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[js.get(${1:obj}, ${2:prop}, ${3:getter}, ${4:enumerable?})]]></content>
+	<tabTrigger>js.get(obj, prop, getter, enumerable?)	</tabTrigger>
+	<scope>source.js</scope>
+	<description>js</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EventType.TOUCH_CANCEL]]></content>
+	<tabTrigger>EventType.TOUCH_CANCEL</tabTrigger>
+	<scope>source.js</scope>
+	<description>EventType</description>
+</snippet>

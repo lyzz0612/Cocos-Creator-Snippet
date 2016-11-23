@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[onChargeSuccess(${1:orderID})]]></content>
+	<tabTrigger>onChargeSuccess(orderID)</tabTrigger>
+	<scope>source.js</scope>
+	<description>ProtocolAnalytics</description>
+</snippet>

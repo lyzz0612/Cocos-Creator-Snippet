@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[V3F_C4B_T2F_Quad(${1:tl}, ${2:bl}, ${3:tr}, ${4:br}, ${5:arrayBuffer}, ${6:offset})]]></content>
+	<tabTrigger>V3F_C4B_T2F_Quad(tl, bl, tr, br, arrayBuffer, offset)</tabTrigger>
+	<scope>source.js</scope>
+	<description>V3F_C4B_T2F_Quad</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[copy(${1:array})]]></content>
+	<tabTrigger>copy(array)</tabTrigger>
+	<scope>source.js</scope>
+	<description>array</description>
+</snippet>

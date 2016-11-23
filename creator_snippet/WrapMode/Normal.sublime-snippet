@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WrapMode.Normal]]></content>
+	<tabTrigger>WrapMode.Normal</tabTrigger>
+	<scope>source.js</scope>
+	<description>WrapMode</description>
+</snippet>

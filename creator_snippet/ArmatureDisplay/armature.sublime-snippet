@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[armature(${1:})]]></content>
+	<tabTrigger>armature()</tabTrigger>
+	<scope>source.js</scope>
+	<description>ArmatureDisplay</description>
+</snippet>

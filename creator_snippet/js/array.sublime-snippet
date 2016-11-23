@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[js.array]]></content>
+	<tabTrigger>js.array</tabTrigger>
+	<scope>source.js</scope>
+	<description>js</description>
+</snippet>

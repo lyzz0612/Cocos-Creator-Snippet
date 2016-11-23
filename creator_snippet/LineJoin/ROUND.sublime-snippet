@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LineJoin.ROUND]]></content>
+	<tabTrigger>LineJoin.ROUND</tabTrigger>
+	<scope>source.js</scope>
+	<description>LineJoin</description>
+</snippet>

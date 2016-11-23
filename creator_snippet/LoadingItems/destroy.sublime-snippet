@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[destroy(${1:})]]></content>
+	<tabTrigger>destroy()</tabTrigger>
+	<scope>source.js</scope>
+	<description>LoadingItems</description>
+</snippet>

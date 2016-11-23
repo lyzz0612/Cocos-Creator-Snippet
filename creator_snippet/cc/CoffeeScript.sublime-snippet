@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.CoffeeScript]]></content>
+	<tabTrigger>cc.CoffeeScript</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

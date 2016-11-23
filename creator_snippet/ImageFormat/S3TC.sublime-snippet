@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ImageFormat.S3TC]]></content>
+	<tabTrigger>ImageFormat.S3TC</tabTrigger>
+	<scope>source.js</scope>
+	<description>ImageFormat</description>
+</snippet>

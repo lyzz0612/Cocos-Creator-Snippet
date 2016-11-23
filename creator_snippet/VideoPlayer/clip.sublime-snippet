@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[clip]]></content>
+	<tabTrigger>VideoPlayer.clip</tabTrigger>
+	<scope>source.js</scope>
+	<description>VideoPlayer</description>
+</snippet>

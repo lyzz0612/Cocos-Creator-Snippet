@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Overflow.CLAMP]]></content>
+	<tabTrigger>Overflow.CLAMP</tabTrigger>
+	<scope>source.js</scope>
+	<description>Overflow</description>
+</snippet>

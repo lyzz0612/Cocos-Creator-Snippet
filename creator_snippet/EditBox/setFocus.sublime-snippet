@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setFocus(${1:})]]></content>
+	<tabTrigger>setFocus()</tabTrigger>
+	<scope>source.js</scope>
+	<description>EditBox</description>
+</snippet>

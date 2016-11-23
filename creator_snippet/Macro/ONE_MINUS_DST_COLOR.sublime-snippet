@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Macro.ONE_MINUS_DST_COLOR]]></content>
+	<tabTrigger>Macro.ONE_MINUS_DST_COLOR</tabTrigger>
+	<scope>source.js</scope>
+	<description>Macro</description>
+</snippet>

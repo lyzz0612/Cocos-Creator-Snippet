@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getPluginName(${1:})]]></content>
+	<tabTrigger>getPluginName()</tabTrigger>
+	<scope>source.js</scope>
+	<description>PluginProtocol</description>
+</snippet>

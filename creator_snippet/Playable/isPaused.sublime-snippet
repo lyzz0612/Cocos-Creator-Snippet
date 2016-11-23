@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isPaused]]></content>
+	<tabTrigger>Playable.isPaused</tabTrigger>
+	<scope>source.js</scope>
+	<description>Playable</description>
+</snippet>

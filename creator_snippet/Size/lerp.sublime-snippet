@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[lerp(${1:to}, ${2:ratio}, ${3:out})]]></content>
+	<tabTrigger>lerp(to, ratio, out)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Size</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[fastRemove(${1:array}, ${2:value})]]></content>
+	<tabTrigger>fastRemove(array, value)</tabTrigger>
+	<scope>source.js</scope>
+	<description>array</description>
+</snippet>

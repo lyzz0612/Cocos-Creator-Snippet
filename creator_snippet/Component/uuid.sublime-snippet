@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[uuid]]></content>
+	<tabTrigger>Component.uuid</tabTrigger>
+	<scope>source.js</scope>
+	<description>Component</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getAnalyticsPlugin(${1:})]]></content>
+	<tabTrigger>getAnalyticsPlugin()</tabTrigger>
+	<scope>source.js</scope>
+	<description>AgentManager</description>
+</snippet>

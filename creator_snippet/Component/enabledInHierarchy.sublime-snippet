@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[enabledInHierarchy]]></content>
+	<tabTrigger>Component.enabledInHierarchy</tabTrigger>
+	<scope>source.js</scope>
+	<description>Component</description>
+</snippet>

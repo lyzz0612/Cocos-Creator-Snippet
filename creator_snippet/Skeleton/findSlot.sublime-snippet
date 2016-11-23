@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[findSlot(${1:slotName})]]></content>
+	<tabTrigger>findSlot(slotName)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Skeleton</description>
+</snippet>

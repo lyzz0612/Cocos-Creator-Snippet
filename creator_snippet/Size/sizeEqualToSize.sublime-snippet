@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[sizeEqualToSize(${1:size1}, ${2:size2})]]></content>
+	<tabTrigger>sizeEqualToSize(size1, size2)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Size</description>
+</snippet>

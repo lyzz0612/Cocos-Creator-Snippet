@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[exists(${1:id})]]></content>
+	<tabTrigger>exists(id)</tabTrigger>
+	<scope>source.js</scope>
+	<description>LoadingItems</description>
+</snippet>

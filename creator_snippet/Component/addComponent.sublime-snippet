@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[addComponent(${1:typeOrTypename})]]></content>
+	<tabTrigger>addComponent(typeOrTypename)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Component</description>
+</snippet>

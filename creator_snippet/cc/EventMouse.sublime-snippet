@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.EventMouse]]></content>
+	<tabTrigger>cc.EventMouse</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

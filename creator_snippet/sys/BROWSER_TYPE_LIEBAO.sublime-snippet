@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BROWSER_TYPE_LIEBAO]]></content>
+	<tabTrigger>sys.BROWSER_TYPE_LIEBAO</tabTrigger>
+	<scope>source.js</scope>
+	<description>sys</description>
+</snippet>

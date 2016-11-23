@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.WebGLColor]]></content>
+	<tabTrigger>cc.WebGLColor</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

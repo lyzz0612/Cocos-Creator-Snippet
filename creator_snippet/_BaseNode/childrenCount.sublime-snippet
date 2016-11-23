@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[childrenCount]]></content>
+	<tabTrigger>_BaseNode.childrenCount</tabTrigger>
+	<scope>source.js</scope>
+	<description>_BaseNode</description>
+</snippet>

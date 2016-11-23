@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AdsResultCode.kRewardedVideoWithReward]]></content>
+	<tabTrigger>AdsResultCode.kRewardedVideoWithReward</tabTrigger>
+	<scope>source.js</scope>
+	<description>AdsResultCode</description>
+</snippet>

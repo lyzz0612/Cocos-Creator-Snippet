@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[indicator]]></content>
+	<tabTrigger>PageView.indicator</tabTrigger>
+	<scope>source.js</scope>
+	<description>PageView</description>
+</snippet>

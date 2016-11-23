@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mode.FILLED]]></content>
+	<tabTrigger>Mode.FILLED</tabTrigger>
+	<scope>source.js</scope>
+	<description>Mode</description>
+</snippet>

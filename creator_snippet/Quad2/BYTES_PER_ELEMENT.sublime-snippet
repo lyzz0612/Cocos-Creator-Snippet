@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BYTES_PER_ELEMENT]]></content>
+	<tabTrigger>Quad2.BYTES_PER_ELEMENT</tabTrigger>
+	<scope>source.js</scope>
+	<description>Quad2</description>
+</snippet>

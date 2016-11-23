@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Macro.NODE_TAG_INVALID]]></content>
+	<tabTrigger>Macro.NODE_TAG_INVALID</tabTrigger>
+	<scope>source.js</scope>
+	<description>Macro</description>
+</snippet>

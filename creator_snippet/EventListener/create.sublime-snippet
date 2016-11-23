@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[create(${1:argObj})]]></content>
+	<tabTrigger>create(argObj)</tabTrigger>
+	<scope>source.js</scope>
+	<description>EventListener</description>
+</snippet>

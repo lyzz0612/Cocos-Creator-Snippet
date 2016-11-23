@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[raw(${1:url})]]></content>
+	<tabTrigger>raw(url)</tabTrigger>
+	<scope>source.js</scope>
+	<description>url</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.repeat(${1:action}, ${2:times})]]></content>
+	<tabTrigger>cc.repeat(action, times)	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

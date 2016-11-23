@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BLACKBERRY]]></content>
+	<tabTrigger>sys.BLACKBERRY</tabTrigger>
+	<scope>source.js</scope>
+	<description>sys</description>
+</snippet>

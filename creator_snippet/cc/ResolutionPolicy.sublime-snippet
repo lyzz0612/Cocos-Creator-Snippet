@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.ResolutionPolicy]]></content>
+	<tabTrigger>cc.ResolutionPolicy</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

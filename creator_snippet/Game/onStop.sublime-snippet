@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[onStop(${1:})]]></content>
+	<tabTrigger>onStop()</tabTrigger>
+	<scope>source.js</scope>
+	<description>Game</description>
+</snippet>

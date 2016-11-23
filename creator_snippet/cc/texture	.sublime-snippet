@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.texture	]]></content>
+	<tabTrigger>cc.texture	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getMaxScrollOffset(${1:})]]></content>
+	<tabTrigger>getMaxScrollOffset()</tabTrigger>
+	<scope>source.js</scope>
+	<description>ScrollView</description>
+</snippet>

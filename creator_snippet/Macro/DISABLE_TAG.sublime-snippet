@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Macro.DISABLE_TAG]]></content>
+	<tabTrigger>Macro.DISABLE_TAG</tabTrigger>
+	<scope>source.js</scope>
+	<description>Macro</description>
+</snippet>

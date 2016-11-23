@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LANGUAGE_UNKNOWN]]></content>
+	<tabTrigger>sys.LANGUAGE_UNKNOWN</tabTrigger>
+	<scope>source.js</scope>
+	<description>sys</description>
+</snippet>

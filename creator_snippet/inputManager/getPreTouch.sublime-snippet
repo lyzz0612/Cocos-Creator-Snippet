@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getPreTouch(${1:touch})]]></content>
+	<tabTrigger>getPreTouch(touch)</tabTrigger>
+	<scope>source.js</scope>
+	<description>inputManager</description>
+</snippet>

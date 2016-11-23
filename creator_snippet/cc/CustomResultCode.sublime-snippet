@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.CustomResultCode]]></content>
+	<tabTrigger>cc.CustomResultCode</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

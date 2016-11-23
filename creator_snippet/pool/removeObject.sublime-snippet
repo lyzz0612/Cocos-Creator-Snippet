@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[removeObject(${1:})]]></content>
+	<tabTrigger>removeObject()</tabTrigger>
+	<scope>source.js</scope>
+	<description>pool</description>
+</snippet>

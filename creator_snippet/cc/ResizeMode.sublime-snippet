@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.ResizeMode]]></content>
+	<tabTrigger>cc.ResizeMode</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

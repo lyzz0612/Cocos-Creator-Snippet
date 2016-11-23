@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getID(${1:})]]></content>
+	<tabTrigger>getID()</tabTrigger>
+	<scope>source.js</scope>
+	<description>Touch</description>
+</snippet>

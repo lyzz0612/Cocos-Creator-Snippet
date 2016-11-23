@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[startColorVar]]></content>
+	<tabTrigger>ParticleSystem.startColorVar</tabTrigger>
+	<scope>source.js</scope>
+	<description>ParticleSystem</description>
+</snippet>

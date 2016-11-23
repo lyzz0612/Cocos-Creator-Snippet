@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[handleLoadedTexture(${1:premultiplied?})]]></content>
+	<tabTrigger>handleLoadedTexture(premultiplied?)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Texture2D</description>
+</snippet>

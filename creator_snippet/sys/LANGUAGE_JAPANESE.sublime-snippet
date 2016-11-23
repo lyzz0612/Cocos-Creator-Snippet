@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LANGUAGE_JAPANESE]]></content>
+	<tabTrigger>sys.LANGUAGE_JAPANESE</tabTrigger>
+	<scope>source.js</scope>
+	<description>sys</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[totalCount]]></content>
+	<tabTrigger>LoadingItems.totalCount</tabTrigger>
+	<scope>source.js</scope>
+	<description>LoadingItems</description>
+</snippet>

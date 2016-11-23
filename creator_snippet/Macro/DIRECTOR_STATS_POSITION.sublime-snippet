@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Macro.DIRECTOR_STATS_POSITION]]></content>
+	<tabTrigger>Macro.DIRECTOR_STATS_POSITION</tabTrigger>
+	<scope>source.js</scope>
+	<description>Macro</description>
+</snippet>

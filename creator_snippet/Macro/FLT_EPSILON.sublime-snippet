@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Macro.FLT_EPSILON]]></content>
+	<tabTrigger>Macro.FLT_EPSILON</tabTrigger>
+	<scope>source.js</scope>
+	<description>Macro</description>
+</snippet>

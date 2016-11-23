@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.PluginProtocol]]></content>
+	<tabTrigger>cc.PluginProtocol</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

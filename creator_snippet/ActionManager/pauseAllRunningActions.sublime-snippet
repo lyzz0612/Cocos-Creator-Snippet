@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[pauseAllRunningActions(${1:})]]></content>
+	<tabTrigger>pauseAllRunningActions()</tabTrigger>
+	<scope>source.js</scope>
+	<description>ActionManager</description>
+</snippet>

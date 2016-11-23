@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.pool]]></content>
+	<tabTrigger>cc.pool</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

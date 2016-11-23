@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[onUse(${1:paramMap})]]></content>
+	<tabTrigger>onUse(paramMap)</tabTrigger>
+	<scope>source.js</scope>
+	<description>ProtocolAnalytics</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setSessionContinueMillis(${1:millis})]]></content>
+	<tabTrigger>setSessionContinueMillis(millis)</tabTrigger>
+	<scope>source.js</scope>
+	<description>ProtocolAnalytics</description>
+</snippet>

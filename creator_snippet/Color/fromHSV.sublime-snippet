@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[fromHSV(${1:h}, ${2:s}, ${3:v})]]></content>
+	<tabTrigger>fromHSV(h, s, v)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Color</description>
+</snippet>

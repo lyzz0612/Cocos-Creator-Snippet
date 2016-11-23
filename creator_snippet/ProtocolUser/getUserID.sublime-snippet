@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getUserID(${1:})]]></content>
+	<tabTrigger>getUserID()</tabTrigger>
+	<scope>source.js</scope>
+	<description>ProtocolUser</description>
+</snippet>

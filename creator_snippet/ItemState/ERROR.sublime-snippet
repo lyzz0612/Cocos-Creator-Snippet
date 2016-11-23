@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ItemState.ERROR]]></content>
+	<tabTrigger>ItemState.ERROR</tabTrigger>
+	<scope>source.js</scope>
+	<description>ItemState</description>
+</snippet>

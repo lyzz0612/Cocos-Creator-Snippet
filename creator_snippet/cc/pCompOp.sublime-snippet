@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.pCompOp(${1:p}, ${2:opFunc})]]></content>
+	<tabTrigger>cc.pCompOp(p, opFunc)	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

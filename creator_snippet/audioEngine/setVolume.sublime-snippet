@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setVolume(${1:audioID}, ${2:volume})]]></content>
+	<tabTrigger>setVolume(audioID, volume)</tabTrigger>
+	<scope>source.js</scope>
+	<description>audioEngine</description>
+</snippet>

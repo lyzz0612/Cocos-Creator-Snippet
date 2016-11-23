@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EventType.BOUNCE_LEFT]]></content>
+	<tabTrigger>EventType.BOUNCE_LEFT</tabTrigger>
+	<scope>source.js</scope>
+	<description>EventType</description>
+</snippet>

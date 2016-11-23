@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.pToAngle(${1:v})]]></content>
+	<tabTrigger>cc.pToAngle(v)	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

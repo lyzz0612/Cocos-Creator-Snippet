@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[affineTransformRotate(${1:aTransform}, ${2:anAngle})]]></content>
+	<tabTrigger>affineTransformRotate(aTransform, anAngle)</tabTrigger>
+	<scope>source.js</scope>
+	<description>AffineTransform</description>
+</snippet>

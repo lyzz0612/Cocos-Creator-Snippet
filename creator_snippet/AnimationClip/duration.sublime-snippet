@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[duration]]></content>
+	<tabTrigger>AnimationClip.duration</tabTrigger>
+	<scope>source.js</scope>
+	<description>AnimationClip</description>
+</snippet>

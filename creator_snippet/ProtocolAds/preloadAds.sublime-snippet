@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[preloadAds(${1:adstype}, ${2:idx})]]></content>
+	<tabTrigger>preloadAds(adstype, idx)</tabTrigger>
+	<scope>source.js</scope>
+	<description>ProtocolAds</description>
+</snippet>

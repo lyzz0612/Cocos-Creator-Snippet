@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[totalLength]]></content>
+	<tabTrigger>ProgressBar.totalLength</tabTrigger>
+	<scope>source.js</scope>
+	<description>ProgressBar</description>
+</snippet>

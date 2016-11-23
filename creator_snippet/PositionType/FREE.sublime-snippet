@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PositionType.FREE]]></content>
+	<tabTrigger>PositionType.FREE</tabTrigger>
+	<scope>source.js</scope>
+	<description>PositionType</description>
+</snippet>

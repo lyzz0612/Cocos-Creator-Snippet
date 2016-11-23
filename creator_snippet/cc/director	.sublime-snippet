@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.director	]]></content>
+	<tabTrigger>cc.director	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

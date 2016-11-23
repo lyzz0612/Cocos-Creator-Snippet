@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[fillCenter]]></content>
+	<tabTrigger>Sprite.fillCenter</tabTrigger>
+	<scope>source.js</scope>
+	<description>Sprite</description>
+</snippet>

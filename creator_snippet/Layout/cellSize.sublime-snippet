@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cellSize]]></content>
+	<tabTrigger>Layout.cellSize</tabTrigger>
+	<scope>source.js</scope>
+	<description>Layout</description>
+</snippet>

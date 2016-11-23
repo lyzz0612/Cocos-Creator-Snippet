@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setMetaData(${1:info})]]></content>
+	<tabTrigger>setMetaData(info)</tabTrigger>
+	<scope>source.js</scope>
+	<description>ProtocolREC</description>
+</snippet>

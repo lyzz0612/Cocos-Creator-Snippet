@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.easeBezierAction(${1:p0}, ${2:p1}, ${3:p2}, ${4:p3})]]></content>
+	<tabTrigger>cc.easeBezierAction(p0, p1, p2, p3)	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

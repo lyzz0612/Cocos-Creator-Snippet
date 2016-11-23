@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[_getLocalBounds(${1:out_rect})]]></content>
+	<tabTrigger>_getLocalBounds(out_rect)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Component</description>
+</snippet>

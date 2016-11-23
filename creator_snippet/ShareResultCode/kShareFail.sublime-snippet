@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ShareResultCode.kShareFail]]></content>
+	<tabTrigger>ShareResultCode.kShareFail</tabTrigger>
+	<scope>source.js</scope>
+	<description>ShareResultCode</description>
+</snippet>

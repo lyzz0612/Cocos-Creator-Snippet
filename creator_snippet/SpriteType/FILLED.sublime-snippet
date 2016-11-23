@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SpriteType.FILLED]]></content>
+	<tabTrigger>SpriteType.FILLED</tabTrigger>
+	<scope>source.js</scope>
+	<description>SpriteType</description>
+</snippet>

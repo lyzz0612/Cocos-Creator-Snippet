@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NO_TYPE]]></content>
+	<tabTrigger>Event.NO_TYPE</tabTrigger>
+	<scope>source.js</scope>
+	<description>Event</description>
+</snippet>

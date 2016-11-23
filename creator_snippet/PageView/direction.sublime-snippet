@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[direction]]></content>
+	<tabTrigger>PageView.direction</tabTrigger>
+	<scope>source.js</scope>
+	<description>PageView</description>
+</snippet>

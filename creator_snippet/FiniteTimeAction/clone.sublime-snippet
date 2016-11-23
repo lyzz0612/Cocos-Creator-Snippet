@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[clone(${1:})]]></content>
+	<tabTrigger>clone()</tabTrigger>
+	<scope>source.js</scope>
+	<description>FiniteTimeAction</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WrapMode.REPEAT]]></content>
+	<tabTrigger>WrapMode.REPEAT</tabTrigger>
+	<scope>source.js</scope>
+	<description>WrapMode</description>
+</snippet>

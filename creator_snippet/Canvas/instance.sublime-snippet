@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[instance]]></content>
+	<tabTrigger>Canvas.instance</tabTrigger>
+	<scope>source.js</scope>
+	<description>Canvas</description>
+</snippet>

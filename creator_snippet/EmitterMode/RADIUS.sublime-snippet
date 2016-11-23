@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EmitterMode.RADIUS]]></content>
+	<tabTrigger>EmitterMode.RADIUS</tabTrigger>
+	<scope>source.js</scope>
+	<description>EmitterMode</description>
+</snippet>

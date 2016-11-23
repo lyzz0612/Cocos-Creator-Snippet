@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.rectOverlapsRect(${1:rectA}, ${2:rectB})]]></content>
+	<tabTrigger>cc.rectOverlapsRect(rectA, rectB)	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

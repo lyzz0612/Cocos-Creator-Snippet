@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[time]]></content>
+	<tabTrigger>AnimationNode.time</tabTrigger>
+	<scope>source.js</scope>
+	<description>AnimationNode</description>
+</snippet>

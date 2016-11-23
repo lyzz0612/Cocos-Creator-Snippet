@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Macro.SRC_ALPHA]]></content>
+	<tabTrigger>Macro.SRC_ALPHA</tabTrigger>
+	<scope>source.js</scope>
+	<description>Macro</description>
+</snippet>

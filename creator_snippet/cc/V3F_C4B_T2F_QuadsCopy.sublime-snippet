@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.V3F_C4B_T2F_QuadsCopy(${1:sourceQuads})]]></content>
+	<tabTrigger>cc.V3F_C4B_T2F_QuadsCopy(sourceQuads)	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getTileSet(${1:})]]></content>
+	<tabTrigger>getTileSet()</tabTrigger>
+	<scope>source.js</scope>
+	<description>TiledLayer</description>
+</snippet>

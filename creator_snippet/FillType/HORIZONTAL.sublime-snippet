@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FillType.HORIZONTAL]]></content>
+	<tabTrigger>FillType.HORIZONTAL</tabTrigger>
+	<scope>source.js</scope>
+	<description>FillType</description>
+</snippet>

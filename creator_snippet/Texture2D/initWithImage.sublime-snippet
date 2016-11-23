@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[initWithImage(${1:uiImage})]]></content>
+	<tabTrigger>initWithImage(uiImage)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Texture2D</description>
+</snippet>

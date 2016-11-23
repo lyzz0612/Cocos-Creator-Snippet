@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[inputFlag]]></content>
+	<tabTrigger>EditBox.inputFlag</tabTrigger>
+	<scope>source.js</scope>
+	<description>EditBox</description>
+</snippet>

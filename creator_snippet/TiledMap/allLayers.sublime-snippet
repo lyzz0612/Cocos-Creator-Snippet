@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[allLayers(${1:})]]></content>
+	<tabTrigger>allLayers()</tabTrigger>
+	<scope>source.js</scope>
+	<description>TiledMap</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[check(${1:})]]></content>
+	<tabTrigger>check()</tabTrigger>
+	<scope>source.js</scope>
+	<description>Toggle</description>
+</snippet>

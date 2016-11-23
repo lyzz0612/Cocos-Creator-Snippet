@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getMapOrientation(${1:})]]></content>
+	<tabTrigger>getMapOrientation()</tabTrigger>
+	<scope>source.js</scope>
+	<description>TiledMap</description>
+</snippet>

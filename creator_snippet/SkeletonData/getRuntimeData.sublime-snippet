@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getRuntimeData(${1:quiet?})]]></content>
+	<tabTrigger>getRuntimeData(quiet?)</tabTrigger>
+	<scope>source.js</scope>
+	<description>SkeletonData</description>
+</snippet>

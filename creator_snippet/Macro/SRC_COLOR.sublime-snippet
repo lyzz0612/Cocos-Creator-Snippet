@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Macro.SRC_COLOR]]></content>
+	<tabTrigger>Macro.SRC_COLOR</tabTrigger>
+	<scope>source.js</scope>
+	<description>Macro</description>
+</snippet>

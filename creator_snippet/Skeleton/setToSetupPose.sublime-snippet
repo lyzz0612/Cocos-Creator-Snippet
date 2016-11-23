@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setToSetupPose(${1:})]]></content>
+	<tabTrigger>setToSetupPose()</tabTrigger>
+	<scope>source.js</scope>
+	<description>Skeleton</description>
+</snippet>

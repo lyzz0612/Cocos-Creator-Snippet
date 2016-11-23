@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AccountType.TENCENT_WEIBO]]></content>
+	<tabTrigger>AccountType.TENCENT_WEIBO</tabTrigger>
+	<scope>source.js</scope>
+	<description>AccountType</description>
+</snippet>

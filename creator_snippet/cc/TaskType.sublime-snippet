@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.TaskType]]></content>
+	<tabTrigger>cc.TaskType</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

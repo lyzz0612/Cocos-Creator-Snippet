@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[spacingX]]></content>
+	<tabTrigger>Layout.spacingX</tabTrigger>
+	<scope>source.js</scope>
+	<description>Layout</description>
+</snippet>

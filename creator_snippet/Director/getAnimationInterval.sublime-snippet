@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getAnimationInterval(${1:})]]></content>
+	<tabTrigger>getAnimationInterval()</tabTrigger>
+	<scope>source.js</scope>
+	<description>Director</description>
+</snippet>

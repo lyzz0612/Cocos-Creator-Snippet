@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[_defaultSkinIndex]]></content>
+	<tabTrigger>Skeleton._defaultSkinIndex</tabTrigger>
+	<scope>source.js</scope>
+	<description>Skeleton</description>
+</snippet>

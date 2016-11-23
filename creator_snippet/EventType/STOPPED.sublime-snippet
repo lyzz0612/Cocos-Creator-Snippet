@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EventType.STOPPED]]></content>
+	<tabTrigger>EventType.STOPPED</tabTrigger>
+	<scope>source.js</scope>
+	<description>EventType</description>
+</snippet>

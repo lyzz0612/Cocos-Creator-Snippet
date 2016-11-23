@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[miterLimit]]></content>
+	<tabTrigger>Graphics.miterLimit</tabTrigger>
+	<scope>source.js</scope>
+	<description>Graphics</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setViewport(${1:})]]></content>
+	<tabTrigger>setViewport()</tabTrigger>
+	<scope>source.js</scope>
+	<description>Director</description>
+</snippet>

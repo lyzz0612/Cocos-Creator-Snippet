@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[convertToLocationInView(${1:tx}, ${2:ty}, ${3:relatedPos})]]></content>
+	<tabTrigger>convertToLocationInView(tx, ty, relatedPos)</tabTrigger>
+	<scope>source.js</scope>
+	<description>View</description>
+</snippet>

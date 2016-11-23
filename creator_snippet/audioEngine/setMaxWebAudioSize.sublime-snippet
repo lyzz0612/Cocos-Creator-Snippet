@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setMaxWebAudioSize(${1:kb})]]></content>
+	<tabTrigger>setMaxWebAudioSize(kb)</tabTrigger>
+	<scope>source.js</scope>
+	<description>audioEngine</description>
+</snippet>

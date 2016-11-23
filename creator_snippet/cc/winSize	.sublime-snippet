@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.winSize	]]></content>
+	<tabTrigger>cc.winSize	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

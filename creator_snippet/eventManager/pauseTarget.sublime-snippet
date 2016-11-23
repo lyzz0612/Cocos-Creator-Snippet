@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[pauseTarget(${1:node}, ${2:recursive})]]></content>
+	<tabTrigger>pauseTarget(node, recursive)</tabTrigger>
+	<scope>source.js</scope>
+	<description>eventManager</description>
+</snippet>

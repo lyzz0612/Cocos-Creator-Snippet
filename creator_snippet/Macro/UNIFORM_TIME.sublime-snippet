@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Macro.UNIFORM_TIME]]></content>
+	<tabTrigger>Macro.UNIFORM_TIME</tabTrigger>
+	<scope>source.js</scope>
+	<description>Macro</description>
+</snippet>

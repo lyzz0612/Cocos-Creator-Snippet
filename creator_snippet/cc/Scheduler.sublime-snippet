@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.Scheduler]]></content>
+	<tabTrigger>cc.Scheduler</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

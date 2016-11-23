@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Macro.ATTRIBUTE_NAME_COLOR]]></content>
+	<tabTrigger>Macro.ATTRIBUTE_NAME_COLOR</tabTrigger>
+	<scope>source.js</scope>
+	<description>Macro</description>
+</snippet>

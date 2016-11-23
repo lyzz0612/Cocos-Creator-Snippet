@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[js.formatStr(${1:})]]></content>
+	<tabTrigger>js.formatStr()		</tabTrigger>
+	<scope>source.js</scope>
+	<description>js</description>
+</snippet>

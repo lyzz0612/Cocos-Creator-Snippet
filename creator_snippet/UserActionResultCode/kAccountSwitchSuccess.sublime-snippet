@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UserActionResultCode.kAccountSwitchSuccess]]></content>
+	<tabTrigger>UserActionResultCode.kAccountSwitchSuccess</tabTrigger>
+	<scope>source.js</scope>
+	<description>UserActionResultCode</description>
+</snippet>

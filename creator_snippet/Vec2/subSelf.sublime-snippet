@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[subSelf(${1:vector})]]></content>
+	<tabTrigger>subSelf(vector)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Vec2</description>
+</snippet>

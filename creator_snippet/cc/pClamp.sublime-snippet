@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.pClamp(${1:p}, ${2:min_inclusive}, ${3:max_inclusive})]]></content>
+	<tabTrigger>cc.pClamp(p, min_inclusive, max_inclusive)	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

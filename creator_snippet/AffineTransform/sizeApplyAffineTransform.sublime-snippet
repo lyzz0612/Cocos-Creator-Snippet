@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[sizeApplyAffineTransform(${1:size}, ${2:t})]]></content>
+	<tabTrigger>sizeApplyAffineTransform(size, t)</tabTrigger>
+	<scope>source.js</scope>
+	<description>AffineTransform</description>
+</snippet>

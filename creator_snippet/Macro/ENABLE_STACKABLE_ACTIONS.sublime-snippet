@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Macro.ENABLE_STACKABLE_ACTIONS]]></content>
+	<tabTrigger>Macro.ENABLE_STACKABLE_ACTIONS</tabTrigger>
+	<scope>source.js</scope>
+	<description>Macro</description>
+</snippet>

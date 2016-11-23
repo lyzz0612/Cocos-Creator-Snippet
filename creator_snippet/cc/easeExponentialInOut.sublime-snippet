@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.easeExponentialInOut(${1:})]]></content>
+	<tabTrigger>cc.easeExponentialInOut()	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

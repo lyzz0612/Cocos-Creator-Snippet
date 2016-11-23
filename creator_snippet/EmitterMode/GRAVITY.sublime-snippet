@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EmitterMode.GRAVITY]]></content>
+	<tabTrigger>EmitterMode.GRAVITY</tabTrigger>
+	<scope>source.js</scope>
+	<description>EmitterMode</description>
+</snippet>

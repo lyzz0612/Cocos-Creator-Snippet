@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[fromHEX(${1:hexString})]]></content>
+	<tabTrigger>fromHEX(hexString)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Color</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[clip]]></content>
+	<tabTrigger>AnimationState.clip</tabTrigger>
+	<scope>source.js</scope>
+	<description>AnimationState</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setTargetDensityDPI(${1:densityDPI})]]></content>
+	<tabTrigger>setTargetDensityDPI(densityDPI)</tabTrigger>
+	<scope>source.js</scope>
+	<description>View</description>
+</snippet>

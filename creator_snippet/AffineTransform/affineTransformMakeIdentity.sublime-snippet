@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[affineTransformMakeIdentity(${1:})]]></content>
+	<tabTrigger>affineTransformMakeIdentity()</tabTrigger>
+	<scope>source.js</scope>
+	<description>AffineTransform</description>
+</snippet>

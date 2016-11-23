@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[V2F_C4B_T2F_Triangle(${1:a}, ${2:b}, ${3:c}, ${4:arrayBuffer}, ${5:offset})]]></content>
+	<tabTrigger>V2F_C4B_T2F_Triangle(a, b, c, arrayBuffer, offset)</tabTrigger>
+	<scope>source.js</scope>
+	<description>V2F_C4B_T2F_Triangle</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ToolBarPlace.kToolBarBottomRight]]></content>
+	<tabTrigger>ToolBarPlace.kToolBarBottomRight</tabTrigger>
+	<scope>source.js</scope>
+	<description>ToolBarPlace</description>
+</snippet>

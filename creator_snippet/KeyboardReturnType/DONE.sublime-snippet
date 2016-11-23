@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[KeyboardReturnType.DONE]]></content>
+	<tabTrigger>KeyboardReturnType.DONE</tabTrigger>
+	<scope>source.js</scope>
+	<description>KeyboardReturnType</description>
+</snippet>

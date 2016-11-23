@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Macro.checkGLErrorDebug]]></content>
+	<tabTrigger>Macro.checkGLErrorDebug</tabTrigger>
+	<scope>source.js</scope>
+	<description>Macro</description>
+</snippet>

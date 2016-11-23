@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getOffset(${1:})]]></content>
+	<tabTrigger>getOffset()</tabTrigger>
+	<scope>source.js</scope>
+	<description>SpriteFrame</description>
+</snippet>

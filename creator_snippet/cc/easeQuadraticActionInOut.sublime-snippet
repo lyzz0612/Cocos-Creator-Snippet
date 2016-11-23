@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.easeQuadraticActionInOut(${1:})]]></content>
+	<tabTrigger>cc.easeQuadraticActionInOut()	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

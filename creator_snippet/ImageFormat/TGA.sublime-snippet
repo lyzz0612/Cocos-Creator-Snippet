@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ImageFormat.TGA]]></content>
+	<tabTrigger>ImageFormat.TGA</tabTrigger>
+	<scope>source.js</scope>
+	<description>ImageFormat</description>
+</snippet>

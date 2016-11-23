@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[unloadAllPlugins(${1:})]]></content>
+	<tabTrigger>unloadAllPlugins()</tabTrigger>
+	<scope>source.js</scope>
+	<description>AgentManager</description>
+</snippet>

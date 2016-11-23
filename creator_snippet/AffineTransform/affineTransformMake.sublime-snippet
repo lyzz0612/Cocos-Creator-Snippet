@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[affineTransformMake(${1:a}, ${2:b}, ${3:c}, ${4:d}, ${5:tx}, ${6:ty})]]></content>
+	<tabTrigger>affineTransformMake(a, b, c, d, tx, ty)</tabTrigger>
+	<scope>source.js</scope>
+	<description>AffineTransform</description>
+</snippet>

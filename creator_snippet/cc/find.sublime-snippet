@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.find(${1:path}, ${2:referenceNode?})]]></content>
+	<tabTrigger>cc.find(path, referenceNode?)	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

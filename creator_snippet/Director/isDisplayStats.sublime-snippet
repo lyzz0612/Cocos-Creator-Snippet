@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isDisplayStats(${1:})]]></content>
+	<tabTrigger>isDisplayStats()</tabTrigger>
+	<scope>source.js</scope>
+	<description>Director</description>
+</snippet>

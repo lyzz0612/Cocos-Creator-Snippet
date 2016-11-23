@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[playTimes]]></content>
+	<tabTrigger>ArmatureDisplay.playTimes</tabTrigger>
+	<scope>source.js</scope>
+	<description>ArmatureDisplay</description>
+</snippet>

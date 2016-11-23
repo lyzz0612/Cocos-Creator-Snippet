@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[play(${1:filePath}, ${2:loop}, ${3:volume})]]></content>
+	<tabTrigger>play(filePath, loop, volume)</tabTrigger>
+	<scope>source.js</scope>
+	<description>audioEngine</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getEventCode(${1:})]]></content>
+	<tabTrigger>getEventCode()</tabTrigger>
+	<scope>source.js</scope>
+	<description>EventTouch</description>
+</snippet>

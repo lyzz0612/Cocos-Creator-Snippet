@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[autoRemoveOnFinish]]></content>
+	<tabTrigger>ParticleSystem.autoRemoveOnFinish</tabTrigger>
+	<scope>source.js</scope>
+	<description>ParticleSystem</description>
+</snippet>

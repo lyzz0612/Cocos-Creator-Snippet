@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Macro.UINT_MAX]]></content>
+	<tabTrigger>Macro.UINT_MAX</tabTrigger>
+	<scope>source.js</scope>
+	<description>Macro</description>
+</snippet>

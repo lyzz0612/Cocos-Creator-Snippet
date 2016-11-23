@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[rewind(${1:})]]></content>
+	<tabTrigger>rewind()</tabTrigger>
+	<scope>source.js</scope>
+	<description>AudioSource</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getInstance(${1:})]]></content>
+	<tabTrigger>getInstance()</tabTrigger>
+	<scope>source.js</scope>
+	<description>AgentManager</description>
+</snippet>

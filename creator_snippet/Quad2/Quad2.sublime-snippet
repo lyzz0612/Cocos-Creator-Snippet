@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Quad2(${1:tl}, ${2:tr}, ${3:bl}, ${4:br}, ${5:arrayBuffer}, ${6:offset})]]></content>
+	<tabTrigger>Quad2(tl, tr, bl, br, arrayBuffer, offset)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Quad2</description>
+</snippet>

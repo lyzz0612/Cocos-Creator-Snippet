@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[stopRecording(${1:})]]></content>
+	<tabTrigger>stopRecording()</tabTrigger>
+	<scope>source.js</scope>
+	<description>ProtocolREC</description>
+</snippet>

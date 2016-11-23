@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[hasObject(${1:objClass})]]></content>
+	<tabTrigger>hasObject(objClass)</tabTrigger>
+	<scope>source.js</scope>
+	<description>pool</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getVisibleOriginInPixel(${1:})]]></content>
+	<tabTrigger>getVisibleOriginInPixel()</tabTrigger>
+	<scope>source.js</scope>
+	<description>View</description>
+</snippet>

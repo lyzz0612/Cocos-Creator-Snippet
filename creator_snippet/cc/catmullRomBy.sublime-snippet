@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.catmullRomBy(${1:dt}, ${2:points})]]></content>
+	<tabTrigger>cc.catmullRomBy(dt, points)	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

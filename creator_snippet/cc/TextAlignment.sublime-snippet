@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.TextAlignment]]></content>
+	<tabTrigger>cc.TextAlignment</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

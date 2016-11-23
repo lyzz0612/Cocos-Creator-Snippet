@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.easeCubicActionOut(${1:})]]></content>
+	<tabTrigger>cc.easeCubicActionOut()	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

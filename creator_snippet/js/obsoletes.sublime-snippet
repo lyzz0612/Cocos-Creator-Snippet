@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[js.obsoletes(${1:obj}, ${2:objName}, ${3:props}, ${4:writable?})]]></content>
+	<tabTrigger>js.obsoletes(obj, objName, props, writable?)	</tabTrigger>
+	<scope>source.js</scope>
+	<description>js</description>
+</snippet>

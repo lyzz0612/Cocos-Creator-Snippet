@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[js.clear(${1:obj})]]></content>
+	<tabTrigger>js.clear(obj)	</tabTrigger>
+	<scope>source.js</scope>
+	<description>js</description>
+</snippet>

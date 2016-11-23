@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[_defaultArmatureIndex]]></content>
+	<tabTrigger>ArmatureDisplay._defaultArmatureIndex</tabTrigger>
+	<scope>source.js</scope>
+	<description>ArmatureDisplay</description>
+</snippet>

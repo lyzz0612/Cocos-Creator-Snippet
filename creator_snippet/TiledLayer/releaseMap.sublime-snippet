@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[releaseMap(${1:})]]></content>
+	<tabTrigger>releaseMap()</tabTrigger>
+	<scope>source.js</scope>
+	<description>TiledLayer</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getScheduler(${1:})]]></content>
+	<tabTrigger>getScheduler()</tabTrigger>
+	<scope>source.js</scope>
+	<description>Director</description>
+</snippet>

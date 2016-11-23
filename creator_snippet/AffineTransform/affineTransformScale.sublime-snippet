@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[affineTransformScale(${1:t}, ${2:sx}, ${3:sy})]]></content>
+	<tabTrigger>affineTransformScale(t, sx, sy)</tabTrigger>
+	<scope>source.js</scope>
+	<description>AffineTransform</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[events]]></content>
+	<tabTrigger>AnimationClip.events</tabTrigger>
+	<scope>source.js</scope>
+	<description>AnimationClip</description>
+</snippet>

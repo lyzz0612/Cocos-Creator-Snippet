@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[appendObjectsAt(${1:array}, ${2:addObjs}, ${3:index})]]></content>
+	<tabTrigger>appendObjectsAt(array, addObjs, index)</tabTrigger>
+	<scope>source.js</scope>
+	<description>array</description>
+</snippet>

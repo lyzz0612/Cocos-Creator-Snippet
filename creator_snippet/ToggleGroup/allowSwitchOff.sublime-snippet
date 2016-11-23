@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[allowSwitchOff]]></content>
+	<tabTrigger>ToggleGroup.allowSwitchOff</tabTrigger>
+	<scope>source.js</scope>
+	<description>ToggleGroup</description>
+</snippet>

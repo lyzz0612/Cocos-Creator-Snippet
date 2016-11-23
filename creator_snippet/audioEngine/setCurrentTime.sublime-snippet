@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setCurrentTime(${1:audioID}, ${2:sec})]]></content>
+	<tabTrigger>setCurrentTime(audioID, sec)</tabTrigger>
+	<scope>source.js</scope>
+	<description>audioEngine</description>
+</snippet>

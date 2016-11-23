@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isRetinaEnabled(${1:})]]></content>
+	<tabTrigger>isRetinaEnabled()</tabTrigger>
+	<scope>source.js</scope>
+	<description>View</description>
+</snippet>

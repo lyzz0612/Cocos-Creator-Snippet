@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[targetOff(${1:target})]]></content>
+	<tabTrigger>targetOff(target)</tabTrigger>
+	<scope>source.js</scope>
+	<description>EventTarget</description>
+</snippet>

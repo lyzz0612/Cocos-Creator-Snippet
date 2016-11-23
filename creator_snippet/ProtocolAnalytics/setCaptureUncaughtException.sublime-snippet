@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setCaptureUncaughtException(${1:enabled})]]></content>
+	<tabTrigger>setCaptureUncaughtException(enabled)</tabTrigger>
+	<scope>source.js</scope>
+	<description>ProtocolAnalytics</description>
+</snippet>

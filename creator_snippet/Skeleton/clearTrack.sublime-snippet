@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[clearTrack(${1:trackIndex})]]></content>
+	<tabTrigger>clearTrack(trackIndex)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Skeleton</description>
+</snippet>

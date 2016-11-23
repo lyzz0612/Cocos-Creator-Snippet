@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[handleTouchesBegin(${1:touches})]]></content>
+	<tabTrigger>handleTouchesBegin(touches)</tabTrigger>
+	<scope>source.js</scope>
+	<description>inputManager</description>
+</snippet>

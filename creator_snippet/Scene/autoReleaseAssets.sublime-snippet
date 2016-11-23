@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[autoReleaseAssets]]></content>
+	<tabTrigger>Scene.autoReleaseAssets</tabTrigger>
+	<scope>source.js</scope>
+	<description>Scene</description>
+</snippet>

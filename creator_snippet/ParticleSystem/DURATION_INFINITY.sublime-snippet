@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DURATION_INFINITY]]></content>
+	<tabTrigger>ParticleSystem.DURATION_INFINITY</tabTrigger>
+	<scope>source.js</scope>
+	<description>ParticleSystem</description>
+</snippet>

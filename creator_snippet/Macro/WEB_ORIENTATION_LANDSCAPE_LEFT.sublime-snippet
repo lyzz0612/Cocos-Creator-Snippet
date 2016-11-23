@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Macro.WEB_ORIENTATION_LANDSCAPE_LEFT]]></content>
+	<tabTrigger>Macro.WEB_ORIENTATION_LANDSCAPE_LEFT</tabTrigger>
+	<scope>source.js</scope>
+	<description>Macro</description>
+</snippet>

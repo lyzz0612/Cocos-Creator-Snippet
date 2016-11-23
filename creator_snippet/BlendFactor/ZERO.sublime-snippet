@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BlendFactor.ZERO]]></content>
+	<tabTrigger>BlendFactor.ZERO</tabTrigger>
+	<scope>source.js</scope>
+	<description>BlendFactor</description>
+</snippet>

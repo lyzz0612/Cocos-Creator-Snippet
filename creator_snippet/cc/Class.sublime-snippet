@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.Class(${1:options})]]></content>
+	<tabTrigger>cc.Class(options)	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

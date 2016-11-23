@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[height]]></content>
+	<tabTrigger>Texture2D.height</tabTrigger>
+	<scope>source.js</scope>
+	<description>Texture2D</description>
+</snippet>

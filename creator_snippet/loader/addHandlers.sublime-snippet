@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[addHandlers(${1:extMap})]]></content>
+	<tabTrigger>addHandlers(extMap)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Loader</description>
+</snippet>

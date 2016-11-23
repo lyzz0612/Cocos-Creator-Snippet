@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BROWSER_TYPE_FIREFOX]]></content>
+	<tabTrigger>sys.BROWSER_TYPE_FIREFOX</tabTrigger>
+	<scope>source.js</scope>
+	<description>sys</description>
+</snippet>

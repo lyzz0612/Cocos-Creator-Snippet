@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getButton(${1:})]]></content>
+	<tabTrigger>getButton()</tabTrigger>
+	<scope>source.js</scope>
+	<description>EventMouse</description>
+</snippet>

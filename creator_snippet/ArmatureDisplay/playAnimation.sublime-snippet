@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[playAnimation(${1:animName}, ${2:playTimes})]]></content>
+	<tabTrigger>playAnimation(animName, playTimes)</tabTrigger>
+	<scope>source.js</scope>
+	<description>ArmatureDisplay</description>
+</snippet>

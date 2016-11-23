@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getScaleY(${1:})]]></content>
+	<tabTrigger>getScaleY()</tabTrigger>
+	<scope>source.js</scope>
+	<description>View</description>
+</snippet>

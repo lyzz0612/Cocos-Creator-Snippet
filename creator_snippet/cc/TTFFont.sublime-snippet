@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.TTFFont]]></content>
+	<tabTrigger>cc.TTFFont</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

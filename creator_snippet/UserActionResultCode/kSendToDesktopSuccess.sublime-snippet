@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UserActionResultCode.kSendToDesktopSuccess]]></content>
+	<tabTrigger>UserActionResultCode.kSendToDesktopSuccess</tabTrigger>
+	<scope>source.js</scope>
+	<description>UserActionResultCode</description>
+</snippet>

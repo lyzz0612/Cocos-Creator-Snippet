@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Macro.BLEND_SRC]]></content>
+	<tabTrigger>Macro.BLEND_SRC</tabTrigger>
+	<scope>source.js</scope>
+	<description>Macro</description>
+</snippet>

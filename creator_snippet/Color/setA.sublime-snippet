@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setA(${1:alpha})]]></content>
+	<tabTrigger>setA(alpha)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Color</description>
+</snippet>

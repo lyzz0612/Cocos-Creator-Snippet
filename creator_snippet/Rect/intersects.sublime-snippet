@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[intersects(${1:rect})]]></content>
+	<tabTrigger>intersects(rect)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Rect</description>
+</snippet>

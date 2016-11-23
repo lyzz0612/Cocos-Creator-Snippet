@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[flowInDeps(${1:urlList}, ${2:callback})]]></content>
+	<tabTrigger>flowInDeps(urlList, callback)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Pipeline</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EventType.SCROLL_TO_LEFT]]></content>
+	<tabTrigger>EventType.SCROLL_TO_LEFT</tabTrigger>
+	<scope>source.js</scope>
+	<description>EventType</description>
+</snippet>

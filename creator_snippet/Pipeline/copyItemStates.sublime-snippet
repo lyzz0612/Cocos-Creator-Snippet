@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[copyItemStates(${1:srcItem}, ${2:dstItems})]]></content>
+	<tabTrigger>copyItemStates(srcItem, dstItems)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Pipeline</description>
+</snippet>

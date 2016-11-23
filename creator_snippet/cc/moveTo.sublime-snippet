@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.moveTo(${1:duration}, ${2:position}, ${3:y})]]></content>
+	<tabTrigger>cc.moveTo(duration, position, y)	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

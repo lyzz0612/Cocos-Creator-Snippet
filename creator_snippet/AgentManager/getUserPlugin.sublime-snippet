@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getUserPlugin(${1:})]]></content>
+	<tabTrigger>getUserPlugin()</tabTrigger>
+	<scope>source.js</scope>
+	<description>AgentManager</description>
+</snippet>

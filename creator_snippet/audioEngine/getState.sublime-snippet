@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getState(${1:audioID}, ${2:callback})]]></content>
+	<tabTrigger>getState(audioID, callback)</tabTrigger>
+	<scope>source.js</scope>
+	<description>audioEngine</description>
+</snippet>

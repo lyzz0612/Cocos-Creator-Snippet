@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[insertPipe(${1:pipe}, ${2:index})]]></content>
+	<tabTrigger>insertPipe(pipe, index)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Pipeline</description>
+</snippet>

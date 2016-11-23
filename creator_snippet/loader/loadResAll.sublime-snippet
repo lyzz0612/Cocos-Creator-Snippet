@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[loadResAll(${1:url}, ${2:type?}, ${3:completeCallback})]]></content>
+	<tabTrigger>loadResAll(url, type?, completeCallback)</tabTrigger>
+	<scope>source.js</scope>
+	<description>loader</description>
+</snippet>

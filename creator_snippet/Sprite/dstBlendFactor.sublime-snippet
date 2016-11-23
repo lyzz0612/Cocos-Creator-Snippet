@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[dstBlendFactor]]></content>
+	<tabTrigger>Sprite.dstBlendFactor</tabTrigger>
+	<scope>source.js</scope>
+	<description>Sprite</description>
+</snippet>

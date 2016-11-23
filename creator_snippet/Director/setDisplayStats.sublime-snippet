@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setDisplayStats(${1:displayStats})]]></content>
+	<tabTrigger>setDisplayStats(displayStats)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Director</description>
+</snippet>

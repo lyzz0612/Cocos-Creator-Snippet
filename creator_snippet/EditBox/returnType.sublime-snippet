@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[returnType]]></content>
+	<tabTrigger>EditBox.returnType</tabTrigger>
+	<scope>source.js</scope>
+	<description>EditBox</description>
+</snippet>

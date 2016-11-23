@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getPluginId(${1:})]]></content>
+	<tabTrigger>getPluginId()</tabTrigger>
+	<scope>source.js</scope>
+	<description>ProtocolIAP</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getTotalFrames(${1:})]]></content>
+	<tabTrigger>getTotalFrames()</tabTrigger>
+	<scope>source.js</scope>
+	<description>Director</description>
+</snippet>

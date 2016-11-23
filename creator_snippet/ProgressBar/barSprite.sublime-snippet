@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[barSprite]]></content>
+	<tabTrigger>ProgressBar.barSprite</tabTrigger>
+	<scope>source.js</scope>
+	<description>ProgressBar</description>
+</snippet>

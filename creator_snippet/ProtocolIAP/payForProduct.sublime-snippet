@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[payForProduct(${1:info})]]></content>
+	<tabTrigger>payForProduct(info)</tabTrigger>
+	<scope>source.js</scope>
+	<description>ProtocolIAP</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[convertToUI(${1:glPoint})]]></content>
+	<tabTrigger>convertToUI(glPoint)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Director</description>
+</snippet>

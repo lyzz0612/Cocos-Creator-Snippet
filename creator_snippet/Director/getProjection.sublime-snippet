@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getProjection(${1:})]]></content>
+	<tabTrigger>getProjection()</tabTrigger>
+	<scope>source.js</scope>
+	<description>Director</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[removeClip(${1:clip}, ${2:force})]]></content>
+	<tabTrigger>removeClip(clip, force)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Animation</description>
+</snippet>

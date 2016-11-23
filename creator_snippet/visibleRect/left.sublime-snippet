@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[left]]></content>
+	<tabTrigger>visibleRect.left</tabTrigger>
+	<scope>source.js</scope>
+	<description>visibleRect</description>
+</snippet>

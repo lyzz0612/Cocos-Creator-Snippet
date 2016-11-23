@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[fitWidth]]></content>
+	<tabTrigger>Canvas.fitWidth</tabTrigger>
+	<scope>source.js</scope>
+	<description>Canvas</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ellipse(${1:cx?}, ${2:cy?}, ${3:rx?}, ${4:ry?})]]></content>
+	<tabTrigger>ellipse(cx?, cy?, rx?, ry?)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Graphics</description>
+</snippet>

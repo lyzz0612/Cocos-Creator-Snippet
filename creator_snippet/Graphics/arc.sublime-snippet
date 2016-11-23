@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[arc(${1:cx?}, ${2:cy?}, ${3:r?}, ${4:startAngle?}, ${5:endAngle?}, ${6:counterclockwise?})]]></content>
+	<tabTrigger>arc(cx?, cy?, r?, startAngle?, endAngle?, counterclockwise?)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Graphics</description>
+</snippet>

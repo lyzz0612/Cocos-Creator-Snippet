@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[bubbles]]></content>
+	<tabTrigger>Event.bubbles</tabTrigger>
+	<scope>source.js</scope>
+	<description>Event</description>
+</snippet>

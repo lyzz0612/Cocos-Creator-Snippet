@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AdsResultCode.kInAppPurchaseFinished]]></content>
+	<tabTrigger>AdsResultCode.kInAppPurchaseFinished</tabTrigger>
+	<scope>source.js</scope>
+	<description>AdsResultCode</description>
+</snippet>

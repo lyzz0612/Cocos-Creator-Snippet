@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[removeListeners(${1:listenerType}, ${2:recursive})]]></content>
+	<tabTrigger>removeListeners(listenerType, recursive)</tabTrigger>
+	<scope>source.js</scope>
+	<description>eventManager</description>
+</snippet>

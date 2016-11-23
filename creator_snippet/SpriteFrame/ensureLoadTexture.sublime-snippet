@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ensureLoadTexture(${1:})]]></content>
+	<tabTrigger>ensureLoadTexture()</tabTrigger>
+	<scope>source.js</scope>
+	<description>SpriteFrame</description>
+</snippet>

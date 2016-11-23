@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Macro.ORIENTATION_AUTO]]></content>
+	<tabTrigger>Macro.ORIENTATION_AUTO</tabTrigger>
+	<scope>source.js</scope>
+	<description>Macro</description>
+</snippet>

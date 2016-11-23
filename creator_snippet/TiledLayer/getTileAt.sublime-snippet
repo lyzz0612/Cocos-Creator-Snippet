@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getTileAt(${1:pos}, ${2:y?})]]></content>
+	<tabTrigger>getTileAt(pos, y?)</tabTrigger>
+	<scope>source.js</scope>
+	<description>TiledLayer</description>
+</snippet>

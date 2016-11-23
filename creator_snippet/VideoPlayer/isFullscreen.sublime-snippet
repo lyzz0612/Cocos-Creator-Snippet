@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isFullscreen]]></content>
+	<tabTrigger>VideoPlayer.isFullscreen</tabTrigger>
+	<scope>source.js</scope>
+	<description>VideoPlayer</description>
+</snippet>

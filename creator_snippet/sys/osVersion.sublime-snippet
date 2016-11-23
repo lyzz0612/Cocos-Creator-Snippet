@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[osVersion]]></content>
+	<tabTrigger>sys.osVersion</tabTrigger>
+	<scope>source.js</scope>
+	<description>sys</description>
+</snippet>

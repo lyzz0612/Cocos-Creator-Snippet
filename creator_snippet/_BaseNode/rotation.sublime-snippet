@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[rotation]]></content>
+	<tabTrigger>_BaseNode.rotation</tabTrigger>
+	<scope>source.js</scope>
+	<description>_BaseNode</description>
+</snippet>

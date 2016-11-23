@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cacheImage(${1:path}, ${2:texture})]]></content>
+	<tabTrigger>cacheImage(path, texture)</tabTrigger>
+	<scope>source.js</scope>
+	<description>textureCache</description>
+</snippet>

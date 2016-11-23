@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.Enum(${1:obj})]]></content>
+	<tabTrigger>cc.Enum(obj)	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

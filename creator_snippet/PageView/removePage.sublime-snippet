@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[removePage(${1:page})]]></content>
+	<tabTrigger>removePage(page)</tabTrigger>
+	<scope>source.js</scope>
+	<description>PageView</description>
+</snippet>

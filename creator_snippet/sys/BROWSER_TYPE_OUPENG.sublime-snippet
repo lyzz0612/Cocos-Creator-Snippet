@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BROWSER_TYPE_OUPENG]]></content>
+	<tabTrigger>sys.BROWSER_TYPE_OUPENG</tabTrigger>
+	<scope>source.js</scope>
+	<description>sys</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BlendFunc(${1:src1}, ${2:dst1})]]></content>
+	<tabTrigger>BlendFunc(src1, dst1)</tabTrigger>
+	<scope>source.js</scope>
+	<description>BlendFunc</description>
+</snippet>

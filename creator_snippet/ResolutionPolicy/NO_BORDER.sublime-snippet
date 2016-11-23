@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NO_BORDER]]></content>
+	<tabTrigger>ResolutionPolicy.NO_BORDER</tabTrigger>
+	<scope>source.js</scope>
+	<description>ResolutionPolicy</description>
+</snippet>

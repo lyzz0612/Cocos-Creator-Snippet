@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getOriginalSize(${1:})]]></content>
+	<tabTrigger>getOriginalSize()</tabTrigger>
+	<scope>source.js</scope>
+	<description>SpriteFrame</description>
+</snippet>

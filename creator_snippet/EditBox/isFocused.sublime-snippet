@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isFocused(${1:})]]></content>
+	<tabTrigger>isFocused()</tabTrigger>
+	<scope>source.js</scope>
+	<description>EditBox</description>
+</snippet>

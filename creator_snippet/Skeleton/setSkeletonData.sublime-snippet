@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setSkeletonData(${1:skeletonData}, ${2:ownsSkeletonData})]]></content>
+	<tabTrigger>setSkeletonData(skeletonData, ownsSkeletonData)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Skeleton</description>
+</snippet>

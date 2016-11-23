@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AdsType.AD_TYPE_OFFERWALL]]></content>
+	<tabTrigger>AdsType.AD_TYPE_OFFERWALL</tabTrigger>
+	<scope>source.js</scope>
+	<description>AdsType</description>
+</snippet>

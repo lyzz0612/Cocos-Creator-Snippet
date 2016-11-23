@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[detail]]></content>
+	<tabTrigger>EventCustom.detail</tabTrigger>
+	<scope>source.js</scope>
+	<description>EventCustom</description>
+</snippet>

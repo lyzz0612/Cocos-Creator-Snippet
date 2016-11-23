@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[closePush(${1:})]]></content>
+	<tabTrigger>closePush()</tabTrigger>
+	<scope>source.js</scope>
+	<description>ProtocolPush</description>
+</snippet>

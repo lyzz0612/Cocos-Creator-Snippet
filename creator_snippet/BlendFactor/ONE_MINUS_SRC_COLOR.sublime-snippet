@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BlendFactor.ONE_MINUS_SRC_COLOR]]></content>
+	<tabTrigger>BlendFactor.ONE_MINUS_SRC_COLOR</tabTrigger>
+	<scope>source.js</scope>
+	<description>BlendFactor</description>
+</snippet>

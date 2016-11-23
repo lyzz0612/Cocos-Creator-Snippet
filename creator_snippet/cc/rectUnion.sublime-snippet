@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.rectUnion(${1:rectA}, ${2:rectB})]]></content>
+	<tabTrigger>cc.rectUnion(rectA, rectB)	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

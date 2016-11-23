@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[tmxAsset]]></content>
+	<tabTrigger>TiledMap.tmxAsset</tabTrigger>
+	<scope>source.js</scope>
+	<description>TiledMap</description>
+</snippet>

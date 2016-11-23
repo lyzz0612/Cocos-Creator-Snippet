@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BlendFactor.blendFuncDisable]]></content>
+	<tabTrigger>BlendFactor.blendFuncDisable</tabTrigger>
+	<scope>source.js</scope>
+	<description>BlendFactor</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[callFloatFuncWithParam(${1:funName}, ${2:args?})]]></content>
+	<tabTrigger>callFloatFuncWithParam(funName, args?)</tabTrigger>
+	<scope>source.js</scope>
+	<description>PluginProtocol</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OS_BADA]]></content>
+	<tabTrigger>sys.OS_BADA</tabTrigger>
+	<scope>source.js</scope>
+	<description>sys</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.atlasJson	]]></content>
+	<tabTrigger>cc.atlasJson	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

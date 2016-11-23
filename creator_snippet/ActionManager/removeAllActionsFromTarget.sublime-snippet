@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[removeAllActionsFromTarget(${1:target}, ${2:forceDelete})]]></content>
+	<tabTrigger>removeAllActionsFromTarget(target, forceDelete)</tabTrigger>
+	<scope>source.js</scope>
+	<description>ActionManager</description>
+</snippet>

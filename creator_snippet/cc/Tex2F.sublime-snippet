@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.Tex2F]]></content>
+	<tabTrigger>cc.Tex2F</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

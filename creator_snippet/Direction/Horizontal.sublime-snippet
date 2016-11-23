@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Direction.Horizontal]]></content>
+	<tabTrigger>Direction.Horizontal</tabTrigger>
+	<scope>source.js</scope>
+	<description>Direction</description>
+</snippet>

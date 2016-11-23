@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[InputMode.SINGLE_LINE]]></content>
+	<tabTrigger>InputMode.SINGLE_LINE</tabTrigger>
+	<scope>source.js</scope>
+	<description>InputMode</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[containsRect(${1:rect})]]></content>
+	<tabTrigger>containsRect(rect)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Rect</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.BitmapFont]]></content>
+	<tabTrigger>cc.BitmapFont</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

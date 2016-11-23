@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[onProgress(${1:completedCount}, ${2:totalCount}, ${3:item})]]></content>
+	<tabTrigger>onProgress(completedCount, totalCount, item)</tabTrigger>
+	<scope>source.js</scope>
+	<description>LoadingItems</description>
+</snippet>

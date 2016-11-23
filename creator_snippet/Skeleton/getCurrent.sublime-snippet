@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getCurrent(${1:trackIndex})]]></content>
+	<tabTrigger>getCurrent(trackIndex)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Skeleton</description>
+</snippet>

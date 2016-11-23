@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[init(${1:appKey}, ${2:appSecret}, ${3:privateKey}, ${4:oauthLoginServer})]]></content>
+	<tabTrigger>init(appKey, appSecret, privateKey, oauthLoginServer)</tabTrigger>
+	<scope>source.js</scope>
+	<description>AgentManager</description>
+</snippet>

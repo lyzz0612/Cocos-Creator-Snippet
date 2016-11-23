@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationEventType.END]]></content>
+	<tabTrigger>AnimationEventType.END</tabTrigger>
+	<scope>source.js</scope>
+	<description>AnimationEventType</description>
+</snippet>

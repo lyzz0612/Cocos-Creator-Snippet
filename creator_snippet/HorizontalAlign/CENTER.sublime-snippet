@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HorizontalAlign.CENTER]]></content>
+	<tabTrigger>HorizontalAlign.CENTER</tabTrigger>
+	<scope>source.js</scope>
+	<description>HorizontalAlign</description>
+</snippet>

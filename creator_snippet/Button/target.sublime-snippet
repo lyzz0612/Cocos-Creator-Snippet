@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[target]]></content>
+	<tabTrigger>Button.target</tabTrigger>
+	<scope>source.js</scope>
+	<description>Button</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getListener(${1:})]]></content>
+	<tabTrigger>getListener()</tabTrigger>
+	<scope>source.js</scope>
+	<description>ProtocolSocial</description>
+</snippet>

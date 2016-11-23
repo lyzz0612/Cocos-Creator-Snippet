@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Orientation.FLIPPED_MASK]]></content>
+	<tabTrigger>Orientation.FLIPPED_MASK</tabTrigger>
+	<scope>source.js</scope>
+	<description>Orientation</description>
+</snippet>

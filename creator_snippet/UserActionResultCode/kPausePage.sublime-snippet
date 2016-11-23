@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UserActionResultCode.kPausePage]]></content>
+	<tabTrigger>UserActionResultCode.kPausePage</tabTrigger>
+	<scope>source.js</scope>
+	<description>UserActionResultCode</description>
+</snippet>

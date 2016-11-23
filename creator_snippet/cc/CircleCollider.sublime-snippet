@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.CircleCollider]]></content>
+	<tabTrigger>cc.CircleCollider</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

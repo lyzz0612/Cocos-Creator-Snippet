@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[preloadScene(${1:sceneName}, ${2:onLoaded})]]></content>
+	<tabTrigger>preloadScene(sceneName, onLoaded)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Director</description>
+</snippet>

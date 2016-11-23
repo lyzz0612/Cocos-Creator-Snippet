@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorOnly]]></content>
+	<tabTrigger>Flags.EditorOnly</tabTrigger>
+	<scope>source.js</scope>
+	<description>Flags</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getChannelId(${1:})]]></content>
+	<tabTrigger>getChannelId()</tabTrigger>
+	<scope>source.js</scope>
+	<description>AgentManager</description>
+</snippet>

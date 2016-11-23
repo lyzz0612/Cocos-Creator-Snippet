@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getFromPool(${1:})]]></content>
+	<tabTrigger>getFromPool()</tabTrigger>
+	<scope>source.js</scope>
+	<description>pool</description>
+</snippet>

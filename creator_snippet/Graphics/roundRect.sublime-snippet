@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[roundRect(${1:x?}, ${2:y?}, ${3:w?}, ${4:h?}, ${5:r?})]]></content>
+	<tabTrigger>roundRect(x?, y?, w?, h?, r?)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Graphics</description>
+</snippet>

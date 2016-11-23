@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SocialRetCode.kSocialSignOutSucceed]]></content>
+	<tabTrigger>SocialRetCode.kSocialSignOutSucceed</tabTrigger>
+	<scope>source.js</scope>
+	<description>SocialRetCode</description>
+</snippet>

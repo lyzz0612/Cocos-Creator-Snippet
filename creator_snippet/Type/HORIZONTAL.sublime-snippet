@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Type.HORIZONTAL]]></content>
+	<tabTrigger>Type.HORIZONTAL</tabTrigger>
+	<scope>source.js</scope>
+	<description>Type</description>
+</snippet>

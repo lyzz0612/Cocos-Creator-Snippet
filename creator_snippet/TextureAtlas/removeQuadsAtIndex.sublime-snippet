@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[removeQuadsAtIndex(${1:index}, ${2:amount})]]></content>
+	<tabTrigger>removeQuadsAtIndex(index, amount)</tabTrigger>
+	<scope>source.js</scope>
+	<description>TextureAtlas</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getPreviousLocationInView(${1:})]]></content>
+	<tabTrigger>getPreviousLocationInView()</tabTrigger>
+	<scope>source.js</scope>
+	<description>Touch</description>
+</snippet>

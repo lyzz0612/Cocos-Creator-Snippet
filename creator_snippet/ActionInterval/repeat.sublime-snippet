@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[repeat(${1:times})]]></content>
+	<tabTrigger>repeat(times)</tabTrigger>
+	<scope>source.js</scope>
+	<description>ActionInterval</description>
+</snippet>

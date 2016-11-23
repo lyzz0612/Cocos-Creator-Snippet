@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[enableAntiAlias(${1:enabled})]]></content>
+	<tabTrigger>enableAntiAlias(enabled)</tabTrigger>
+	<scope>source.js</scope>
+	<description>View</description>
+</snippet>

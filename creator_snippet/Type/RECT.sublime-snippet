@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Type.RECT]]></content>
+	<tabTrigger>Type.RECT</tabTrigger>
+	<scope>source.js</scope>
+	<description>Type</description>
+</snippet>

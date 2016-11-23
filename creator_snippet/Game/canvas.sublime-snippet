@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[canvas]]></content>
+	<tabTrigger>Game.canvas</tabTrigger>
+	<scope>source.js</scope>
+	<description>Game</description>
+</snippet>

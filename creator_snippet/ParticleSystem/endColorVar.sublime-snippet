@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[endColorVar]]></content>
+	<tabTrigger>ParticleSystem.endColorVar</tabTrigger>
+	<scope>source.js</scope>
+	<description>ParticleSystem</description>
+</snippet>

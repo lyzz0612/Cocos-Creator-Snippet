@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.AnimationState]]></content>
+	<tabTrigger>cc.AnimationState</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

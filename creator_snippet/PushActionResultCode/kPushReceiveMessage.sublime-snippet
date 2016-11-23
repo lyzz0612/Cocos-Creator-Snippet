@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PushActionResultCode.kPushReceiveMessage]]></content>
+	<tabTrigger>PushActionResultCode.kPushReceiveMessage</tabTrigger>
+	<scope>source.js</scope>
+	<description>PushActionResultCode</description>
+</snippet>

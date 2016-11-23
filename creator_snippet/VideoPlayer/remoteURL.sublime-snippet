@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[remoteURL]]></content>
+	<tabTrigger>VideoPlayer.remoteURL</tabTrigger>
+	<scope>source.js</scope>
+	<description>VideoPlayer</description>
+</snippet>

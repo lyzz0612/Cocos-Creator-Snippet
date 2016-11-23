@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.EaseBounce]]></content>
+	<tabTrigger>cc.EaseBounce</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

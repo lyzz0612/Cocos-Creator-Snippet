@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[pause(${1:name?})]]></content>
+	<tabTrigger>pause(name?)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Animation</description>
+</snippet>

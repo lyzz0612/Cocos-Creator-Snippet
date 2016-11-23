@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.pFromSize(${1:s})]]></content>
+	<tabTrigger>cc.pFromSize(s)	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

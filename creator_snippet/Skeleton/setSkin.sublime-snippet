@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setSkin(${1:skinName})]]></content>
+	<tabTrigger>setSkin(skinName)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Skeleton</description>
+</snippet>

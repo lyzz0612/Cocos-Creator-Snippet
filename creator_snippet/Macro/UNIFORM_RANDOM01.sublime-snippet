@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Macro.UNIFORM_RANDOM01]]></content>
+	<tabTrigger>Macro.UNIFORM_RANDOM01</tabTrigger>
+	<scope>source.js</scope>
+	<description>Macro</description>
+</snippet>

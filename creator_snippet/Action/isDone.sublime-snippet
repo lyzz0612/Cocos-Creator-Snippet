@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isDone(${1:})]]></content>
+	<tabTrigger>isDone()</tabTrigger>
+	<scope>source.js</scope>
+	<description>Action</description>
+</snippet>

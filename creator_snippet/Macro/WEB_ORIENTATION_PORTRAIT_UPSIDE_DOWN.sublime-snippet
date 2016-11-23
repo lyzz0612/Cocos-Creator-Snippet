@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Macro.WEB_ORIENTATION_PORTRAIT_UPSIDE_DOWN]]></content>
+	<tabTrigger>Macro.WEB_ORIENTATION_PORTRAIT_UPSIDE_DOWN</tabTrigger>
+	<scope>source.js</scope>
+	<description>Macro</description>
+</snippet>

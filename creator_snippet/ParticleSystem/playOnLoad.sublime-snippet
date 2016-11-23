@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[playOnLoad]]></content>
+	<tabTrigger>ParticleSystem.playOnLoad</tabTrigger>
+	<scope>source.js</scope>
+	<description>ParticleSystem</description>
+</snippet>

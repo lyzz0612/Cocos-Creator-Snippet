@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.RichText]]></content>
+	<tabTrigger>cc.RichText</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AdsPos.kPosTopLeft]]></content>
+	<tabTrigger>AdsPos.kPosTopLeft</tabTrigger>
+	<scope>source.js</scope>
+	<description>AdsPos</description>
+</snippet>

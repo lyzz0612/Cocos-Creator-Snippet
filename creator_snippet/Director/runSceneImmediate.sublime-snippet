@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[runSceneImmediate(${1:scene}, ${2:onBeforeLoadScene?}, ${3:onLaunched?})]]></content>
+	<tabTrigger>runSceneImmediate(scene, onBeforeLoadScene?, onLaunched?)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Director</description>
+</snippet>

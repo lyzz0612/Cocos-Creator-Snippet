@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[asyncLoadAssets]]></content>
+	<tabTrigger>SceneAsset.asyncLoadAssets</tabTrigger>
+	<scope>source.js</scope>
+	<description>SceneAsset</description>
+</snippet>

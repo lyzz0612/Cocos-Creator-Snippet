@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[fitHeight]]></content>
+	<tabTrigger>Canvas.fitHeight</tabTrigger>
+	<scope>source.js</scope>
+	<description>Canvas</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[restartVM(${1:})]]></content>
+	<tabTrigger>restartVM()</tabTrigger>
+	<scope>source.js</scope>
+	<description>sys</description>
+</snippet>

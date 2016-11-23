@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[submitScore(${1:leadboardID}, ${2:score})]]></content>
+	<tabTrigger>submitScore(leadboardID, score)</tabTrigger>
+	<scope>source.js</scope>
+	<description>ProtocolSocial</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[webviewLoadedEvents]]></content>
+	<tabTrigger>WebView.webviewLoadedEvents</tabTrigger>
+	<scope>source.js</scope>
+	<description>WebView</description>
+</snippet>

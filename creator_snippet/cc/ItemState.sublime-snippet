@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.ItemState]]></content>
+	<tabTrigger>cc.ItemState</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

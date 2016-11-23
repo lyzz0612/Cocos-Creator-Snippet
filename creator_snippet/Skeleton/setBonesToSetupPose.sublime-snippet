@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setBonesToSetupPose(${1:})]]></content>
+	<tabTrigger>setBonesToSetupPose()</tabTrigger>
+	<scope>source.js</scope>
+	<description>Skeleton</description>
+</snippet>

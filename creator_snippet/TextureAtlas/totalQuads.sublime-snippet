@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[totalQuads]]></content>
+	<tabTrigger>TextureAtlas.totalQuads</tabTrigger>
+	<scope>source.js</scope>
+	<description>TextureAtlas</description>
+</snippet>

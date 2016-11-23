@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EVENT_HIDE]]></content>
+	<tabTrigger>Game.EVENT_HIDE</tabTrigger>
+	<scope>source.js</scope>
+	<description>Game</description>
+</snippet>

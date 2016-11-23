@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[autoHideTime]]></content>
+	<tabTrigger>Scrollbar.autoHideTime</tabTrigger>
+	<scope>source.js</scope>
+	<description>Scrollbar</description>
+</snippet>

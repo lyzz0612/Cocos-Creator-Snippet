@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setTexParameters(${1:texParams}, ${2:magFilter?}, ${3:wrapS?}, ${4:wrapT?})]]></content>
+	<tabTrigger>setTexParameters(texParams, magFilter?, wrapS?, wrapT?)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Texture2D</description>
+</snippet>

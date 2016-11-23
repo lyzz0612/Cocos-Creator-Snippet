@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[obbApplyAffineTransform(${1:rect}, ${2:anAffineTransform}, ${3:out_bl}, ${4:out_tl}, ${5:out_tr}, ${6:out_br})]]></content>
+	<tabTrigger>obbApplyAffineTransform(rect, anAffineTransform, out_bl, out_tl, out_tr, out_br)</tabTrigger>
+	<scope>source.js</scope>
+	<description>AffineTransform</description>
+</snippet>

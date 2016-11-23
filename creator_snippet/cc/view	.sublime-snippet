@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.view	]]></content>
+	<tabTrigger>cc.view	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

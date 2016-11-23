@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[fontSize]]></content>
+	<tabTrigger>RichText.fontSize</tabTrigger>
+	<scope>source.js</scope>
+	<description>RichText</description>
+</snippet>

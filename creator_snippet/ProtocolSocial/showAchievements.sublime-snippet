@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[showAchievements(${1:})]]></content>
+	<tabTrigger>showAchievements()</tabTrigger>
+	<scope>source.js</scope>
+	<description>ProtocolSocial</description>
+</snippet>

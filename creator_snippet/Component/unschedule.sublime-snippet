@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[unschedule(${1:callback_fn})]]></content>
+	<tabTrigger>unschedule(callback_fn)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Component</description>
+</snippet>

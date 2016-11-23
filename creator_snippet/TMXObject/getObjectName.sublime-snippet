@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getObjectName(${1:})]]></content>
+	<tabTrigger>getObjectName()</tabTrigger>
+	<scope>source.js</scope>
+	<description>TMXObject</description>
+</snippet>

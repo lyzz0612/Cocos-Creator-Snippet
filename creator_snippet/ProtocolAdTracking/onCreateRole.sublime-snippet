@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[onCreateRole(${1:userInfo})]]></content>
+	<tabTrigger>onCreateRole(userInfo)</tabTrigger>
+	<scope>source.js</scope>
+	<description>ProtocolAdTracking</description>
+</snippet>

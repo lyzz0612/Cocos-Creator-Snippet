@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[js.unregisterClass(${1:constructor})]]></content>
+	<tabTrigger>js.unregisterClass(constructor)	</tabTrigger>
+	<scope>source.js</scope>
+	<description>js</description>
+</snippet>

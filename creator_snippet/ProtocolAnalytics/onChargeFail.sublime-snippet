@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[onChargeFail(${1:paramMap})]]></content>
+	<tabTrigger>onChargeFail(paramMap)</tabTrigger>
+	<scope>source.js</scope>
+	<description>ProtocolAnalytics</description>
+</snippet>

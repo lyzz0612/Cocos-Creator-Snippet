@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.pRotateByAngle(${1:v}, ${2:pivot}, ${3:angle})]]></content>
+	<tabTrigger>cc.pRotateByAngle(v, pivot, angle)	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

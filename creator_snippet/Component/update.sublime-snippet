@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[update(${1:})]]></content>
+	<tabTrigger>update()</tabTrigger>
+	<scope>source.js</scope>
+	<description>Component</description>
+</snippet>

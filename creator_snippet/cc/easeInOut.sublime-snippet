@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.easeInOut(${1:rate})]]></content>
+	<tabTrigger>cc.easeInOut(rate)	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

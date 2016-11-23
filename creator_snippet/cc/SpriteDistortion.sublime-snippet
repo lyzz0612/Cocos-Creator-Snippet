@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.SpriteDistortion]]></content>
+	<tabTrigger>cc.SpriteDistortion</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

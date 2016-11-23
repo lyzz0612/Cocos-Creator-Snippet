@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getInsetRight(${1:})]]></content>
+	<tabTrigger>getInsetRight()</tabTrigger>
+	<scope>source.js</scope>
+	<description>Sprite</description>
+</snippet>

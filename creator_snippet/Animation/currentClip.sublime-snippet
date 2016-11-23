@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[currentClip]]></content>
+	<tabTrigger>Animation.currentClip</tabTrigger>
+	<scope>source.js</scope>
+	<description>Animation</description>
+</snippet>

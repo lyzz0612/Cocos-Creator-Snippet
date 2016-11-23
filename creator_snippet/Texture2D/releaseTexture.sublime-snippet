@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[releaseTexture(${1:})]]></content>
+	<tabTrigger>releaseTexture()</tabTrigger>
+	<scope>source.js</scope>
+	<description>Texture2D</description>
+</snippet>

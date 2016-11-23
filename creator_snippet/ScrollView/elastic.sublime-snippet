@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[elastic]]></content>
+	<tabTrigger>ScrollView.elastic</tabTrigger>
+	<scope>source.js</scope>
+	<description>ScrollView</description>
+</snippet>

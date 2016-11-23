@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AccountType.ANONYMOUS]]></content>
+	<tabTrigger>AccountType.ANONYMOUS</tabTrigger>
+	<scope>source.js</scope>
+	<description>AccountType</description>
+</snippet>

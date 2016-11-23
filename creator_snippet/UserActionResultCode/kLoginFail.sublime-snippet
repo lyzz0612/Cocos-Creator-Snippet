@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UserActionResultCode.kLoginFail]]></content>
+	<tabTrigger>UserActionResultCode.kLoginFail</tabTrigger>
+	<scope>source.js</scope>
+	<description>UserActionResultCode</description>
+</snippet>

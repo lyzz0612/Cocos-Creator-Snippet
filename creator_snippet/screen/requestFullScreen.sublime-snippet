@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[requestFullScreen(${1:element}, ${2:onFullScreenChange})]]></content>
+	<tabTrigger>requestFullScreen(element, onFullScreenChange)</tabTrigger>
+	<scope>source.js</scope>
+	<description>screen</description>
+</snippet>

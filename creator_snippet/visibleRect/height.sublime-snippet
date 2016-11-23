@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[height]]></content>
+	<tabTrigger>visibleRect.height</tabTrigger>
+	<scope>source.js</scope>
+	<description>visibleRect</description>
+</snippet>

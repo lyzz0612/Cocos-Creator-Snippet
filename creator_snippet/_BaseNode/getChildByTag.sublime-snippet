@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getChildByTag(${1:aTag})]]></content>
+	<tabTrigger>getChildByTag(aTag)</tabTrigger>
+	<scope>source.js</scope>
+	<description>_BaseNode</description>
+</snippet>

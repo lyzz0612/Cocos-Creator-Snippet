@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getTextureColors(${1:texture})]]></content>
+	<tabTrigger>getTextureColors(texture)</tabTrigger>
+	<scope>source.js</scope>
+	<description>textureCache</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[resizeMode]]></content>
+	<tabTrigger>Layout.resizeMode</tabTrigger>
+	<scope>source.js</scope>
+	<description>Layout</description>
+</snippet>

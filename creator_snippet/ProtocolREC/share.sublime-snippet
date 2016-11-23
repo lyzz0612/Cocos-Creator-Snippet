@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[share(${1:info})]]></content>
+	<tabTrigger>share(info)</tabTrigger>
+	<scope>source.js</scope>
+	<description>ProtocolREC</description>
+</snippet>

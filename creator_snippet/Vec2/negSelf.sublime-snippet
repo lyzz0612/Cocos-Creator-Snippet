@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[negSelf(${1:})]]></content>
+	<tabTrigger>negSelf()</tabTrigger>
+	<scope>source.js</scope>
+	<description>Vec2</description>
+</snippet>

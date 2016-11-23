@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[rgb2hsv(${1:r}, ${2:g}, ${3:b})]]></content>
+	<tabTrigger>rgb2hsv(r, g, b)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Color</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.rectGetMaxY(${1:rect})]]></content>
+	<tabTrigger>cc.rectGetMaxY(rect)	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

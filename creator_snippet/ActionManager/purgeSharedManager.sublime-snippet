@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[purgeSharedManager(${1:})]]></content>
+	<tabTrigger>purgeSharedManager()</tabTrigger>
+	<scope>source.js</scope>
+	<description>ActionManager</description>
+</snippet>

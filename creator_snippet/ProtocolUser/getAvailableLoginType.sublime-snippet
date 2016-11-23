@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getAvailableLoginType(${1:info})]]></content>
+	<tabTrigger>getAvailableLoginType(info)</tabTrigger>
+	<scope>source.js</scope>
+	<description>ProtocolUser</description>
+</snippet>

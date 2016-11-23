@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Type.ELLIPSE]]></content>
+	<tabTrigger>Type.ELLIPSE</tabTrigger>
+	<scope>source.js</scope>
+	<description>Type</description>
+</snippet>

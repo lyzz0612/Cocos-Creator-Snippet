@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.pLength(${1:v})]]></content>
+	<tabTrigger>cc.pLength(v)	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

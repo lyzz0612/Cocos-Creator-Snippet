@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getAdTrackingPlugin(${1:})]]></content>
+	<tabTrigger>getAdTrackingPlugin()</tabTrigger>
+	<scope>source.js</scope>
+	<description>AgentManager</description>
+</snippet>

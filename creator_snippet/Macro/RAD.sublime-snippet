@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Macro.RAD]]></content>
+	<tabTrigger>Macro.RAD</tabTrigger>
+	<scope>source.js</scope>
+	<description>Macro</description>
+</snippet>

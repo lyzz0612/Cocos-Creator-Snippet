@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[login(${1:args?})]]></content>
+	<tabTrigger>login(args?)</tabTrigger>
+	<scope>source.js</scope>
+	<description>ProtocolUser</description>
+</snippet>

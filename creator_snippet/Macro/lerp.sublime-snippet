@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Macro.lerp]]></content>
+	<tabTrigger>Macro.lerp</tabTrigger>
+	<scope>source.js</scope>
+	<description>Macro</description>
+</snippet>

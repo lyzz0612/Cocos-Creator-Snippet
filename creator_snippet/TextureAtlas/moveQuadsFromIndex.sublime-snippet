@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[moveQuadsFromIndex(${1:oldIndex}, ${2:amount}, ${3:newIndex})]]></content>
+	<tabTrigger>moveQuadsFromIndex(oldIndex, amount, newIndex)</tabTrigger>
+	<scope>source.js</scope>
+	<description>TextureAtlas</description>
+</snippet>

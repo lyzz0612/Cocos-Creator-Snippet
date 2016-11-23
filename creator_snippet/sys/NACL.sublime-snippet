@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NACL]]></content>
+	<tabTrigger>sys.NACL</tabTrigger>
+	<scope>source.js</scope>
+	<description>sys</description>
+</snippet>

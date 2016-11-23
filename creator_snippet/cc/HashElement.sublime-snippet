@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.HashElement(${1:})]]></content>
+	<tabTrigger>cc.HashElement()	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

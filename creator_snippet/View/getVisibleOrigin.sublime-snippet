@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getVisibleOrigin(${1:})]]></content>
+	<tabTrigger>getVisibleOrigin()</tabTrigger>
+	<scope>source.js</scope>
+	<description>View</description>
+</snippet>

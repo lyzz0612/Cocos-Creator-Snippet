@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AxisDirection.HORIZONTAL]]></content>
+	<tabTrigger>AxisDirection.HORIZONTAL</tabTrigger>
+	<scope>source.js</scope>
+	<description>AxisDirection</description>
+</snippet>

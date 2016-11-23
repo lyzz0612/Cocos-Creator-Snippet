@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PositionType.GROUPED]]></content>
+	<tabTrigger>PositionType.GROUPED</tabTrigger>
+	<scope>source.js</scope>
+	<description>PositionType</description>
+</snippet>

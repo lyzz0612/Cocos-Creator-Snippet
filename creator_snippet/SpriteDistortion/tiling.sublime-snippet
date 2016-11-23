@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[tiling]]></content>
+	<tabTrigger>SpriteDistortion.tiling</tabTrigger>
+	<scope>source.js</scope>
+	<description>SpriteDistortion</description>
+</snippet>

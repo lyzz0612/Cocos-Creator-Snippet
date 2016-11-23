@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[resizeCapacity(${1:newCapacity})]]></content>
+	<tabTrigger>resizeCapacity(newCapacity)</tabTrigger>
+	<scope>source.js</scope>
+	<description>TextureAtlas</description>
+</snippet>

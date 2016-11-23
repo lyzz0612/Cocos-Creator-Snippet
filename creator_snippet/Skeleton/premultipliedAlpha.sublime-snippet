@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[premultipliedAlpha]]></content>
+	<tabTrigger>Skeleton.premultipliedAlpha</tabTrigger>
+	<scope>source.js</scope>
+	<description>Skeleton</description>
+</snippet>

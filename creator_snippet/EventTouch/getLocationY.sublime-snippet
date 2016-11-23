@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getLocationY(${1:})]]></content>
+	<tabTrigger>getLocationY()</tabTrigger>
+	<scope>source.js</scope>
+	<description>EventTouch</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getError(${1:id})]]></content>
+	<tabTrigger>getError(id)</tabTrigger>
+	<scope>source.js</scope>
+	<description>LoadingItems</description>
+</snippet>

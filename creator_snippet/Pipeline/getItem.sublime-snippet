@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getItem(${1:id})]]></content>
+	<tabTrigger>getItem(id)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Pipeline</description>
+</snippet>

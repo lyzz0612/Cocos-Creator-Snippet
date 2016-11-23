@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setAnimationStateData(${1:stateData})]]></content>
+	<tabTrigger>setAnimationStateData(stateData)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Skeleton</description>
+</snippet>

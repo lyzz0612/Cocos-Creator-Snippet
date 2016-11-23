@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.ProportionalToFrame]]></content>
+	<tabTrigger>cc.ProportionalToFrame</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

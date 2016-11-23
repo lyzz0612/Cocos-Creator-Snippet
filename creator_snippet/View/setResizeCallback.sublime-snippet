@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setResizeCallback(${1:callback})]]></content>
+	<tabTrigger>setResizeCallback(callback)</tabTrigger>
+	<scope>source.js</scope>
+	<description>View</description>
+</snippet>

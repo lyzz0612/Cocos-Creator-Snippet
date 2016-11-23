@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getContentTranslateLeftTop(${1:})]]></content>
+	<tabTrigger>getContentTranslateLeftTop()</tabTrigger>
+	<scope>source.js</scope>
+	<description>View</description>
+</snippet>

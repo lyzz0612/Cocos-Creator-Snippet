@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[insetLeft]]></content>
+	<tabTrigger>SpriteFrame.insetLeft</tabTrigger>
+	<scope>source.js</scope>
+	<description>SpriteFrame</description>
+</snippet>

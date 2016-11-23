@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getCustomParam(${1:})]]></content>
+	<tabTrigger>getCustomParam()</tabTrigger>
+	<scope>source.js</scope>
+	<description>AgentManager</description>
+</snippet>

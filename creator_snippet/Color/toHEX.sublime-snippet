@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[toHEX(${1:fmt})]]></content>
+	<tabTrigger>toHEX(fmt)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Color</description>
+</snippet>

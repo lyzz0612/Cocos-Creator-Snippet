@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[exit(${1:})]]></content>
+	<tabTrigger>exit()</tabTrigger>
+	<scope>source.js</scope>
+	<description>ProtocolUser</description>
+</snippet>

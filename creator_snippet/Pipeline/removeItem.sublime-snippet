@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[removeItem(${1:id})]]></content>
+	<tabTrigger>removeItem(id)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Pipeline</description>
+</snippet>

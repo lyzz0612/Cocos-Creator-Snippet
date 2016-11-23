@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VerticalAlign.BOTTOM]]></content>
+	<tabTrigger>VerticalAlign.BOTTOM</tabTrigger>
+	<scope>source.js</scope>
+	<description>VerticalAlign</description>
+</snippet>

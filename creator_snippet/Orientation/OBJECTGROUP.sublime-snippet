@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Orientation.OBJECTGROUP]]></content>
+	<tabTrigger>Orientation.OBJECTGROUP</tabTrigger>
+	<scope>source.js</scope>
+	<description>Orientation</description>
+</snippet>

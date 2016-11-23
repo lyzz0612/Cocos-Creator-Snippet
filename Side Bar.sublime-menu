@@ -1,0 +1,17 @@
+[{ "caption": "-", "id": "quickx" },
+{
+    "caption": "New js File",
+    "id": "new_js_file",
+    "command": "js_new_file",
+    "args": {
+        "dirs": []
+    }
+},
+{
+    "caption": "Rebuild Js User Definition",
+    "id": "rebuild_js_user_definition",
+    "command": "quickxjs_rebuild_user_definition",
+    "args": {
+        "dirs": []
+    }
+}]

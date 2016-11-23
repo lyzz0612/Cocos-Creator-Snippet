@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[bindKey(${1:key}, ${2:remove?})]]></content>
+	<tabTrigger>bindKey(key, remove?)</tabTrigger>
+	<scope>source.js</scope>
+	<description>CallbacksInvoker</description>
+</snippet>

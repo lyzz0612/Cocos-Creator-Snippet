@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IPAD]]></content>
+	<tabTrigger>sys.IPAD</tabTrigger>
+	<scope>source.js</scope>
+	<description>sys</description>
+</snippet>

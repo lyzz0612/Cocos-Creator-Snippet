@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ACCELERATION]]></content>
+	<tabTrigger>EventListener.ACCELERATION</tabTrigger>
+	<scope>source.js</scope>
+	<description>EventListener</description>
+</snippet>

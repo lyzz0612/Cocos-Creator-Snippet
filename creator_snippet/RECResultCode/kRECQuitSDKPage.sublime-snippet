@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RECResultCode.kRECQuitSDKPage]]></content>
+	<tabTrigger>RECResultCode.kRECQuitSDKPage</tabTrigger>
+	<scope>source.js</scope>
+	<description>RECResultCode</description>
+</snippet>

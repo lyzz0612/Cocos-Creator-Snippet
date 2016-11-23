@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[verticalDirection]]></content>
+	<tabTrigger>Layout.verticalDirection</tabTrigger>
+	<scope>source.js</scope>
+	<description>Layout</description>
+</snippet>

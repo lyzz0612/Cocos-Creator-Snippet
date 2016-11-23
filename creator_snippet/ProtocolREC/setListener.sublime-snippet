@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setListener(${1:listener}, ${2:target})]]></content>
+	<tabTrigger>setListener(listener, target)</tabTrigger>
+	<scope>source.js</scope>
+	<description>ProtocolREC</description>
+</snippet>

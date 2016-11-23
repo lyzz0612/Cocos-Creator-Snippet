@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[yMax]]></content>
+	<tabTrigger>Rect.yMax</tabTrigger>
+	<scope>source.js</scope>
+	<description>Rect</description>
+</snippet>

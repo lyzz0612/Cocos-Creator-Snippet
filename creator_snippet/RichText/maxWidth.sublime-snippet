@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[maxWidth]]></content>
+	<tabTrigger>RichText.maxWidth</tabTrigger>
+	<scope>source.js</scope>
+	<description>RichText</description>
+</snippet>

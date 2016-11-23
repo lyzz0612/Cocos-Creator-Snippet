@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[strokeColor]]></content>
+	<tabTrigger>Graphics.strokeColor</tabTrigger>
+	<scope>source.js</scope>
+	<description>Graphics</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[get(${1:params})]]></content>
+	<tabTrigger>get(params)</tabTrigger>
+	<scope>source.js</scope>
+	<description>NodePool</description>
+</snippet>

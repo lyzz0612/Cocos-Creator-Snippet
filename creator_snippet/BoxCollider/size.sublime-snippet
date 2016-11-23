@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[size]]></content>
+	<tabTrigger>BoxCollider.size</tabTrigger>
+	<scope>source.js</scope>
+	<description>BoxCollider</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UNKNOWN]]></content>
+	<tabTrigger>EventListener.UNKNOWN</tabTrigger>
+	<scope>source.js</scope>
+	<description>EventListener</description>
+</snippet>

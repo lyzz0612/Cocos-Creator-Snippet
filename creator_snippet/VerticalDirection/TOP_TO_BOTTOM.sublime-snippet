@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VerticalDirection.TOP_TO_BOTTOM]]></content>
+	<tabTrigger>VerticalDirection.TOP_TO_BOTTOM</tabTrigger>
+	<scope>source.js</scope>
+	<description>VerticalDirection</description>
+</snippet>

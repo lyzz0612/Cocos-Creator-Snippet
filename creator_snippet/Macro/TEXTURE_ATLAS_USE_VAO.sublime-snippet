@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Macro.TEXTURE_ATLAS_USE_VAO]]></content>
+	<tabTrigger>Macro.TEXTURE_ATLAS_USE_VAO</tabTrigger>
+	<scope>source.js</scope>
+	<description>Macro</description>
+</snippet>

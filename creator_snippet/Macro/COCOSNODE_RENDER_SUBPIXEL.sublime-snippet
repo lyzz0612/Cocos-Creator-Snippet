@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Macro.COCOSNODE_RENDER_SUBPIXEL]]></content>
+	<tabTrigger>Macro.COCOSNODE_RENDER_SUBPIXEL</tabTrigger>
+	<scope>source.js</scope>
+	<description>Macro</description>
+</snippet>

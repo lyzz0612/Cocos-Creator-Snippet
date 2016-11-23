@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[timeScale]]></content>
+	<tabTrigger>ArmatureDisplay.timeScale</tabTrigger>
+	<scope>source.js</scope>
+	<description>ArmatureDisplay</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[currentTime]]></content>
+	<tabTrigger>VideoPlayer.currentTime</tabTrigger>
+	<scope>source.js</scope>
+	<description>VideoPlayer</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ANDROID]]></content>
+	<tabTrigger>sys.ANDROID</tabTrigger>
+	<scope>source.js</scope>
+	<description>sys</description>
+</snippet>

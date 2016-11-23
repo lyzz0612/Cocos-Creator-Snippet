@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.EmitterMode]]></content>
+	<tabTrigger>cc.EmitterMode</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

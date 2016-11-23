@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isCompleted(${1:})]]></content>
+	<tabTrigger>isCompleted()</tabTrigger>
+	<scope>source.js</scope>
+	<description>LoadingItems</description>
+</snippet>

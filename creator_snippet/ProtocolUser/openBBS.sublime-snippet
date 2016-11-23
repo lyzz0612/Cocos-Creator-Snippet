@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[openBBS(${1:})]]></content>
+	<tabTrigger>openBBS()</tabTrigger>
+	<scope>source.js</scope>
+	<description>ProtocolUser</description>
+</snippet>

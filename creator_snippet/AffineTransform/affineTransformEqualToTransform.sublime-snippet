@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[affineTransformEqualToTransform(${1:t1}, ${2:t2})]]></content>
+	<tabTrigger>affineTransformEqualToTransform(t1, t2)</tabTrigger>
+	<scope>source.js</scope>
+	<description>AffineTransform</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Macro.USE_LA88_LABELS]]></content>
+	<tabTrigger>Macro.USE_LA88_LABELS</tabTrigger>
+	<scope>source.js</scope>
+	<description>Macro</description>
+</snippet>

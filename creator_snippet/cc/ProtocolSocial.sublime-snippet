@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.ProtocolSocial]]></content>
+	<tabTrigger>cc.ProtocolSocial</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

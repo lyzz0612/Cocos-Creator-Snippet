@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[InputMode.EMAIL_ADDR]]></content>
+	<tabTrigger>InputMode.EMAIL_ADDR</tabTrigger>
+	<scope>source.js</scope>
+	<description>InputMode</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.TiledMap]]></content>
+	<tabTrigger>cc.TiledMap</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

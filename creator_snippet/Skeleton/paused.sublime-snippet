@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[paused]]></content>
+	<tabTrigger>Skeleton.paused</tabTrigger>
+	<scope>source.js</scope>
+	<description>Skeleton</description>
+</snippet>

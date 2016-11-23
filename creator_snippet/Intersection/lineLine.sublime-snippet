@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[lineLine(${1:a1}, ${2:a2}, ${3:b1}, ${4:b2})]]></content>
+	<tabTrigger>lineLine(a1, a2, b1, b2)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Intersection</description>
+</snippet>

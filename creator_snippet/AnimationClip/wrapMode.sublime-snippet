@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[wrapMode]]></content>
+	<tabTrigger>AnimationClip.wrapMode</tabTrigger>
+	<scope>source.js</scope>
+	<description>AnimationClip</description>
+</snippet>

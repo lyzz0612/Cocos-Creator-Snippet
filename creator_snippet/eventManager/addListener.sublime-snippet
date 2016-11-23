@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[addListener(${1:listener}, ${2:nodeOrPriority})]]></content>
+	<tabTrigger>addListener(listener, nodeOrPriority)</tabTrigger>
+	<scope>source.js</scope>
+	<description>eventManager</description>
+</snippet>

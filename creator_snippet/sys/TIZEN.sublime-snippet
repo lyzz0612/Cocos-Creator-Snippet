@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TIZEN]]></content>
+	<tabTrigger>sys.TIZEN</tabTrigger>
+	<scope>source.js</scope>
+	<description>sys</description>
+</snippet>

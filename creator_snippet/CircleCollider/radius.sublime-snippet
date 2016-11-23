@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[radius]]></content>
+	<tabTrigger>CircleCollider.radius</tabTrigger>
+	<scope>source.js</scope>
+	<description>CircleCollider</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RECResultCode.kRECResumeRecording]]></content>
+	<tabTrigger>RECResultCode.kRECResumeRecording</tabTrigger>
+	<scope>source.js</scope>
+	<description>RECResultCode</description>
+</snippet>

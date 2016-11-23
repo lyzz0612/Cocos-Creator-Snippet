@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[atlasText]]></content>
+	<tabTrigger>SkeletonData.atlasText</tabTrigger>
+	<scope>source.js</scope>
+	<description>SkeletonData</description>
+</snippet>

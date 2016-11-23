@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getTouchByXY(${1:location}, ${2:pos}, ${3:eventType})]]></content>
+	<tabTrigger>getTouchByXY(location, pos, eventType)</tabTrigger>
+	<scope>source.js</scope>
+	<description>inputManager</description>
+</snippet>

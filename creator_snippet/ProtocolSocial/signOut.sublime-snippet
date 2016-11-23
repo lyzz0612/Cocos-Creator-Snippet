@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[signOut(${1:})]]></content>
+	<tabTrigger>signOut()</tabTrigger>
+	<scope>source.js</scope>
+	<description>ProtocolSocial</description>
+</snippet>

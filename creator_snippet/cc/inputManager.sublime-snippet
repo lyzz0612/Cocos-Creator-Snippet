@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.inputManager]]></content>
+	<tabTrigger>cc.inputManager</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

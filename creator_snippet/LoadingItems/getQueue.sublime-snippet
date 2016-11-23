@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getQueue(${1:item})]]></content>
+	<tabTrigger>getQueue(item)</tabTrigger>
+	<scope>source.js</scope>
+	<description>LoadingItems</description>
+</snippet>

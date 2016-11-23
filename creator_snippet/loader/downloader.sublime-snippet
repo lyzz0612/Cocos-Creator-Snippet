@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[downloader]]></content>
+	<tabTrigger>loader.downloader</tabTrigger>
+	<scope>source.js</scope>
+	<description>loader</description>
+</snippet>

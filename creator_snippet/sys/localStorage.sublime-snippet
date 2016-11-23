@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[localStorage]]></content>
+	<tabTrigger>sys.localStorage</tabTrigger>
+	<scope>source.js</scope>
+	<description>sys</description>
+</snippet>

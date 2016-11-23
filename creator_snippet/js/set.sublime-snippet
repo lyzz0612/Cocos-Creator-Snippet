@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[js.set(${1:obj}, ${2:prop}, ${3:setter}, ${4:enumerable?})]]></content>
+	<tabTrigger>js.set(obj, prop, setter, enumerable?)	</tabTrigger>
+	<scope>source.js</scope>
+	<description>js</description>
+</snippet>

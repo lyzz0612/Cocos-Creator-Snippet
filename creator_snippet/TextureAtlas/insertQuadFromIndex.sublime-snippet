@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[insertQuadFromIndex(${1:fromIndex}, ${2:newIndex})]]></content>
+	<tabTrigger>insertQuadFromIndex(fromIndex, newIndex)</tabTrigger>
+	<scope>source.js</scope>
+	<description>TextureAtlas</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AdsResultCode.kPointsSpendFailed]]></content>
+	<tabTrigger>AdsResultCode.kPointsSpendFailed</tabTrigger>
+	<scope>source.js</scope>
+	<description>AdsResultCode</description>
+</snippet>

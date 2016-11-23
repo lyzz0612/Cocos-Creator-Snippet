@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.pFuzzyEqual(${1:a}, ${2:b}, ${3:variance})]]></content>
+	<tabTrigger>cc.pFuzzyEqual(a, b, variance)	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

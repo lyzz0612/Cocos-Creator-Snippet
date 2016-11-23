@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WrapMode.CLAMP_TO_EDGE]]></content>
+	<tabTrigger>WrapMode.CLAMP_TO_EDGE</tabTrigger>
+	<scope>source.js</scope>
+	<description>WrapMode</description>
+</snippet>

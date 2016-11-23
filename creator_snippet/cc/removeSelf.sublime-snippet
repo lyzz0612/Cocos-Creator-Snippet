@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.removeSelf(${1:isNeedCleanUp})]]></content>
+	<tabTrigger>cc.removeSelf(isNeedCleanUp)	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[showToolBar(${1:place})]]></content>
+	<tabTrigger>showToolBar(place)</tabTrigger>
+	<scope>source.js</scope>
+	<description>ProtocolUser</description>
+</snippet>

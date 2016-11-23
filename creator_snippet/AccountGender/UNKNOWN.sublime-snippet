@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AccountGender.UNKNOWN]]></content>
+	<tabTrigger>AccountGender.UNKNOWN</tabTrigger>
+	<scope>source.js</scope>
+	<description>AccountGender</description>
+</snippet>

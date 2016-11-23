@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[affineTransformClone(${1:t})]]></content>
+	<tabTrigger>affineTransformClone(t)</tabTrigger>
+	<scope>source.js</scope>
+	<description>AffineTransform</description>
+</snippet>

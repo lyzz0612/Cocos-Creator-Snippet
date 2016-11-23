@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[startSession(${1:})]]></content>
+	<tabTrigger>startSession()</tabTrigger>
+	<scope>source.js</scope>
+	<description>ProtocolAnalytics</description>
+</snippet>

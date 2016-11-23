@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.Label]]></content>
+	<tabTrigger>cc.Label</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

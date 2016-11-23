@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[addPage(${1:page})]]></content>
+	<tabTrigger>addPage(page)</tabTrigger>
+	<scope>source.js</scope>
+	<description>PageView</description>
+</snippet>

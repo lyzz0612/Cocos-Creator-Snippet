@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[points]]></content>
+	<tabTrigger>PolygonCollider.points</tabTrigger>
+	<scope>source.js</scope>
+	<description>PolygonCollider</description>
+</snippet>

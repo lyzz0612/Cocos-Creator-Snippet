@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.InputMode]]></content>
+	<tabTrigger>cc.InputMode</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

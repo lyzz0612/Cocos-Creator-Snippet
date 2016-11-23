@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AdsType.AD_TYPE_BANNER]]></content>
+	<tabTrigger>AdsType.AD_TYPE_BANNER</tabTrigger>
+	<scope>source.js</scope>
+	<description>AdsType</description>
+</snippet>

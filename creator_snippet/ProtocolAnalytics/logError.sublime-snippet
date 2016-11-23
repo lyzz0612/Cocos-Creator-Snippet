@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[logError(${1:errorId}, ${2:message})]]></content>
+	<tabTrigger>logError(errorId, message)</tabTrigger>
+	<scope>source.js</scope>
+	<description>ProtocolAnalytics</description>
+</snippet>

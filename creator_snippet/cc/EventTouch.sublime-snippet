@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.EventTouch]]></content>
+	<tabTrigger>cc.EventTouch</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

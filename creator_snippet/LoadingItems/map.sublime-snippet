@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[map]]></content>
+	<tabTrigger>LoadingItems.map</tabTrigger>
+	<scope>source.js</scope>
+	<description>LoadingItems</description>
+</snippet>

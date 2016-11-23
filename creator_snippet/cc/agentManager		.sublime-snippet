@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.agentManager		]]></content>
+	<tabTrigger>cc.agentManager		</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

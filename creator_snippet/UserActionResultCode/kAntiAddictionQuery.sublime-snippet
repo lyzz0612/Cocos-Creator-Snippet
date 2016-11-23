@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UserActionResultCode.kAntiAddictionQuery]]></content>
+	<tabTrigger>UserActionResultCode.kAntiAddictionQuery</tabTrigger>
+	<scope>source.js</scope>
+	<description>UserActionResultCode</description>
+</snippet>

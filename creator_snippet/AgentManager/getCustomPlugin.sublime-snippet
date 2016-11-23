@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getCustomPlugin(${1:})]]></content>
+	<tabTrigger>getCustomPlugin()</tabTrigger>
+	<scope>source.js</scope>
+	<description>AgentManager</description>
+</snippet>

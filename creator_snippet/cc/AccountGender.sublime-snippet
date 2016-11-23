@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.AccountGender]]></content>
+	<tabTrigger>cc.AccountGender</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

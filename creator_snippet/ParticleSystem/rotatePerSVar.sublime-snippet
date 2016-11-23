@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[rotatePerSVar]]></content>
+	<tabTrigger>ParticleSystem.rotatePerSVar</tabTrigger>
+	<scope>source.js</scope>
+	<description>ParticleSystem</description>
+</snippet>

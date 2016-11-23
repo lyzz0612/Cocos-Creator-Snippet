@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[backGroundImage]]></content>
+	<tabTrigger>EditBox.backGroundImage</tabTrigger>
+	<scope>source.js</scope>
+	<description>EditBox</description>
+</snippet>

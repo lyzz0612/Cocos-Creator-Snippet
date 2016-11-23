@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Macro.OPTIMIZE_BLEND_FUNC_FOR_PREMULTIPLIED_ALPHA]]></content>
+	<tabTrigger>Macro.OPTIMIZE_BLEND_FUNC_FOR_PREMULTIPLIED_ALPHA</tabTrigger>
+	<scope>source.js</scope>
+	<description>Macro</description>
+</snippet>

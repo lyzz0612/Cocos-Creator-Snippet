@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DESKTOP_BROWSER]]></content>
+	<tabTrigger>sys.DESKTOP_BROWSER</tabTrigger>
+	<scope>source.js</scope>
+	<description>sys</description>
+</snippet>

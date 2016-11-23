@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.fadeOut(${1:d})]]></content>
+	<tabTrigger>cc.fadeOut(d)	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

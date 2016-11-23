@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[START_RADIUS_EQUAL_TO_END_RADIUS]]></content>
+	<tabTrigger>ParticleSystem.START_RADIUS_EQUAL_TO_END_RADIUS</tabTrigger>
+	<scope>source.js</scope>
+	<description>ParticleSystem</description>
+</snippet>

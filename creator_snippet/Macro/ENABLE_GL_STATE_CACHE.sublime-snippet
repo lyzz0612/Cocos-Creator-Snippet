@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Macro.ENABLE_GL_STATE_CACHE]]></content>
+	<tabTrigger>Macro.ENABLE_GL_STATE_CACHE</tabTrigger>
+	<scope>source.js</scope>
+	<description>Macro</description>
+</snippet>

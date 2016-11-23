@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[onComplete(${1:errors}, ${2:items})]]></content>
+	<tabTrigger>onComplete(errors, items)</tabTrigger>
+	<scope>source.js</scope>
+	<description>LoadingItems</description>
+</snippet>

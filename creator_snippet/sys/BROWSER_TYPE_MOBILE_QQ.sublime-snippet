@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BROWSER_TYPE_MOBILE_QQ]]></content>
+	<tabTrigger>sys.BROWSER_TYPE_MOBILE_QQ</tabTrigger>
+	<scope>source.js</scope>
+	<description>sys</description>
+</snippet>

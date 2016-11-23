@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[garbageCollect(${1:})]]></content>
+	<tabTrigger>garbageCollect()</tabTrigger>
+	<scope>source.js</scope>
+	<description>sys</description>
+</snippet>

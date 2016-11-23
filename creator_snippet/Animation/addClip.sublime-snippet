@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[addClip(${1:clip}, ${2:newName?})]]></content>
+	<tabTrigger>addClip(clip, newName?)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Animation</description>
+</snippet>

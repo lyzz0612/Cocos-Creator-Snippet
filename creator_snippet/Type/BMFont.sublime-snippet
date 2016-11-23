@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Type.BMFont]]></content>
+	<tabTrigger>Type.BMFont</tabTrigger>
+	<scope>source.js</scope>
+	<description>Type</description>
+</snippet>

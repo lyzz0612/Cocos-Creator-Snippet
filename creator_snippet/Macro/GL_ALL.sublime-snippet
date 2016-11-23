@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Macro.GL_ALL]]></content>
+	<tabTrigger>Macro.GL_ALL</tabTrigger>
+	<scope>source.js</scope>
+	<description>Macro</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.pPerp(${1:point})]]></content>
+	<tabTrigger>cc.pPerp(point)	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

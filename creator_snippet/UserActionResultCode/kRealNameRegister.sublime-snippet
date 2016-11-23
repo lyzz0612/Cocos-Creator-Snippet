@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UserActionResultCode.kRealNameRegister]]></content>
+	<tabTrigger>UserActionResultCode.kRealNameRegister</tabTrigger>
+	<scope>source.js</scope>
+	<description>UserActionResultCode</description>
+</snippet>

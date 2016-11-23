@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[normalize(${1:out})]]></content>
+	<tabTrigger>normalize(out)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Vec2</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Macro.randomMinus1To1]]></content>
+	<tabTrigger>Macro.randomMinus1To1</tabTrigger>
+	<scope>source.js</scope>
+	<description>Macro</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setCurrentTime(${1:time?}, ${2:name?})]]></content>
+	<tabTrigger>setCurrentTime(time?, name?)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Animation</description>
+</snippet>

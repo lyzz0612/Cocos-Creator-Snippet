@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[rotationIsDir]]></content>
+	<tabTrigger>ParticleSystem.rotationIsDir</tabTrigger>
+	<scope>source.js</scope>
+	<description>ParticleSystem</description>
+</snippet>

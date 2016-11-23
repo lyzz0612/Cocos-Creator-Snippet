@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ImageFormat.PVR]]></content>
+	<tabTrigger>ImageFormat.PVR</tabTrigger>
+	<scope>source.js</scope>
+	<description>ImageFormat</description>
+</snippet>

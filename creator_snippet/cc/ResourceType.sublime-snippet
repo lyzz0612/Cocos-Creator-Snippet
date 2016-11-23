@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.ResourceType]]></content>
+	<tabTrigger>cc.ResourceType</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

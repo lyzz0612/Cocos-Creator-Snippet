@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setPageView(${1:target})]]></content>
+	<tabTrigger>setPageView(target)</tabTrigger>
+	<scope>source.js</scope>
+	<description>PageViewIndicator</description>
+</snippet>

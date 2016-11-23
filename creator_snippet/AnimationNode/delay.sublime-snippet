@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[delay]]></content>
+	<tabTrigger>AnimationNode.delay</tabTrigger>
+	<scope>source.js</scope>
+	<description>AnimationNode</description>
+</snippet>

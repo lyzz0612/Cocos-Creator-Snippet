@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.info(${1:obj}, ${2:subst})]]></content>
+	<tabTrigger>cc.info(obj, subst)	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

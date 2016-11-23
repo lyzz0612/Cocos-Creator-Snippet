@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[horizontalDirection]]></content>
+	<tabTrigger>Layout.horizontalDirection</tabTrigger>
+	<scope>source.js</scope>
+	<description>Layout</description>
+</snippet>

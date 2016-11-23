@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[tabIndex]]></content>
+	<tabTrigger>EditBox.tabIndex</tabTrigger>
+	<scope>source.js</scope>
+	<description>EditBox</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.AffineTransform]]></content>
+	<tabTrigger>cc.AffineTransform</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

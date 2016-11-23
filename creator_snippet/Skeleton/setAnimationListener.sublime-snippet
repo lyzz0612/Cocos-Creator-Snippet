@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setAnimationListener(${1:target}, ${2:callback})]]></content>
+	<tabTrigger>setAnimationListener(target, callback)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Skeleton</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[enterPlatform(${1:})]]></content>
+	<tabTrigger>enterPlatform()</tabTrigger>
+	<scope>source.js</scope>
+	<description>ProtocolREC</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[emit(${1:message}, ${2:detail?})]]></content>
+	<tabTrigger>emit(message, detail?)</tabTrigger>
+	<scope>source.js</scope>
+	<description>EventTarget</description>
+</snippet>

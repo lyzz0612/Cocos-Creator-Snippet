@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.easeBackOut(${1:})]]></content>
+	<tabTrigger>cc.easeBackOut()	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

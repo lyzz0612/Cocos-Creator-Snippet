@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Macro.AUTO_PREMULTIPLIED_ALPHA_FOR_PNG]]></content>
+	<tabTrigger>Macro.AUTO_PREMULTIPLIED_ALPHA_FOR_PNG</tabTrigger>
+	<scope>source.js</scope>
+	<description>Macro</description>
+</snippet>

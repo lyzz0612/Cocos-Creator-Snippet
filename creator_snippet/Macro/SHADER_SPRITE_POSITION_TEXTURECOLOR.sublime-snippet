@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Macro.SHADER_SPRITE_POSITION_TEXTURECOLOR]]></content>
+	<tabTrigger>Macro.SHADER_SPRITE_POSITION_TEXTURECOLOR</tabTrigger>
+	<scope>source.js</scope>
+	<description>Macro</description>
+</snippet>

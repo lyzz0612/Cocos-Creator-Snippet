@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Macro.TOUCH_TIMEOUT]]></content>
+	<tabTrigger>Macro.TOUCH_TIMEOUT</tabTrigger>
+	<scope>source.js</scope>
+	<description>Macro</description>
+</snippet>

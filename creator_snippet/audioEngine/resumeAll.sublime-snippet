@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[resumeAll(${1:})]]></content>
+	<tabTrigger>resumeAll()</tabTrigger>
+	<scope>source.js</scope>
+	<description>audioEngine</description>
+</snippet>

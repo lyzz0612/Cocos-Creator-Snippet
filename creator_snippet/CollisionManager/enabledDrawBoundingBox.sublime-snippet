@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[enabledDrawBoundingBox]]></content>
+	<tabTrigger>CollisionManager.enabledDrawBoundingBox</tabTrigger>
+	<scope>source.js</scope>
+	<description>CollisionManager</description>
+</snippet>

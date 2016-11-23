@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[color]]></content>
+	<tabTrigger>MotionStreak.color</tabTrigger>
+	<scope>source.js</scope>
+	<description>MotionStreak</description>
+</snippet>

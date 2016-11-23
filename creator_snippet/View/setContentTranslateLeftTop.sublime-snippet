@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setContentTranslateLeftTop(${1:offsetLeft}, ${2:offsetTop})]]></content>
+	<tabTrigger>setContentTranslateLeftTop(offsetLeft, offsetTop)</tabTrigger>
+	<scope>source.js</scope>
+	<description>View</description>
+</snippet>

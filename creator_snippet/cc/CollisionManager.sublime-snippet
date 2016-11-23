@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.CollisionManager]]></content>
+	<tabTrigger>cc.CollisionManager</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

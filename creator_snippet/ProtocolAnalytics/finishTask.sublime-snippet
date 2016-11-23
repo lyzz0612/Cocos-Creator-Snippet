@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[finishTask(${1:taskID})]]></content>
+	<tabTrigger>finishTask(taskID)</tabTrigger>
+	<scope>source.js</scope>
+	<description>ProtocolAnalytics</description>
+</snippet>

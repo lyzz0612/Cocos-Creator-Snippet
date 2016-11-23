@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AdsResultCode.kAdsShown]]></content>
+	<tabTrigger>AdsResultCode.kAdsShown</tabTrigger>
+	<scope>source.js</scope>
+	<description>AdsResultCode</description>
+</snippet>

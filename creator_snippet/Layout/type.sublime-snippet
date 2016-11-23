@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[type]]></content>
+	<tabTrigger>Layout.type</tabTrigger>
+	<scope>source.js</scope>
+	<description>Layout</description>
+</snippet>

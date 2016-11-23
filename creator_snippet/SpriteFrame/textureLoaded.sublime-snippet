@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[textureLoaded(${1:})]]></content>
+	<tabTrigger>textureLoaded()</tabTrigger>
+	<scope>source.js</scope>
+	<description>SpriteFrame</description>
+</snippet>

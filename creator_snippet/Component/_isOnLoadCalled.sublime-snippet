@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[_isOnLoadCalled]]></content>
+	<tabTrigger>Component._isOnLoadCalled</tabTrigger>
+	<scope>source.js</scope>
+	<description>Component</description>
+</snippet>

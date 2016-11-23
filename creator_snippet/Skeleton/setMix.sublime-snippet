@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setMix(${1:fromAnimation}, ${2:toAnimation}, ${3:duration})]]></content>
+	<tabTrigger>setMix(fromAnimation, toAnimation, duration)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Skeleton</description>
+</snippet>

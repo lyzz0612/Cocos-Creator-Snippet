@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Macro.ITEM_SIZE]]></content>
+	<tabTrigger>Macro.ITEM_SIZE</tabTrigger>
+	<scope>source.js</scope>
+	<description>Macro</description>
+</snippet>

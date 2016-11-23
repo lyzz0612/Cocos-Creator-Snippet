@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.Mask]]></content>
+	<tabTrigger>cc.Mask</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

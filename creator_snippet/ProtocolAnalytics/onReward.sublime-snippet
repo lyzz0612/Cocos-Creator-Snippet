@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[onReward(${1:paramMap})]]></content>
+	<tabTrigger>onReward(paramMap)</tabTrigger>
+	<scope>source.js</scope>
+	<description>ProtocolAnalytics</description>
+</snippet>

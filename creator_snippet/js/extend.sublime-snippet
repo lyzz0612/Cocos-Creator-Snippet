@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[js.extend(${1:cls}, ${2:base})]]></content>
+	<tabTrigger>js.extend(cls, base)	</tabTrigger>
+	<scope>source.js</scope>
+	<description>js</description>
+</snippet>

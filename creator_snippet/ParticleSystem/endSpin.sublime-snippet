@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[endSpin]]></content>
+	<tabTrigger>ParticleSystem.endSpin</tabTrigger>
+	<scope>source.js</scope>
+	<description>ParticleSystem</description>
+</snippet>

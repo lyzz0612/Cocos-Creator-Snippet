@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[designResolution]]></content>
+	<tabTrigger>Canvas.designResolution</tabTrigger>
+	<scope>source.js</scope>
+	<description>Canvas</description>
+</snippet>

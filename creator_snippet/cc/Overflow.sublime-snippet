@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.Overflow]]></content>
+	<tabTrigger>cc.Overflow</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[fullScreen(${1:})]]></content>
+	<tabTrigger>fullScreen()</tabTrigger>
+	<scope>source.js</scope>
+	<description>screen</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[logTimedEventEnd(${1:eventId})]]></content>
+	<tabTrigger>logTimedEventEnd(eventId)</tabTrigger>
+	<scope>source.js</scope>
+	<description>ProtocolAnalytics</description>
+</snippet>

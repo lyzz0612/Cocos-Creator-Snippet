@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getIAPPlugins(${1:})]]></content>
+	<tabTrigger>getIAPPlugins()</tabTrigger>
+	<scope>source.js</scope>
+	<description>AgentManager</description>
+</snippet>

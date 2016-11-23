@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IPHONE]]></content>
+	<tabTrigger>sys.IPHONE</tabTrigger>
+	<scope>source.js</scope>
+	<description>sys</description>
+</snippet>

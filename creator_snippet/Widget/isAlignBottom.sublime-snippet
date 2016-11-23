@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isAlignBottom]]></content>
+	<tabTrigger>Widget.isAlignBottom</tabTrigger>
+	<scope>source.js</scope>
+	<description>Widget</description>
+</snippet>

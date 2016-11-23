@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Macro.DST_ALPHA]]></content>
+	<tabTrigger>Macro.DST_ALPHA</tabTrigger>
+	<scope>source.js</scope>
+	<description>Macro</description>
+</snippet>

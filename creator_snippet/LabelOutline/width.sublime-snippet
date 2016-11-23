@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[width]]></content>
+	<tabTrigger>LabelOutline.width</tabTrigger>
+	<scope>source.js</scope>
+	<description>LabelOutline</description>
+</snippet>

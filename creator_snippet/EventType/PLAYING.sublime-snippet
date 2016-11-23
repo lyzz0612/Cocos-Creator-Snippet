@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EventType.PLAYING]]></content>
+	<tabTrigger>EventType.PLAYING</tabTrigger>
+	<scope>source.js</scope>
+	<description>EventType</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[file]]></content>
+	<tabTrigger>ParticleSystem.file</tabTrigger>
+	<scope>source.js</scope>
+	<description>ParticleSystem</description>
+</snippet>

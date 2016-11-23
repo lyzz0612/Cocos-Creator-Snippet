@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getHTMLElementPosition(${1:element})]]></content>
+	<tabTrigger>getHTMLElementPosition(element)</tabTrigger>
+	<scope>source.js</scope>
+	<description>inputManager</description>
+</snippet>

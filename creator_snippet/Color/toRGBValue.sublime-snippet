@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[toRGBValue(${1:})]]></content>
+	<tabTrigger>toRGBValue()</tabTrigger>
+	<scope>source.js</scope>
+	<description>Color</description>
+</snippet>

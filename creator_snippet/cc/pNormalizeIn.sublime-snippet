@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.pNormalizeIn(${1:v})]]></content>
+	<tabTrigger>cc.pNormalizeIn(v)	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

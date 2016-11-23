@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setLoginType(${1:loginType})]]></content>
+	<tabTrigger>setLoginType(loginType)</tabTrigger>
+	<scope>source.js</scope>
+	<description>ProtocolUser</description>
+</snippet>

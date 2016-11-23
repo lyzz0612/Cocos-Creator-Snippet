@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[onDisable(${1:})]]></content>
+	<tabTrigger>onDisable()</tabTrigger>
+	<scope>source.js</scope>
+	<description>Component</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WrapMode.PingPong]]></content>
+	<tabTrigger>WrapMode.PingPong</tabTrigger>
+	<scope>source.js</scope>
+	<description>WrapMode</description>
+</snippet>

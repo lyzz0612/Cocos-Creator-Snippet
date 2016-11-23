@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UserActionResultCode.kLoginNetworkError]]></content>
+	<tabTrigger>UserActionResultCode.kLoginNetworkError</tabTrigger>
+	<scope>source.js</scope>
+	<description>UserActionResultCode</description>
+</snippet>

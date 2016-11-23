@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Macro.FLT_MAX]]></content>
+	<tabTrigger>Macro.FLT_MAX</tabTrigger>
+	<scope>source.js</scope>
+	<description>Macro</description>
+</snippet>

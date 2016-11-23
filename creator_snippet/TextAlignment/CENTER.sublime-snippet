@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TextAlignment.CENTER]]></content>
+	<tabTrigger>TextAlignment.CENTER</tabTrigger>
+	<scope>source.js</scope>
+	<description>TextAlignment</description>
+</snippet>

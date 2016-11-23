@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getCurrentPageIndex(${1:})]]></content>
+	<tabTrigger>getCurrentPageIndex()</tabTrigger>
+	<scope>source.js</scope>
+	<description>PageView</description>
+</snippet>

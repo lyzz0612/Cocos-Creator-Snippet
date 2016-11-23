@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BYTES_PER_ELEMENT]]></content>
+	<tabTrigger>WebGLColor.BYTES_PER_ELEMENT</tabTrigger>
+	<scope>source.js</scope>
+	<description>WebGLColor</description>
+</snippet>

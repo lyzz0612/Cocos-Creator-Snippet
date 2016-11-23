@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[lineWidth]]></content>
+	<tabTrigger>Graphics.lineWidth</tabTrigger>
+	<scope>source.js</scope>
+	<description>Graphics</description>
+</snippet>

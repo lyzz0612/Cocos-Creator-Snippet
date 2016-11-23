@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ItemState.COMPLETET]]></content>
+	<tabTrigger>ItemState.COMPLETET</tabTrigger>
+	<scope>source.js</scope>
+	<description>ItemState</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[equals(${1:other})]]></content>
+	<tabTrigger>equals(other)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Rect</description>
+</snippet>

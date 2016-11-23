@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Orientation.ISO]]></content>
+	<tabTrigger>Orientation.ISO</tabTrigger>
+	<scope>source.js</scope>
+	<description>Orientation</description>
+</snippet>

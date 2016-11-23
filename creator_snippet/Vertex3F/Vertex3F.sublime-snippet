@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Vertex3F(${1:x}, ${2:y}, ${3:z}, ${4:arrayBuffer}, ${5:offset})]]></content>
+	<tabTrigger>Vertex3F(x, y, z, arrayBuffer, offset)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Vertex3F</description>
+</snippet>

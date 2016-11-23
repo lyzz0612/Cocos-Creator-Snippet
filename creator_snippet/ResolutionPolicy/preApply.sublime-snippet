@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[preApply(${1:view})]]></content>
+	<tabTrigger>preApply(view)</tabTrigger>
+	<scope>source.js</scope>
+	<description>ResolutionPolicy</description>
+</snippet>

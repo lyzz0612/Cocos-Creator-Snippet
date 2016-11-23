@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.dragonBonesJson	]]></content>
+	<tabTrigger>cc.dragonBonesJson	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isAdTypeSupported(${1:arg0})]]></content>
+	<tabTrigger>isAdTypeSupported(arg0)</tabTrigger>
+	<scope>source.js</scope>
+	<description>ProtocolAds</description>
+</snippet>

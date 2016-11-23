@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Macro.CURRENT_ITEM]]></content>
+	<tabTrigger>Macro.CURRENT_ITEM</tabTrigger>
+	<scope>source.js</scope>
+	<description>Macro</description>
+</snippet>

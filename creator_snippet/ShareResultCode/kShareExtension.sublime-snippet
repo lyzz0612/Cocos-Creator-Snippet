@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ShareResultCode.kShareExtension]]></content>
+	<tabTrigger>ShareResultCode.kShareExtension</tabTrigger>
+	<scope>source.js</scope>
+	<description>ShareResultCode</description>
+</snippet>

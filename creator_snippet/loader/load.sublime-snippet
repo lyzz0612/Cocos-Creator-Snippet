@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[load(${1:resources}, ${2:progressCallback?}, ${3:completeCallback})]]></content>
+	<tabTrigger>load(resources, progressCallback?, completeCallback)</tabTrigger>
+	<scope>source.js</scope>
+	<description>loader</description>
+</snippet>

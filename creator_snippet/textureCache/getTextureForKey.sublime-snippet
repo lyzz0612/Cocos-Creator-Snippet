@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getTextureForKey(${1:textureKeyName})]]></content>
+	<tabTrigger>getTextureForKey(textureKeyName)</tabTrigger>
+	<scope>source.js</scope>
+	<description>textureCache</description>
+</snippet>

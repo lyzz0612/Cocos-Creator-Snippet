@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isAnaylticsEnabled(${1:})]]></content>
+	<tabTrigger>isAnaylticsEnabled()</tabTrigger>
+	<scope>source.js</scope>
+	<description>AgentManager</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[pauseTargets(${1:targetsToPause})]]></content>
+	<tabTrigger>pauseTargets(targetsToPause)</tabTrigger>
+	<scope>source.js</scope>
+	<description>ActionManager</description>
+</snippet>

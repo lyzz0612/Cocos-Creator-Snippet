@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AdsResultCode.kUnknownError]]></content>
+	<tabTrigger>AdsResultCode.kUnknownError</tabTrigger>
+	<scope>source.js</scope>
+	<description>AdsResultCode</description>
+</snippet>

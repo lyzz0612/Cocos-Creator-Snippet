@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[duration]]></content>
+	<tabTrigger>AnimationNode.duration</tabTrigger>
+	<scope>source.js</scope>
+	<description>AnimationNode</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Macro.LABELATLAS_DEBUG_DRAW]]></content>
+	<tabTrigger>Macro.LABELATLAS_DEBUG_DRAW</tabTrigger>
+	<scope>source.js</scope>
+	<description>Macro</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FillType.VERTICAL]]></content>
+	<tabTrigger>FillType.VERTICAL</tabTrigger>
+	<scope>source.js</scope>
+	<description>FillType</description>
+</snippet>

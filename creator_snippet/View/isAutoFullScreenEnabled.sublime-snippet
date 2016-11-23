@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isAutoFullScreenEnabled(${1:})]]></content>
+	<tabTrigger>isAutoFullScreenEnabled()</tabTrigger>
+	<scope>source.js</scope>
+	<description>View</description>
+</snippet>

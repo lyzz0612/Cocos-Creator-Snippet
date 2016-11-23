@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getPluginVersion(${1:})]]></content>
+	<tabTrigger>getPluginVersion()</tabTrigger>
+	<scope>source.js</scope>
+	<description>PluginProtocol</description>
+</snippet>

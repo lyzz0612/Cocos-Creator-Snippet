@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.rectGetMidY(${1:rect})]]></content>
+	<tabTrigger>cc.rectGetMidY(rect)	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

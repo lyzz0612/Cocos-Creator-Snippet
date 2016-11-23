@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.SystemEvent]]></content>
+	<tabTrigger>cc.SystemEvent</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

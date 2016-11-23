@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[flowIn(${1:items})]]></content>
+	<tabTrigger>flowIn(items)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Pipeline</description>
+</snippet>

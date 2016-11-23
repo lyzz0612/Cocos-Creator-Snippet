@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[verticalCenter]]></content>
+	<tabTrigger>Widget.verticalCenter</tabTrigger>
+	<scope>source.js</scope>
+	<description>Widget</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getSecondsPerFrame(${1:})]]></content>
+	<tabTrigger>getSecondsPerFrame()</tabTrigger>
+	<scope>source.js</scope>
+	<description>Director</description>
+</snippet>

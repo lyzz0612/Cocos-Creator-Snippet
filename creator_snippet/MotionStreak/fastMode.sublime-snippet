@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[fastMode]]></content>
+	<tabTrigger>MotionStreak.fastMode</tabTrigger>
+	<scope>source.js</scope>
+	<description>MotionStreak</description>
+</snippet>

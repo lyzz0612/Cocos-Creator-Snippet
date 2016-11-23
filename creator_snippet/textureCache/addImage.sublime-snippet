@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[addImage(${1:url}, ${2:cb}, ${3:target})]]></content>
+	<tabTrigger>addImage(url, cb, target)</tabTrigger>
+	<scope>source.js</scope>
+	<description>textureCache</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RECResultCode.kRECShareFail]]></content>
+	<tabTrigger>RECResultCode.kRECShareFail</tabTrigger>
+	<scope>source.js</scope>
+	<description>RECResultCode</description>
+</snippet>

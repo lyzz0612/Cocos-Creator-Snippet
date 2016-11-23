@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SocialRetCode.kSocialSubscriptionFail]]></content>
+	<tabTrigger>SocialRetCode.kSocialSubscriptionFail</tabTrigger>
+	<scope>source.js</scope>
+	<description>SocialRetCode</description>
+</snippet>

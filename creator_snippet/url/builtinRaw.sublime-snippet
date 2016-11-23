@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[builtinRaw(${1:url})]]></content>
+	<tabTrigger>builtinRaw(url)</tabTrigger>
+	<scope>source.js</scope>
+	<description>url</description>
+</snippet>

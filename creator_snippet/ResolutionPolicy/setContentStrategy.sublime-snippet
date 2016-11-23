@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setContentStrategy(${1:contentStg})]]></content>
+	<tabTrigger>setContentStrategy(contentStg)</tabTrigger>
+	<scope>source.js</scope>
+	<description>ResolutionPolicy</description>
+</snippet>

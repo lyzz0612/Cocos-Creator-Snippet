@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getMapSize(${1:})]]></content>
+	<tabTrigger>getMapSize()</tabTrigger>
+	<scope>source.js</scope>
+	<description>TiledMap</description>
+</snippet>

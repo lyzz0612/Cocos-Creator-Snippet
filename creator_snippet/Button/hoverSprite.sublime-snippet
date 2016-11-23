@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[hoverSprite]]></content>
+	<tabTrigger>Button.hoverSprite</tabTrigger>
+	<scope>source.js</scope>
+	<description>Button</description>
+</snippet>

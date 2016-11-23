@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ResourceType.LOCAL]]></content>
+	<tabTrigger>ResourceType.LOCAL</tabTrigger>
+	<scope>source.js</scope>
+	<description>ResourceType</description>
+</snippet>

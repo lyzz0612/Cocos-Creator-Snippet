@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setOpacityModifyRGB(${1:opacityValue})]]></content>
+	<tabTrigger>setOpacityModifyRGB(opacityValue)</tabTrigger>
+	<scope>source.js</scope>
+	<description>_BaseNode</description>
+</snippet>

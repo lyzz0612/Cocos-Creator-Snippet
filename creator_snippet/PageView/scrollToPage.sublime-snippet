@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[scrollToPage(${1:idx}, ${2:timeInSecond})]]></content>
+	<tabTrigger>scrollToPage(idx, timeInSecond)</tabTrigger>
+	<scope>source.js</scope>
+	<description>PageView</description>
+</snippet>

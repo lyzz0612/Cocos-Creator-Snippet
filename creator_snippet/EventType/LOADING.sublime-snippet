@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EventType.LOADING]]></content>
+	<tabTrigger>EventType.LOADING</tabTrigger>
+	<scope>source.js</scope>
+	<description>EventType</description>
+</snippet>

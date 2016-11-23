@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[anchorX]]></content>
+	<tabTrigger>_BaseNode.anchorX</tabTrigger>
+	<scope>source.js</scope>
+	<description>_BaseNode</description>
+</snippet>

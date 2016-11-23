@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.SceneAsset]]></content>
+	<tabTrigger>cc.SceneAsset</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

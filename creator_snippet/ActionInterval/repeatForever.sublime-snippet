@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[repeatForever(${1:})]]></content>
+	<tabTrigger>repeatForever()</tabTrigger>
+	<scope>source.js</scope>
+	<description>ActionInterval</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[clip]]></content>
+	<tabTrigger>AudioSource.clip</tabTrigger>
+	<scope>source.js</scope>
+	<description>AudioSource</description>
+</snippet>

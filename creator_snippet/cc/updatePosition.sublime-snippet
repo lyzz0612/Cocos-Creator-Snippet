@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.updatePosition(${1:newPos})]]></content>
+	<tabTrigger>cc.updatePosition(newPos)	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

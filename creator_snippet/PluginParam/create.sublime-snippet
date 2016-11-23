@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[create(${1:parameters})]]></content>
+	<tabTrigger>create(parameters)</tabTrigger>
+	<scope>source.js</scope>
+	<description>PluginParam</description>
+</snippet>

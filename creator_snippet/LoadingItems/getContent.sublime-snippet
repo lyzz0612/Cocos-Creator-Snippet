@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getContent(${1:id})]]></content>
+	<tabTrigger>getContent(id)</tabTrigger>
+	<scope>source.js</scope>
+	<description>LoadingItems</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AccountType.REGISTED]]></content>
+	<tabTrigger>AccountType.REGISTED</tabTrigger>
+	<scope>source.js</scope>
+	<description>AccountType</description>
+</snippet>

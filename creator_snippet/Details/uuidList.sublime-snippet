@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[uuidList]]></content>
+	<tabTrigger>Details.uuidList</tabTrigger>
+	<scope>source.js</scope>
+	<description>Details</description>
+</snippet>

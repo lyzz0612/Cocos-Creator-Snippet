@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LineJoin.BEVEL]]></content>
+	<tabTrigger>LineJoin.BEVEL</tabTrigger>
+	<scope>source.js</scope>
+	<description>LineJoin</description>
+</snippet>

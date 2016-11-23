@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[minSeg]]></content>
+	<tabTrigger>MotionStreak.minSeg</tabTrigger>
+	<scope>source.js</scope>
+	<description>MotionStreak</description>
+</snippet>

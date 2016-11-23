@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ResourceType.REMOTE]]></content>
+	<tabTrigger>ResourceType.REMOTE</tabTrigger>
+	<scope>source.js</scope>
+	<description>ResourceType</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[textChanged]]></content>
+	<tabTrigger>EditBox.textChanged</tabTrigger>
+	<scope>source.js</scope>
+	<description>EditBox</description>
+</snippet>

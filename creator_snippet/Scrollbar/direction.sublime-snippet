@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[direction]]></content>
+	<tabTrigger>Scrollbar.direction</tabTrigger>
+	<scope>source.js</scope>
+	<description>Scrollbar</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.pZeroIn(${1:v})]]></content>
+	<tabTrigger>cc.pZeroIn(v)	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

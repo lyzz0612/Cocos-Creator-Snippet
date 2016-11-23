@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Downloader(${1:extMap})]]></content>
+	<tabTrigger>Downloader(extMap)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Downloader</description>
+</snippet>

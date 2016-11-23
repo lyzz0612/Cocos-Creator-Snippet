@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[tangentialAccelVar]]></content>
+	<tabTrigger>ParticleSystem.tangentialAccelVar</tabTrigger>
+	<scope>source.js</scope>
+	<description>ParticleSystem</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[updateQuad(${1:quad}, ${2:index})]]></content>
+	<tabTrigger>updateQuad(quad, index)</tabTrigger>
+	<scope>source.js</scope>
+	<description>TextureAtlas</description>
+</snippet>

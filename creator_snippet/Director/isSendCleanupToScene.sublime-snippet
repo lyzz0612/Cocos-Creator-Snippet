@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isSendCleanupToScene(${1:})]]></content>
+	<tabTrigger>isSendCleanupToScene()</tabTrigger>
+	<scope>source.js</scope>
+	<description>Director</description>
+</snippet>

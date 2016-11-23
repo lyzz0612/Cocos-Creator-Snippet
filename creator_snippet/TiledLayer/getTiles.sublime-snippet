@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getTiles(${1:})]]></content>
+	<tabTrigger>getTiles()</tabTrigger>
+	<scope>source.js</scope>
+	<description>TiledLayer</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DontSave]]></content>
+	<tabTrigger>Flags.DontSave</tabTrigger>
+	<scope>source.js</scope>
+	<description>Flags</description>
+</snippet>

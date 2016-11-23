@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isFlowing(${1:})]]></content>
+	<tabTrigger>isFlowing()</tabTrigger>
+	<scope>source.js</scope>
+	<description>Pipeline</description>
+</snippet>

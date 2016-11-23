@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[rawProp]]></content>
+	<tabTrigger>Details.rawProp</tabTrigger>
+	<scope>source.js</scope>
+	<description>Details</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Macro.FIX_ARTIFACTS_BY_STRECHING_TEXEL]]></content>
+	<tabTrigger>Macro.FIX_ARTIFACTS_BY_STRECHING_TEXEL</tabTrigger>
+	<scope>source.js</scope>
+	<description>Macro</description>
+</snippet>

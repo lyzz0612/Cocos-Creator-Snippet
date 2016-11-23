@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[linePolygon(${1:a1}, ${2:a2}, ${3:b})]]></content>
+	<tabTrigger>linePolygon(a1, a2, b)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Intersection</description>
+</snippet>

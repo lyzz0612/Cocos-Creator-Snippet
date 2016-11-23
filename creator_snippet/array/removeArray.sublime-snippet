@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[removeArray(${1:array}, ${2:minusArr})]]></content>
+	<tabTrigger>removeArray(array, minusArr)</tabTrigger>
+	<scope>source.js</scope>
+	<description>array</description>
+</snippet>

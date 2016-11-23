@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[transition]]></content>
+	<tabTrigger>Button.transition</tabTrigger>
+	<scope>source.js</scope>
+	<description>Button</description>
+</snippet>

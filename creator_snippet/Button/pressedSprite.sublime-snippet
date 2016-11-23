@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[pressedSprite]]></content>
+	<tabTrigger>Button.pressedSprite</tabTrigger>
+	<scope>source.js</scope>
+	<description>Button</description>
+</snippet>

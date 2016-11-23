@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.AdsResultCode]]></content>
+	<tabTrigger>cc.AdsResultCode</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

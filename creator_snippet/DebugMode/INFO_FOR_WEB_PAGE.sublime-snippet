@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DebugMode.INFO_FOR_WEB_PAGE]]></content>
+	<tabTrigger>DebugMode.INFO_FOR_WEB_PAGE</tabTrigger>
+	<scope>source.js</scope>
+	<description>DebugMode</description>
+</snippet>

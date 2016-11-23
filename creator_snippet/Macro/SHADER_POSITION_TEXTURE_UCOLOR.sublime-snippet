@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Macro.SHADER_POSITION_TEXTURE_UCOLOR]]></content>
+	<tabTrigger>Macro.SHADER_POSITION_TEXTURE_UCOLOR</tabTrigger>
+	<scope>source.js</scope>
+	<description>Macro</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[stroke]]></content>
+	<tabTrigger>MotionStreak.stroke</tabTrigger>
+	<scope>source.js</scope>
+	<description>MotionStreak</description>
+</snippet>

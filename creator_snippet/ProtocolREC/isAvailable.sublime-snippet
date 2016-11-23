@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isAvailable(${1:})]]></content>
+	<tabTrigger>isAvailable()</tabTrigger>
+	<scope>source.js</scope>
+	<description>ProtocolREC</description>
+</snippet>

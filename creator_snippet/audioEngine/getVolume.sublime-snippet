@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getVolume(${1:audioID})]]></content>
+	<tabTrigger>getVolume(audioID)</tabTrigger>
+	<scope>source.js</scope>
+	<description>audioEngine</description>
+</snippet>

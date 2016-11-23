@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[editingDidEnded]]></content>
+	<tabTrigger>EditBox.editingDidEnded</tabTrigger>
+	<scope>source.js</scope>
+	<description>EditBox</description>
+</snippet>

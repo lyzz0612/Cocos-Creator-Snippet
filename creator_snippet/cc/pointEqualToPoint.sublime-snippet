@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.pointEqualToPoint(${1:point1}, ${2:point2})]]></content>
+	<tabTrigger>cc.pointEqualToPoint(point1, point2)	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

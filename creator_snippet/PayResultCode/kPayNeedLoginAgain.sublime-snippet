@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PayResultCode.kPayNeedLoginAgain]]></content>
+	<tabTrigger>PayResultCode.kPayNeedLoginAgain</tabTrigger>
+	<scope>source.js</scope>
+	<description>PayResultCode</description>
+</snippet>

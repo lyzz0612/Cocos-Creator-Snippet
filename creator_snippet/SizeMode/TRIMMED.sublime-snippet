@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SizeMode.TRIMMED]]></content>
+	<tabTrigger>SizeMode.TRIMMED</tabTrigger>
+	<scope>source.js</scope>
+	<description>SizeMode</description>
+</snippet>

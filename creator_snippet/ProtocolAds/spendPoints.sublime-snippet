@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[spendPoints(${1:points})]]></content>
+	<tabTrigger>spendPoints(points)</tabTrigger>
+	<scope>source.js</scope>
+	<description>ProtocolAds</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[yMin]]></content>
+	<tabTrigger>Rect.yMin</tabTrigger>
+	<scope>source.js</scope>
+	<description>Rect</description>
+</snippet>

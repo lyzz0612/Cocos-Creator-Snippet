@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EVENT_SHOW]]></content>
+	<tabTrigger>Game.EVENT_SHOW</tabTrigger>
+	<scope>source.js</scope>
+	<description>Game</description>
+</snippet>

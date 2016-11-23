@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EXACT_FIT]]></content>
+	<tabTrigger>ResolutionPolicy.EXACT_FIT</tabTrigger>
+	<scope>source.js</scope>
+	<description>ResolutionPolicy</description>
+</snippet>

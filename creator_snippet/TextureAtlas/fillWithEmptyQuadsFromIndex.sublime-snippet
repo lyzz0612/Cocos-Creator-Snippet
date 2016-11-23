@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[fillWithEmptyQuadsFromIndex(${1:index}, ${2:amount})]]></content>
+	<tabTrigger>fillWithEmptyQuadsFromIndex(index, amount)</tabTrigger>
+	<scope>source.js</scope>
+	<description>TextureAtlas</description>
+</snippet>

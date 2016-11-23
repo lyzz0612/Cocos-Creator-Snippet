@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AccountType.SINA_WEIBO]]></content>
+	<tabTrigger>AccountType.SINA_WEIBO</tabTrigger>
+	<scope>source.js</scope>
+	<description>AccountType</description>
+</snippet>

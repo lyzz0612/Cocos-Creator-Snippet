@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.ProtocolPush]]></content>
+	<tabTrigger>cc.ProtocolPush</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[bezierCurveTo(${1:c1x?}, ${2:c1y?}, ${3:c2x?}, ${4:c2y?}, ${5:x?}, ${6:y?})]]></content>
+	<tabTrigger>bezierCurveTo(c1x?, c1y?, c2x?, c2y?, x?, y?)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Graphics</description>
+</snippet>

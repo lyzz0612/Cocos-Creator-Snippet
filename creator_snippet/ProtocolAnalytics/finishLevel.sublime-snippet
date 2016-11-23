@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[finishLevel(${1:levelID})]]></content>
+	<tabTrigger>finishLevel(levelID)</tabTrigger>
+	<scope>source.js</scope>
+	<description>ProtocolAnalytics</description>
+</snippet>

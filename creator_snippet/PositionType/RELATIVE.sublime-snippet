@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PositionType.RELATIVE]]></content>
+	<tabTrigger>PositionType.RELATIVE</tabTrigger>
+	<scope>source.js</scope>
+	<description>PositionType</description>
+</snippet>

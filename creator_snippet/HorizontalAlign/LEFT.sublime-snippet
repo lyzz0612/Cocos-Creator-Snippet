@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HorizontalAlign.LEFT]]></content>
+	<tabTrigger>HorizontalAlign.LEFT</tabTrigger>
+	<scope>source.js</scope>
+	<description>HorizontalAlign</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[onLogin(${1:userInfo})]]></content>
+	<tabTrigger>onLogin(userInfo)</tabTrigger>
+	<scope>source.js</scope>
+	<description>ProtocolAdTracking</description>
+</snippet>

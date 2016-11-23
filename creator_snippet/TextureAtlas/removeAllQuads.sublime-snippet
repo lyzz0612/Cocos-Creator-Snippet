@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[removeAllQuads(${1:})]]></content>
+	<tabTrigger>removeAllQuads()</tabTrigger>
+	<scope>source.js</scope>
+	<description>TextureAtlas</description>
+</snippet>

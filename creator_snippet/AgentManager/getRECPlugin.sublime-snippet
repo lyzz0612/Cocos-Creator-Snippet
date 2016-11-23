@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getRECPlugin(${1:})]]></content>
+	<tabTrigger>getRECPlugin()</tabTrigger>
+	<scope>source.js</scope>
+	<description>AgentManager</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setProperties(${1:Var})]]></content>
+	<tabTrigger>setProperties(Var)</tabTrigger>
+	<scope>source.js</scope>
+	<description>TiledObjectGroup</description>
+</snippet>

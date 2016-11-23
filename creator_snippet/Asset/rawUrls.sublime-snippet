@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[rawUrls]]></content>
+	<tabTrigger>Asset.rawUrls</tabTrigger>
+	<scope>source.js</scope>
+	<description>Asset</description>
+</snippet>

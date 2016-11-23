@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[offset]]></content>
+	<tabTrigger>SpriteDistortion.offset</tabTrigger>
+	<scope>source.js</scope>
+	<description>SpriteDistortion</description>
+</snippet>

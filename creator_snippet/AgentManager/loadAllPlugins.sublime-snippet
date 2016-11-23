@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[loadAllPlugins(${1:callback}, ${2:target})]]></content>
+	<tabTrigger>loadAllPlugins(callback, target)</tabTrigger>
+	<scope>source.js</scope>
+	<description>AgentManager</description>
+</snippet>

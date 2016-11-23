@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LineJoin.MITER]]></content>
+	<tabTrigger>LineJoin.MITER</tabTrigger>
+	<scope>source.js</scope>
+	<description>LineJoin</description>
+</snippet>

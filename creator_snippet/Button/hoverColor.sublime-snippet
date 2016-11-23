@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[hoverColor]]></content>
+	<tabTrigger>Button.hoverColor</tabTrigger>
+	<scope>source.js</scope>
+	<description>Button</description>
+</snippet>

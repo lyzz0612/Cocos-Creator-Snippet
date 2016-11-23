@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[overflow]]></content>
+	<tabTrigger>Label.overflow</tabTrigger>
+	<scope>source.js</scope>
+	<description>Label</description>
+</snippet>

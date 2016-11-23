@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CustomResultCode.kCustomExtension]]></content>
+	<tabTrigger>CustomResultCode.kCustomExtension</tabTrigger>
+	<scope>source.js</scope>
+	<description>CustomResultCode</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ImageFormat.WEBP]]></content>
+	<tabTrigger>ImageFormat.WEBP</tabTrigger>
+	<scope>source.js</scope>
+	<description>ImageFormat</description>
+</snippet>

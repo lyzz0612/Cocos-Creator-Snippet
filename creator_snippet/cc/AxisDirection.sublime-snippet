@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.AxisDirection]]></content>
+	<tabTrigger>cc.AxisDirection</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

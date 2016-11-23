@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SocialRetCode.kSocialAlreadySubscription]]></content>
+	<tabTrigger>SocialRetCode.kSocialAlreadySubscription</tabTrigger>
+	<scope>source.js</scope>
+	<description>SocialRetCode</description>
+</snippet>

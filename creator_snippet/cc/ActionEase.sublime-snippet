@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.ActionEase]]></content>
+	<tabTrigger>cc.ActionEase</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

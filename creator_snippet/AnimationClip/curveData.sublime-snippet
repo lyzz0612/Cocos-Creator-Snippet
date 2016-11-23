@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[curveData]]></content>
+	<tabTrigger>AnimationClip.curveData</tabTrigger>
+	<scope>source.js</scope>
+	<description>AnimationClip</description>
+</snippet>

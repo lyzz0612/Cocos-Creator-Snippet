@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Macro.ONE]]></content>
+	<tabTrigger>Macro.ONE</tabTrigger>
+	<scope>source.js</scope>
+	<description>Macro</description>
+</snippet>

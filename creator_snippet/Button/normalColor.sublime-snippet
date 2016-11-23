@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[normalColor]]></content>
+	<tabTrigger>Button.normalColor</tabTrigger>
+	<scope>source.js</scope>
+	<description>Button</description>
+</snippet>

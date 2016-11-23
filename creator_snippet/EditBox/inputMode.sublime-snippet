@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[inputMode]]></content>
+	<tabTrigger>EditBox.inputMode</tabTrigger>
+	<scope>source.js</scope>
+	<description>EditBox</description>
+</snippet>

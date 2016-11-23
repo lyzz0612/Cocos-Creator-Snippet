@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Type.NONE]]></content>
+	<tabTrigger>Type.NONE</tabTrigger>
+	<scope>source.js</scope>
+	<description>Type</description>
+</snippet>

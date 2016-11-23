@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Tex2F(${1:u}, ${2:v}, ${3:arrayBuffer}, ${4:offset})]]></content>
+	<tabTrigger>Tex2F(u, v, arrayBuffer, offset)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Tex2F</description>
+</snippet>

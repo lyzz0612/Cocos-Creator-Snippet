@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[affineTransformInvert(${1:t})]]></content>
+	<tabTrigger>affineTransformInvert(t)</tabTrigger>
+	<scope>source.js</scope>
+	<description>AffineTransform</description>
+</snippet>

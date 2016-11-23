@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[sp.AnimationEventType]]></content>
+	<tabTrigger>sp.AnimationEventType</tabTrigger>
+	<scope>source.js</scope>
+	<description>sp</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getContentSize(${1:})]]></content>
+	<tabTrigger>getContentSize()</tabTrigger>
+	<scope>source.js</scope>
+	<description>Texture2D</description>
+</snippet>

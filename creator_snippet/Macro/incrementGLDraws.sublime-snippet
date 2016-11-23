@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Macro.incrementGLDraws]]></content>
+	<tabTrigger>Macro.incrementGLDraws</tabTrigger>
+	<scope>source.js</scope>
+	<description>Macro</description>
+</snippet>

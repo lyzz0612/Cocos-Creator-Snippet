@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[hideAds(${1:adstype}, ${2:idx})]]></content>
+	<tabTrigger>hideAds(adstype, idx)</tabTrigger>
+	<scope>source.js</scope>
+	<description>ProtocolAds</description>
+</snippet>

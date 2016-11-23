@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Macro.UNIFORM_SINTIME]]></content>
+	<tabTrigger>Macro.UNIFORM_SINTIME</tabTrigger>
+	<scope>source.js</scope>
+	<description>Macro</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setTileGID(${1:gid}, ${2:posOrX}, ${3:flagsOrY}, ${4:flags?})]]></content>
+	<tabTrigger>setTileGID(gid, posOrX, flagsOrY, flags?)</tabTrigger>
+	<scope>source.js</scope>
+	<description>TiledLayer</description>
+</snippet>

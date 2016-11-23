@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Macro.UNIFORM_MVMATRIX]]></content>
+	<tabTrigger>Macro.UNIFORM_MVMATRIX</tabTrigger>
+	<scope>source.js</scope>
+	<description>Macro</description>
+</snippet>

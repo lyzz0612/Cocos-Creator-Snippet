@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getDelta(${1:})]]></content>
+	<tabTrigger>getDelta()</tabTrigger>
+	<scope>source.js</scope>
+	<description>EventMouse</description>
+</snippet>

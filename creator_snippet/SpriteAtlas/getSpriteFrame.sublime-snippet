@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getSpriteFrame(${1:key})]]></content>
+	<tabTrigger>getSpriteFrame(key)</tabTrigger>
+	<scope>source.js</scope>
+	<description>SpriteAtlas</description>
+</snippet>

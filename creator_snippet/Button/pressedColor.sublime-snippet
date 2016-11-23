@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[pressedColor]]></content>
+	<tabTrigger>Button.pressedColor</tabTrigger>
+	<scope>source.js</scope>
+	<description>Button</description>
+</snippet>

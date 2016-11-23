@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getAnimationState(${1:name})]]></content>
+	<tabTrigger>getAnimationState(name)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Animation</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[actualFontSize]]></content>
+	<tabTrigger>Label.actualFontSize</tabTrigger>
+	<scope>source.js</scope>
+	<description>Label</description>
+</snippet>

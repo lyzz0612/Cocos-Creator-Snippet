@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[repeatCount]]></content>
+	<tabTrigger>AnimationNode.repeatCount</tabTrigger>
+	<scope>source.js</scope>
+	<description>AnimationNode</description>
+</snippet>

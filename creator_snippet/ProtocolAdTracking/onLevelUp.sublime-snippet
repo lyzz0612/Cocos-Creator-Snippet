@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[onLevelUp(${1:info})]]></content>
+	<tabTrigger>onLevelUp(info)</tabTrigger>
+	<scope>source.js</scope>
+	<description>ProtocolAdTracking</description>
+</snippet>

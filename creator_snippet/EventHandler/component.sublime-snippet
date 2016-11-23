@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[component]]></content>
+	<tabTrigger>EventHandler.component</tabTrigger>
+	<scope>source.js</scope>
+	<description>EventHandler</description>
+</snippet>

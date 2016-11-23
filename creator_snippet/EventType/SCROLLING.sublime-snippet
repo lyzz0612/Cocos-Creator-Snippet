@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EventType.SCROLLING]]></content>
+	<tabTrigger>EventType.SCROLLING</tabTrigger>
+	<scope>source.js</scope>
+	<description>EventType</description>
+</snippet>

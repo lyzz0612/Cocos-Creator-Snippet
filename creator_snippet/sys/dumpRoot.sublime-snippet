@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[dumpRoot(${1:})]]></content>
+	<tabTrigger>dumpRoot()</tabTrigger>
+	<scope>source.js</scope>
+	<description>sys</description>
+</snippet>

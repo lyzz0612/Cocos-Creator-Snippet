@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Macro.UNIFORM_MVPMATRIX_S]]></content>
+	<tabTrigger>Macro.UNIFORM_MVPMATRIX_S</tabTrigger>
+	<scope>source.js</scope>
+	<description>Macro</description>
+</snippet>

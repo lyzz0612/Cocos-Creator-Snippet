@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Macro.VERTEX_ATTRIB_MAX]]></content>
+	<tabTrigger>Macro.VERTEX_ATTRIB_MAX</tabTrigger>
+	<scope>source.js</scope>
+	<description>Macro</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[disabledSprite]]></content>
+	<tabTrigger>Button.disabledSprite</tabTrigger>
+	<scope>source.js</scope>
+	<description>Button</description>
+</snippet>

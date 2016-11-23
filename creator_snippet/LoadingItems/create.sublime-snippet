@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[create(${1:pipeline}, ${2:urlList}, ${3:onProgress}, ${4:onComplete})]]></content>
+	<tabTrigger>create(pipeline, urlList, onProgress, onComplete)</tabTrigger>
+	<scope>source.js</scope>
+	<description>LoadingItems</description>
+</snippet>

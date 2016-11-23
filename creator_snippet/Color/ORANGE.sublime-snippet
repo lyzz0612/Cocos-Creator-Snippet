@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ORANGE]]></content>
+	<tabTrigger>Color.ORANGE</tabTrigger>
+	<scope>source.js</scope>
+	<description>Color</description>
+</snippet>

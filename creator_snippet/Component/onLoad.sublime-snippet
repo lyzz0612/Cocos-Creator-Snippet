@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[onLoad(${1:})]]></content>
+	<tabTrigger>onLoad()</tabTrigger>
+	<scope>source.js</scope>
+	<description>Component</description>
+</snippet>

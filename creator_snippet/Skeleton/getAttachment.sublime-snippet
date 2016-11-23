@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getAttachment(${1:slotName}, ${2:attachmentName})]]></content>
+	<tabTrigger>getAttachment(slotName, attachmentName)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Skeleton</description>
+</snippet>

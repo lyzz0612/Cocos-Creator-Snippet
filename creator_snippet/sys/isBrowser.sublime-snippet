@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isBrowser]]></content>
+	<tabTrigger>sys.isBrowser</tabTrigger>
+	<scope>source.js</scope>
+	<description>sys</description>
+</snippet>

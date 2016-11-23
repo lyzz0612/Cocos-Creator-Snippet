@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[tag]]></content>
+	<tabTrigger>Collider.tag</tabTrigger>
+	<scope>source.js</scope>
+	<description>Collider</description>
+</snippet>

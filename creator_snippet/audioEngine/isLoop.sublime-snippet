@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isLoop(${1:audioID})]]></content>
+	<tabTrigger>isLoop(audioID)</tabTrigger>
+	<scope>source.js</scope>
+	<description>audioEngine</description>
+</snippet>

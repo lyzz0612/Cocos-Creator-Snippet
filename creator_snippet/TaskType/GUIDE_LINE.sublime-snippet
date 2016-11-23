@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TaskType.GUIDE_LINE]]></content>
+	<tabTrigger>TaskType.GUIDE_LINE</tabTrigger>
+	<scope>source.js</scope>
+	<description>TaskType</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getClips(${1:})]]></content>
+	<tabTrigger>getClips()</tabTrigger>
+	<scope>source.js</scope>
+	<description>Animation</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[enableWrapText]]></content>
+	<tabTrigger>Label.enableWrapText</tabTrigger>
+	<scope>source.js</scope>
+	<description>Label</description>
+</snippet>

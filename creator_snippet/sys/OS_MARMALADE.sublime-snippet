@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OS_MARMALADE]]></content>
+	<tabTrigger>sys.OS_MARMALADE</tabTrigger>
+	<scope>source.js</scope>
+	<description>sys</description>
+</snippet>

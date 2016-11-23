@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.ToggleGroup]]></content>
+	<tabTrigger>cc.ToggleGroup</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[enabled]]></content>
+	<tabTrigger>CollisionManager.enabled</tabTrigger>
+	<scope>source.js</scope>
+	<description>CollisionManager</description>
+</snippet>

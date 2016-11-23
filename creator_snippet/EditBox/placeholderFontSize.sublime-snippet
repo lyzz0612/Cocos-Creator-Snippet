@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[placeholderFontSize]]></content>
+	<tabTrigger>EditBox.placeholderFontSize</tabTrigger>
+	<scope>source.js</scope>
+	<description>EditBox</description>
+</snippet>

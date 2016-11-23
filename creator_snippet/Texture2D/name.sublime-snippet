@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[name]]></content>
+	<tabTrigger>Texture2D.name</tabTrigger>
+	<scope>source.js</scope>
+	<description>Texture2D</description>
+</snippet>

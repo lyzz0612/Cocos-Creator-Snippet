@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[url]]></content>
+	<tabTrigger>WebView.url</tabTrigger>
+	<scope>source.js</scope>
+	<description>WebView</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EDITOR_PAGE]]></content>
+	<tabTrigger>sys.EDITOR_PAGE</tabTrigger>
+	<scope>source.js</scope>
+	<description>sys</description>
+</snippet>

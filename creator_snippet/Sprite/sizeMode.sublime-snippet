@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[sizeMode]]></content>
+	<tabTrigger>Sprite.sizeMode</tabTrigger>
+	<scope>source.js</scope>
+	<description>Sprite</description>
+</snippet>

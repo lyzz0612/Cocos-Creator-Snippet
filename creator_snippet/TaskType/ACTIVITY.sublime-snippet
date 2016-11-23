@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TaskType.ACTIVITY]]></content>
+	<tabTrigger>TaskType.ACTIVITY</tabTrigger>
+	<scope>source.js</scope>
+	<description>TaskType</description>
+</snippet>

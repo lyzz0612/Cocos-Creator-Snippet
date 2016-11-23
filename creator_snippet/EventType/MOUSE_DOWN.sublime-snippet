@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EventType.MOUSE_DOWN]]></content>
+	<tabTrigger>EventType.MOUSE_DOWN</tabTrigger>
+	<scope>source.js</scope>
+	<description>EventType</description>
+</snippet>

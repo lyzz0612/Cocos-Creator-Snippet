@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[checkAvailable(${1:})]]></content>
+	<tabTrigger>checkAvailable()</tabTrigger>
+	<scope>source.js</scope>
+	<description>EventListener</description>
+</snippet>

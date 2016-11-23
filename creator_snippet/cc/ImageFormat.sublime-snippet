@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.ImageFormat]]></content>
+	<tabTrigger>cc.ImageFormat</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

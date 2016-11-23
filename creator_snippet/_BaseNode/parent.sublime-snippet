@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[parent]]></content>
+	<tabTrigger>_BaseNode.parent</tabTrigger>
+	<scope>source.js</scope>
+	<description>_BaseNode</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getLocationX(${1:})]]></content>
+	<tabTrigger>getLocationX()</tabTrigger>
+	<scope>source.js</scope>
+	<description>EventMouse</description>
+</snippet>

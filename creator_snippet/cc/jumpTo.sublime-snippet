@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.jumpTo(${1:duration}, ${2:position}, ${3:y?}, ${4:height}, ${5:jumps})]]></content>
+	<tabTrigger>cc.jumpTo(duration, position, y?, height, jumps)	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

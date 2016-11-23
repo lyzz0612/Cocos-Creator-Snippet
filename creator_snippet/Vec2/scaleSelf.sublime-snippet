@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[scaleSelf(${1:vector})]]></content>
+	<tabTrigger>scaleSelf(vector)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Vec2</description>
+</snippet>

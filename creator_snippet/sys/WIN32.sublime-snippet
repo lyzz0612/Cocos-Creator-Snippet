@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WIN32]]></content>
+	<tabTrigger>sys.WIN32</tabTrigger>
+	<scope>source.js</scope>
+	<description>sys</description>
+</snippet>

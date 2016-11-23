@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UserActionResultCode.kSendToDesktopFail]]></content>
+	<tabTrigger>UserActionResultCode.kSendToDesktopFail</tabTrigger>
+	<scope>source.js</scope>
+	<description>UserActionResultCode</description>
+</snippet>

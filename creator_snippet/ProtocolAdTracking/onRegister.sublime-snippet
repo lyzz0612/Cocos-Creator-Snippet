@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[onRegister(${1:userId})]]></content>
+	<tabTrigger>onRegister(userId)</tabTrigger>
+	<scope>source.js</scope>
+	<description>ProtocolAdTracking</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SocialRetCode.kSocialSignInSucceed]]></content>
+	<tabTrigger>SocialRetCode.kSocialSignInSucceed</tabTrigger>
+	<scope>source.js</scope>
+	<description>SocialRetCode</description>
+</snippet>

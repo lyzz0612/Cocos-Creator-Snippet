@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.Vec2]]></content>
+	<tabTrigger>cc.Vec2</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[polygonCircle(${1:polygon}, ${2:circle})]]></content>
+	<tabTrigger>polygonCircle(polygon, circle)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Intersection</description>
+</snippet>

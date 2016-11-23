@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[InputFlag.INITIAL_CAPS_ALL_CHARACTERS]]></content>
+	<tabTrigger>InputFlag.INITIAL_CAPS_ALL_CHARACTERS</tabTrigger>
+	<scope>source.js</scope>
+	<description>InputFlag</description>
+</snippet>

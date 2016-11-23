@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.EventType]]></content>
+	<tabTrigger>cc.EventType</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

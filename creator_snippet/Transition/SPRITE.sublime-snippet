@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Transition.SPRITE]]></content>
+	<tabTrigger>Transition.SPRITE</tabTrigger>
+	<scope>source.js</scope>
+	<description>Transition</description>
+</snippet>

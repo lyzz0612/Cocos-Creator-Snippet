@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Acceleration(${1:x}, ${2:y}, ${3:z}, ${4:timestamp})]]></content>
+	<tabTrigger>Acceleration(x, y, z, timestamp)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Acceleration</description>
+</snippet>

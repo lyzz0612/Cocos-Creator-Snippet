@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[poolHandlerComp]]></content>
+	<tabTrigger>NodePool.poolHandlerComp</tabTrigger>
+	<scope>source.js</scope>
+	<description>NodePool</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[activeInHierarchy]]></content>
+	<tabTrigger>Node.activeInHierarchy</tabTrigger>
+	<scope>source.js</scope>
+	<description>Node</description>
+</snippet>

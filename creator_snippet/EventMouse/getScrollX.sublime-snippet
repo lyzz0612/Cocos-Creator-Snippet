@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getScrollX(${1:})]]></content>
+	<tabTrigger>getScrollX()</tabTrigger>
+	<scope>source.js</scope>
+	<description>EventMouse</description>
+</snippet>

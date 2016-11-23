@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[lateUpdate(${1:})]]></content>
+	<tabTrigger>lateUpdate()</tabTrigger>
+	<scope>source.js</scope>
+	<description>Component</description>
+</snippet>

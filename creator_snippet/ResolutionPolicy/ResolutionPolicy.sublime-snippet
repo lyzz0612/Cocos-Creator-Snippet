@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ResolutionPolicy(${1:containerStg}, ${2:contentStg})]]></content>
+	<tabTrigger>ResolutionPolicy(containerStg, contentStg)</tabTrigger>
+	<scope>source.js</scope>
+	<description>ResolutionPolicy</description>
+</snippet>

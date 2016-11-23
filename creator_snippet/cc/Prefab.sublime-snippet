@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.Prefab]]></content>
+	<tabTrigger>cc.Prefab</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

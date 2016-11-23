@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[pageEvents]]></content>
+	<tabTrigger>PageView.pageEvents</tabTrigger>
+	<scope>source.js</scope>
+	<description>PageView</description>
+</snippet>

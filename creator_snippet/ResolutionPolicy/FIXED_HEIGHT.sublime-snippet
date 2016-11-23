@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FIXED_HEIGHT]]></content>
+	<tabTrigger>ResolutionPolicy.FIXED_HEIGHT</tabTrigger>
+	<scope>source.js</scope>
+	<description>ResolutionPolicy</description>
+</snippet>

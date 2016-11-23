@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[config]]></content>
+	<tabTrigger>Game.config</tabTrigger>
+	<scope>source.js</scope>
+	<description>Game</description>
+</snippet>

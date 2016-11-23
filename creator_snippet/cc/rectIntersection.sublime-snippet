@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.rectIntersection(${1:rectA}, ${2:rectB})]]></content>
+	<tabTrigger>cc.rectIntersection(rectA, rectB)	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

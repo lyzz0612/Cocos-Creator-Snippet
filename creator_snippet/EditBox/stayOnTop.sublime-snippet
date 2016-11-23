@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[stayOnTop]]></content>
+	<tabTrigger>EditBox.stayOnTop</tabTrigger>
+	<scope>source.js</scope>
+	<description>EditBox</description>
+</snippet>

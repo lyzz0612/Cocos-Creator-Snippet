@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[onLostFocusInEditor(${1:})]]></content>
+	<tabTrigger>onLostFocusInEditor()</tabTrigger>
+	<scope>source.js</scope>
+	<description>Component</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[defaultAnimation]]></content>
+	<tabTrigger>Skeleton.defaultAnimation</tabTrigger>
+	<scope>source.js</scope>
+	<description>Skeleton</description>
+</snippet>

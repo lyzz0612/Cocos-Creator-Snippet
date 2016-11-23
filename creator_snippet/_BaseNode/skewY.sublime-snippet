@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[skewY]]></content>
+	<tabTrigger>_BaseNode.skewY</tabTrigger>
+	<scope>source.js</scope>
+	<description>_BaseNode</description>
+</snippet>

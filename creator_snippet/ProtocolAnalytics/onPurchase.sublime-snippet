@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[onPurchase(${1:paramMap})]]></content>
+	<tabTrigger>onPurchase(paramMap)</tabTrigger>
+	<scope>source.js</scope>
+	<description>ProtocolAnalytics</description>
+</snippet>

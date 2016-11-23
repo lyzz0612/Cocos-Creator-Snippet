@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[releaseAll(${1:})]]></content>
+	<tabTrigger>releaseAll()</tabTrigger>
+	<scope>source.js</scope>
+	<description>loader</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[V2F_C4B_T2F(${1:vertices}, ${2:colors}, ${3:texCoords}, ${4:arrayBuffer}, ${5:offset})]]></content>
+	<tabTrigger>V2F_C4B_T2F(vertices, colors, texCoords, arrayBuffer, offset)</tabTrigger>
+	<scope>source.js</scope>
+	<description>V2F_C4B_T2F</description>
+</snippet>

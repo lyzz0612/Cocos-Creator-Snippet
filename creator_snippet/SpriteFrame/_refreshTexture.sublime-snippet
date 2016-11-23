@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[_refreshTexture(${1:texture})]]></content>
+	<tabTrigger>_refreshTexture(texture)</tabTrigger>
+	<scope>source.js</scope>
+	<description>SpriteFrame</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[js.getClassName(${1:obj})]]></content>
+	<tabTrigger>js.getClassName(obj)	</tabTrigger>
+	<scope>source.js</scope>
+	<description>js</description>
+</snippet>

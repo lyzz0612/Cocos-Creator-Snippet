@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[trim]]></content>
+	<tabTrigger>Sprite.trim</tabTrigger>
+	<scope>source.js</scope>
+	<description>Sprite</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RIGHT]]></content>
+	<tabTrigger>Vec2.RIGHT</tabTrigger>
+	<scope>source.js</scope>
+	<description>Vec2</description>
+</snippet>

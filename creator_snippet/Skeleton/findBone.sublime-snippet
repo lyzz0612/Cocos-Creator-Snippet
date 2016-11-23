@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[findBone(${1:boneName})]]></content>
+	<tabTrigger>findBone(boneName)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Skeleton</description>
+</snippet>

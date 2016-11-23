@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BROWSER_TYPE_SOUGOU]]></content>
+	<tabTrigger>sys.BROWSER_TYPE_SOUGOU</tabTrigger>
+	<scope>source.js</scope>
+	<description>sys</description>
+</snippet>

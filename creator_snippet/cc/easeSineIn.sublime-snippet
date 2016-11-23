@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.easeSineIn(${1:})]]></content>
+	<tabTrigger>cc.easeSineIn()	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

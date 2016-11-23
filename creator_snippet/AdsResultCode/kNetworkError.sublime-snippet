@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AdsResultCode.kNetworkError]]></content>
+	<tabTrigger>AdsResultCode.kNetworkError</tabTrigger>
+	<scope>source.js</scope>
+	<description>AdsResultCode</description>
+</snippet>

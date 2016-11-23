@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[onPay(${1:productInfo})]]></content>
+	<tabTrigger>onPay(productInfo)</tabTrigger>
+	<scope>source.js</scope>
+	<description>ProtocolAdTracking</description>
+</snippet>

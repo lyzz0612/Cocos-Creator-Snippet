@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.VerticalDirection]]></content>
+	<tabTrigger>cc.VerticalDirection</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

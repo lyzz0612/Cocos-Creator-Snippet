@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[rectApplyAffineTransform(${1:rect}, ${2:anAffineTransform})]]></content>
+	<tabTrigger>rectApplyAffineTransform(rect, anAffineTransform)</tabTrigger>
+	<scope>source.js</scope>
+	<description>AffineTransform</description>
+</snippet>

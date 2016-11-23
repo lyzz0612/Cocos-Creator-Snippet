@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.pLerp(${1:a}, ${2:b}, ${3:alpha})]]></content>
+	<tabTrigger>cc.pLerp(a, b, alpha)	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

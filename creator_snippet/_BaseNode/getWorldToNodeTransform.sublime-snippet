@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getWorldToNodeTransform(${1:})]]></content>
+	<tabTrigger>getWorldToNodeTransform()</tabTrigger>
+	<scope>source.js</scope>
+	<description>_BaseNode</description>
+</snippet>

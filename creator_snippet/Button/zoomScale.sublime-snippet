@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[zoomScale]]></content>
+	<tabTrigger>Button.zoomScale</tabTrigger>
+	<scope>source.js</scope>
+	<description>Button</description>
+</snippet>

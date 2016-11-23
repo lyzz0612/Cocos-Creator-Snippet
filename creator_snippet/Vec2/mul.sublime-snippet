@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[mul(${1:num}, ${2:out})]]></content>
+	<tabTrigger>mul(num, out)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Vec2</description>
+</snippet>

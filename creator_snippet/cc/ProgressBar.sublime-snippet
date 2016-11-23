@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.ProgressBar]]></content>
+	<tabTrigger>cc.ProgressBar</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

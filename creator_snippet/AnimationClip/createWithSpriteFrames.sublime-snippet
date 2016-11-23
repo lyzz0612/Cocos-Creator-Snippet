@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[createWithSpriteFrames(${1:spriteFrames}, ${2:sample})]]></content>
+	<tabTrigger>createWithSpriteFrames(spriteFrames, sample)</tabTrigger>
+	<scope>source.js</scope>
+	<description>AnimationClip</description>
+</snippet>

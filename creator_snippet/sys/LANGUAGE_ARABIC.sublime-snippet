@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LANGUAGE_ARABIC]]></content>
+	<tabTrigger>sys.LANGUAGE_ARABIC</tabTrigger>
+	<scope>source.js</scope>
+	<description>sys</description>
+</snippet>

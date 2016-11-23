@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[KeyboardReturnType.SEARCH]]></content>
+	<tabTrigger>KeyboardReturnType.SEARCH</tabTrigger>
+	<scope>source.js</scope>
+	<description>KeyboardReturnType</description>
+</snippet>

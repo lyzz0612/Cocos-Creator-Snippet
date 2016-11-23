@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[browserVersion]]></content>
+	<tabTrigger>sys.browserVersion</tabTrigger>
+	<scope>source.js</scope>
+	<description>sys</description>
+</snippet>

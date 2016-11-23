@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BlendFactor.SRC_ALPHA]]></content>
+	<tabTrigger>BlendFactor.SRC_ALPHA</tabTrigger>
+	<scope>source.js</scope>
+	<description>BlendFactor</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[angle]]></content>
+	<tabTrigger>ParticleSystem.angle</tabTrigger>
+	<scope>source.js</scope>
+	<description>ParticleSystem</description>
+</snippet>

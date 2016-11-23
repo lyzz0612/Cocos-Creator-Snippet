@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[startLevel(${1:paramMap})]]></content>
+	<tabTrigger>startLevel(paramMap)</tabTrigger>
+	<scope>source.js</scope>
+	<description>ProtocolAnalytics</description>
+</snippet>

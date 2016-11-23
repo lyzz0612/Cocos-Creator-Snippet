@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[preload(${1:filePath}, ${2:callback})]]></content>
+	<tabTrigger>preload(filePath, callback)</tabTrigger>
+	<scope>source.js</scope>
+	<description>audioEngine</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[antiAddictionQuery(${1:})]]></content>
+	<tabTrigger>antiAddictionQuery()</tabTrigger>
+	<scope>source.js</scope>
+	<description>ProtocolUser</description>
+</snippet>

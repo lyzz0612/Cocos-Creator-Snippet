@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[placeholder]]></content>
+	<tabTrigger>EditBox.placeholder</tabTrigger>
+	<scope>source.js</scope>
+	<description>EditBox</description>
+</snippet>

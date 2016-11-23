@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setFrameRate(${1:frameRate})]]></content>
+	<tabTrigger>setFrameRate(frameRate)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Game</description>
+</snippet>

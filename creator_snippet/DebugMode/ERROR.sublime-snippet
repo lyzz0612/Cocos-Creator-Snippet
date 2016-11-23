@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DebugMode.ERROR]]></content>
+	<tabTrigger>DebugMode.ERROR</tabTrigger>
+	<scope>source.js</scope>
+	<description>DebugMode</description>
+</snippet>

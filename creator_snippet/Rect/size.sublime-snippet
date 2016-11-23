@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[size]]></content>
+	<tabTrigger>Rect.size</tabTrigger>
+	<scope>source.js</scope>
+	<description>Rect</description>
+</snippet>

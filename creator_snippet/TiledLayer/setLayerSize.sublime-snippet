@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setLayerSize(${1:layerSize})]]></content>
+	<tabTrigger>setLayerSize(layerSize)</tabTrigger>
+	<scope>source.js</scope>
+	<description>TiledLayer</description>
+</snippet>

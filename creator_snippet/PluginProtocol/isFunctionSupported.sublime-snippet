@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isFunctionSupported(${1:functionName})]]></content>
+	<tabTrigger>isFunctionSupported(functionName)</tabTrigger>
+	<scope>source.js</scope>
+	<description>PluginProtocol</description>
+</snippet>

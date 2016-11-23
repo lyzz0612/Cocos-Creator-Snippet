@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OS_LINUX]]></content>
+	<tabTrigger>sys.OS_LINUX</tabTrigger>
+	<scope>source.js</scope>
+	<description>sys</description>
+</snippet>

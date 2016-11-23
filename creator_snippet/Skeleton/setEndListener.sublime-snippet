@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setEndListener(${1:listener})]]></content>
+	<tabTrigger>setEndListener(listener)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Skeleton</description>
+</snippet>

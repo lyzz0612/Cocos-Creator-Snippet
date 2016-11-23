@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[removeTextureForKey(${1:textureKeyName})]]></content>
+	<tabTrigger>removeTextureForKey(textureKeyName)</tabTrigger>
+	<scope>source.js</scope>
+	<description>textureCache</description>
+</snippet>

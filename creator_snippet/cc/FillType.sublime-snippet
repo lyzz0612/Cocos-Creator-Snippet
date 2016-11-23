@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.FillType]]></content>
+	<tabTrigger>cc.FillType</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

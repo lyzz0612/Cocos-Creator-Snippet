@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.blink(${1:duration}, ${2:blinks})]]></content>
+	<tabTrigger>cc.blink(duration, blinks)	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

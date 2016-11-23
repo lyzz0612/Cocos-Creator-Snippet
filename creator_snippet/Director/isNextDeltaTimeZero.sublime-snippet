@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isNextDeltaTimeZero(${1:})]]></content>
+	<tabTrigger>isNextDeltaTimeZero()</tabTrigger>
+	<scope>source.js</scope>
+	<description>Director</description>
+</snippet>

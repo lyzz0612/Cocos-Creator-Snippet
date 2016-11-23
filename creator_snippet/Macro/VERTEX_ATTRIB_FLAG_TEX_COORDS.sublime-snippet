@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Macro.VERTEX_ATTRIB_FLAG_TEX_COORDS]]></content>
+	<tabTrigger>Macro.VERTEX_ATTRIB_FLAG_TEX_COORDS</tabTrigger>
+	<scope>source.js</scope>
+	<description>Macro</description>
+</snippet>

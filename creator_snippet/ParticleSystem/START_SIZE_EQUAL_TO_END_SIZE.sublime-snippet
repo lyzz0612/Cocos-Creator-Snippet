@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[START_SIZE_EQUAL_TO_END_SIZE]]></content>
+	<tabTrigger>ParticleSystem.START_SIZE_EQUAL_TO_END_SIZE</tabTrigger>
+	<scope>source.js</scope>
+	<description>ParticleSystem</description>
+</snippet>

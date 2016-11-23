@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[dragonAtlasAsset]]></content>
+	<tabTrigger>ArmatureDisplay.dragonAtlasAsset</tabTrigger>
+	<scope>source.js</scope>
+	<description>ArmatureDisplay</description>
+</snippet>

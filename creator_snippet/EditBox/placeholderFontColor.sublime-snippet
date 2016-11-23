@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[placeholderFontColor]]></content>
+	<tabTrigger>EditBox.placeholderFontColor</tabTrigger>
+	<scope>source.js</scope>
+	<description>EditBox</description>
+</snippet>

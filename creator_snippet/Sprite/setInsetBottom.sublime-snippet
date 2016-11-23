@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setInsetBottom(${1:bottomInset})]]></content>
+	<tabTrigger>setInsetBottom(bottomInset)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Sprite</description>
+</snippet>

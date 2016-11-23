@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.easeBounceInOut(${1:})]]></content>
+	<tabTrigger>cc.easeBounceInOut()	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

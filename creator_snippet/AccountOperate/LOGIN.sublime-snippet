@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AccountOperate.LOGIN]]></content>
+	<tabTrigger>AccountOperate.LOGIN</tabTrigger>
+	<scope>source.js</scope>
+	<description>AccountOperate</description>
+</snippet>

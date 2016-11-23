@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.skewBy(${1:t}, ${2:sx}, ${3:sy})]]></content>
+	<tabTrigger>cc.skewBy(t, sx, sy)	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

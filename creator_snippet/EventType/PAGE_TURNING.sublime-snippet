@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EventType.PAGE_TURNING]]></content>
+	<tabTrigger>EventType.PAGE_TURNING</tabTrigger>
+	<scope>source.js</scope>
+	<description>EventType</description>
+</snippet>

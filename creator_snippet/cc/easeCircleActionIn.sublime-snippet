@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.easeCircleActionIn(${1:})]]></content>
+	<tabTrigger>cc.easeCircleActionIn()	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

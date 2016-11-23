@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[sub(${1:vector}, ${2:out})]]></content>
+	<tabTrigger>sub(vector, out)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Vec2</description>
+</snippet>

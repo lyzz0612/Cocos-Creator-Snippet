@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[InputMode.PHONE_NUMBER]]></content>
+	<tabTrigger>InputMode.PHONE_NUMBER</tabTrigger>
+	<scope>source.js</scope>
+	<description>InputMode</description>
+</snippet>

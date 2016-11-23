@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[removeListener(${1:listener})]]></content>
+	<tabTrigger>removeListener(listener)</tabTrigger>
+	<scope>source.js</scope>
+	<description>eventManager</description>
+</snippet>

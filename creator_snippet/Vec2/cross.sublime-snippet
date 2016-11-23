@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cross(${1:vector})]]></content>
+	<tabTrigger>cross(vector)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Vec2</description>
+</snippet>

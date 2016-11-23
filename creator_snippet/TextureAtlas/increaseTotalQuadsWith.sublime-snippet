@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[increaseTotalQuadsWith(${1:amount})]]></content>
+	<tabTrigger>increaseTotalQuadsWith(amount)</tabTrigger>
+	<scope>source.js</scope>
+	<description>TextureAtlas</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.toggleVisibility(${1:})]]></content>
+	<tabTrigger>cc.toggleVisibility()	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

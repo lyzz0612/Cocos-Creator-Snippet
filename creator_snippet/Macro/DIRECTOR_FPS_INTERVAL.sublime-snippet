@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Macro.DIRECTOR_FPS_INTERVAL]]></content>
+	<tabTrigger>Macro.DIRECTOR_FPS_INTERVAL</tabTrigger>
+	<scope>source.js</scope>
+	<description>Macro</description>
+</snippet>

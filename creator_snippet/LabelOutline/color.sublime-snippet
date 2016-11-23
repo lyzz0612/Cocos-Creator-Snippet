@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[color]]></content>
+	<tabTrigger>LabelOutline.color</tabTrigger>
+	<scope>source.js</scope>
+	<description>LabelOutline</description>
+</snippet>

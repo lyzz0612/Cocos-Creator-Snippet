@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[emitEvents(${1:events}, ${2:params})]]></content>
+	<tabTrigger>emitEvents(events, params)</tabTrigger>
+	<scope>source.js</scope>
+	<description>EventHandler</description>
+</snippet>

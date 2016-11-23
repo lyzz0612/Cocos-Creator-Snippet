@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[js.isString(${1:obj})]]></content>
+	<tabTrigger>js.isString(obj)	</tabTrigger>
+	<scope>source.js</scope>
+	<description>js</description>
+</snippet>

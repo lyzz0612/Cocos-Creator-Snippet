@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[maxLength]]></content>
+	<tabTrigger>EditBox.maxLength</tabTrigger>
+	<scope>source.js</scope>
+	<description>EditBox</description>
+</snippet>

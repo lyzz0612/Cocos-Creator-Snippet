@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isNative]]></content>
+	<tabTrigger>sys.isNative</tabTrigger>
+	<scope>source.js</scope>
+	<description>sys</description>
+</snippet>

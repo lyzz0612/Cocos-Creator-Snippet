@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SHOW_ALL]]></content>
+	<tabTrigger>ResolutionPolicy.SHOW_ALL</tabTrigger>
+	<scope>source.js</scope>
+	<description>ResolutionPolicy</description>
+</snippet>

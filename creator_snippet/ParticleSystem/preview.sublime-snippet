@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[preview]]></content>
+	<tabTrigger>ParticleSystem.preview</tabTrigger>
+	<scope>source.js</scope>
+	<description>ParticleSystem</description>
+</snippet>

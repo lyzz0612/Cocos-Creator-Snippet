@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getObjects(${1:})]]></content>
+	<tabTrigger>getObjects()</tabTrigger>
+	<scope>source.js</scope>
+	<description>TiledObjectGroup</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getSharePlugin(${1:})]]></content>
+	<tabTrigger>getSharePlugin()</tabTrigger>
+	<scope>source.js</scope>
+	<description>AgentManager</description>
+</snippet>

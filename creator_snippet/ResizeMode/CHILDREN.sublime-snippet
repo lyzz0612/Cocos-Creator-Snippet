@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ResizeMode.CHILDREN]]></content>
+	<tabTrigger>ResizeMode.CHILDREN</tabTrigger>
+	<scope>source.js</scope>
+	<description>ResizeMode</description>
+</snippet>

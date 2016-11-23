@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[stopAutoScroll(${1:})]]></content>
+	<tabTrigger>stopAutoScroll()</tabTrigger>
+	<scope>source.js</scope>
+	<description>ScrollView</description>
+</snippet>

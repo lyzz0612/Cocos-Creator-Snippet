@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isRotated(${1:})]]></content>
+	<tabTrigger>isRotated()</tabTrigger>
+	<scope>source.js</scope>
+	<description>SpriteFrame</description>
+</snippet>

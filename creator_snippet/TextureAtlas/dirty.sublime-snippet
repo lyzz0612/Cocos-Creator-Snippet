@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[dirty]]></content>
+	<tabTrigger>TextureAtlas.dirty</tabTrigger>
+	<scope>source.js</scope>
+	<description>TextureAtlas</description>
+</snippet>

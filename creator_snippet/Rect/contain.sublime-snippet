@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[contain(${1:a}, ${2:b})]]></content>
+	<tabTrigger>contain(a, b)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Rect</description>
+</snippet>

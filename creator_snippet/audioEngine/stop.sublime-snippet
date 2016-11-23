@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[stop(${1:audioID})]]></content>
+	<tabTrigger>stop(audioID)</tabTrigger>
+	<scope>source.js</scope>
+	<description>audioEngine</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[divSelf(${1:vector})]]></content>
+	<tabTrigger>divSelf(vector)</tabTrigger>
+	<scope>source.js</scope>
+	<description>Vec2</description>
+</snippet>

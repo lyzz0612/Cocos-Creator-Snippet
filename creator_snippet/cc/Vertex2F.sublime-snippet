@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.Vertex2F]]></content>
+	<tabTrigger>cc.Vertex2F</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>

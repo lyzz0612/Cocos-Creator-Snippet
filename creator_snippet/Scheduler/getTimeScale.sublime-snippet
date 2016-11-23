@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getTimeScale(${1:})]]></content>
+	<tabTrigger>getTimeScale()</tabTrigger>
+	<scope>source.js</scope>
+	<description>Scheduler</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isViewReady(${1:})]]></content>
+	<tabTrigger>isViewReady()</tabTrigger>
+	<scope>source.js</scope>
+	<description>View</description>
+</snippet>

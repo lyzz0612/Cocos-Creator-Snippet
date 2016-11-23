@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[leaveBreadcrumb(${1:breadcrumb})]]></content>
+	<tabTrigger>leaveBreadcrumb(breadcrumb)</tabTrigger>
+	<scope>source.js</scope>
+	<description>ProtocolCrash</description>
+</snippet>

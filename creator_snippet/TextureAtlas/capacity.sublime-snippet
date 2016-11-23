@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[capacity]]></content>
+	<tabTrigger>TextureAtlas.capacity</tabTrigger>
+	<scope>source.js</scope>
+	<description>TextureAtlas</description>
+</snippet>

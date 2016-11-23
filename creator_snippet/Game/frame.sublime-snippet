@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[frame]]></content>
+	<tabTrigger>Game.frame</tabTrigger>
+	<scope>source.js</scope>
+	<description>Game</description>
+</snippet>

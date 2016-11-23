@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[uncacheAll(${1:})]]></content>
+	<tabTrigger>uncacheAll()</tabTrigger>
+	<scope>source.js</scope>
+	<description>audioEngine</description>
+</snippet>

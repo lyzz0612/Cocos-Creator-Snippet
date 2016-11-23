@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getDeltaTime(${1:})]]></content>
+	<tabTrigger>getDeltaTime()</tabTrigger>
+	<scope>source.js</scope>
+	<description>Director</description>
+</snippet>

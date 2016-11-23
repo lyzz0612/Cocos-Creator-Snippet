@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isValid]]></content>
+	<tabTrigger>Object.isValid</tabTrigger>
+	<scope>source.js</scope>
+	<description>Object</description>
+</snippet>

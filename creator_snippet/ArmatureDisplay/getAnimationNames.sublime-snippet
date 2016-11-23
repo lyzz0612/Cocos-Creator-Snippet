@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getAnimationNames(${1:armatureName})]]></content>
+	<tabTrigger>getAnimationNames(armatureName)</tabTrigger>
+	<scope>source.js</scope>
+	<description>ArmatureDisplay</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Macro.SHADER_SPRITE_POSITION_TEXTURECOLORALPHATEST]]></content>
+	<tabTrigger>Macro.SHADER_SPRITE_POSITION_TEXTURECOLORALPHATEST</tabTrigger>
+	<scope>source.js</scope>
+	<description>Macro</description>
+</snippet>

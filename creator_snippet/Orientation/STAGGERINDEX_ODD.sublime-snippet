@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Orientation.STAGGERINDEX_ODD]]></content>
+	<tabTrigger>Orientation.STAGGERINDEX_ODD</tabTrigger>
+	<scope>source.js</scope>
+	<description>Orientation</description>
+</snippet>

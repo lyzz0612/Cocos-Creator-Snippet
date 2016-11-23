@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cc.targetedAction(${1:target}, ${2:action})]]></content>
+	<tabTrigger>cc.targetedAction(target, action)	</tabTrigger>
+	<scope>source.js</scope>
+	<description>cc</description>
+</snippet>
