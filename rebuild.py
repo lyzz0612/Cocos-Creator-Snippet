@@ -64,39 +64,30 @@ def parseJs(file):
     end_index = file.rfind("/")
     className = file[end_index+1:-3]
 
-    f=codecs.open(file,"r","utf-8")
-    lineNum=0
     completionsList=[]
-    try:
-        while True:
-            line=f.readline()
-            if line:
-                lineNum+=1
-                #sample: onLoad: function () {
-                m = re.match(' +(\w+): *function *\((.*?)\).*', line)
-                if m:
-                    saveFunction(saveDir, className, m.group(1), m.group(2))
-                    continue
-                #sample: ComFun.dump = function(arr, maxLevel) {
-                m = re.match(' *([a-zA-Z0-9\.]*) = function *\((.*?)\).*', line)
-                if m:
-                    saveFunction(saveDir, className, m.group(1), m.group(2))
-                    continue
-                #sample var Constant = {}
-                m = re.match('^var (.*) *=.*', line)
-                if m:
-                    completionsList.append(m.group(1).strip())
-                    continue
-                m = re.match('^([\w\.]*) *=.*', line)
-                if m:
-                    completionsList.append(m.group(1).strip())
-                    continue
-            else:
-                break
-    except:
-        print "====> parse Error in %s line: %d" %(file, lineNum)
+    with open(file, "r", "utf-8") as f:
+        for line in f:
+            #sample: onLoad: function () {
+            m = re.match(' +(\w+): *function *\((.*?)\).*', line)
+            if m:
+                saveFunction(saveDir, className, m.group(1), m.group(2))
+                continue
+            #sample: ComFun.dump = function(arr, maxLevel) {
+            m = re.match(' *([a-zA-Z0-9\.]*) = function *\((.*?)\).*', line)
+            if m:
+                saveFunction(saveDir, className, m.group(1), m.group(2))
+                continue
+            #sample var Constant = {}
+            m = re.match('^var (.*) *=.*', line)
+            if m:
+                completionsList.append(m.group(1).strip())
+                continue
+            #sample Constant.Enums = something
+            m = re.match('^([\w\.]*) *=.*', line)
+            if m:
+                completionsList.append(m.group(1).strip())
+                
 
-    f.close()
     if "module.exports" in completionsList:
         completionsList.remove("module.exports")
     saveCompletions(completionsList,saveDir,"c")
