@@ -1,6 +1,8 @@
 # Cocos-Creator-Snippet
-1. Creator代码提示根据creator.d.ts生成。当前版本是1.3.0
-2. 在sublime中保存js文件时会自动分析此文件中的函数、变量并生成相应代码提示。
-3. 在左栏文件夹上右键，选择```Rebuild js User Definition```会自动分析此文件夹和其子文件夹下的js文件，生成相应代码提示。
-4. 此插件参考 [QuickXDev](https://github.com/leitwolf/QuickXDev) 编写而成。
-5. 如有问题或意见请联系```lyzz0612@foxmail.com```
+Cocos-Creator-Snippet is a snippet for the game engine cocos creator.
+
+1. The snippets of Creator is generated according to the file ```creator.d.ts``` in a creator project. Current creator version is 1.3.0
+2. When you save a js file in sublime, the plugin will analyse its structure and convert functions and variables to snippet. the new snippets is saved in ```packageFolder/User/QuickXJs.cache/```
+3. right click on the left folder, and choose ```Rebuild js User Definition```, the plugin will analyse all js file in this folder and create snippets.
+4. This plugin is refer to [QuickXDev](https://github.com/leitwolf/QuickXDev).
+5. Any questions or suggestions contact ```lyzz0612@foxmail.com```
