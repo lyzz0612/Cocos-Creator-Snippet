@@ -1,0 +1,49 @@
+{
+   "scope": "source.js",
+
+   "completions":
+   [
+   		"jsb.fileUtils",
+   		"jsb.reflection",
+   		"jsb.AssetsManager",
+   		"jsb.EventAssetsManager",
+   		"jsb.EventListenerAssetsManager",
+
+		{ "trigger": "fileUtils.getStringFromFile(filename)", "contents": "fileUtils.getStringFromFile(${1:filename})" },
+		{ "trigger": "fileUtils.fullPathForFilename(filename)", "contents": "fileUtils.fullPathForFilename(${1:filename})" },
+		{ "trigger": "fileUtils.getDataFromFile(filename)", "contents": "fileUtils.getDataFromFile(${1:filename})" },
+		{ "trigger": "fileUtils.setSearchResolutionsOrder(searchResolutionsOrder)", "contents": "fileUtils.setSearchResolutionsOrder(${1:searchResolutionsOrder})" },
+		{ "trigger": "fileUtils.addSearchResolutionsOrder(order, flag)", "contents": "fileUtils.addSearchResolutionsOrder(${1:order}, ${2:flag})" },
+		{ "trigger": "fileUtils.getSearchResolutionsOrder()", "contents": "fileUtils.getSearchResolutionsOrder()" },
+		{ "trigger": "fileUtils.setSearchPaths(searchPaths)", "contents": "fileUtils.setSearchPaths(${1:searchPaths})" },
+		{ "trigger": "fileUtils.setDefaultResourceRootPath(path)", "contents": "fileUtils.setDefaultResourceRootPath(${1:path})" },
+		{ "trigger": "fileUtils.addSearchPath(path, flag)", "contents": "fileUtils.addSearchPath(${1:path}, ${2:flag})" },
+		{ "trigger": "fileUtils.getSearchPaths()", "contents": "fileUtils.getSearchPaths()" },
+		{ "trigger": "fileUtils.getWritablePath()", "contents": "fileUtils.getWritablePath()" },
+		{ "trigger": "fileUtils.setWritablePath(writablePath)", "contents": "fileUtils.setWritablePath(${1:writablePath})" },
+		{ "trigger": "fileUtils.setPopupNotify(notify)", "contents": "fileUtils.setPopupNotify(${1:notify})" },
+		{ "trigger": "fileUtils.isPopupNotify()", "contents": "fileUtils.isPopupNotify()" },
+		{ "trigger": "fileUtils.getValueMapFromFile(filename)", "contents": "fileUtils.getValueMapFromFile(${1:filename})" },
+		{ "trigger": "fileUtils.getValueMapFromData(filedata, filesize)", "contents": "fileUtils.getValueMapFromData(${1:filedata}, ${2:filesize})" },
+		{ "trigger": "fileUtils.writeToFile(dict, fullPath)", "contents": "fileUtils.writeToFile(${1:dict}, ${2:fullPath})" },
+		{ "trigger": "fileUtils.writeStringToFile(dataStr, fullPath)", "contents": "fileUtils.writeStringToFile(${1:dataStr}, ${2:fullPath})" },
+		{ "trigger": "fileUtils.writeDataToFile(data, fullPath)", "contents": "fileUtils.writeDataToFile(${1:data}, ${2:fullPath})" },
+		{ "trigger": "fileUtils.writeValueMapToFile(dict, fullPath)", "contents": "fileUtils.writeValueMapToFile(${1:dict}, ${2:fullPath})" },
+		{ "trigger": "fileUtils.writeValueVectorToFile(vecData, fullPath)", "contents": "fileUtils.writeValueVectorToFile(${1:vecData}, ${2:fullPath})" },
+		{ "trigger": "fileUtils.getValueVectorFromFile(filename)", "contents": "fileUtils.getValueVectorFromFile(${1:filename})" },
+		{ "trigger": "fileUtils.getSuitableFOpen(filenameUtf8)", "contents": "fileUtils.getSuitableFOpen(${1:filenameUtf8})" },
+		{ "trigger": "fileUtils.isFileExist(filename)", "contents": "fileUtils.isFileExist(${1:filename})" },
+		{ "trigger": "fileUtils.getFileExtension(filePath)", "contents": "fileUtils.getFileExtension(${1:filePath})" },
+		{ "trigger": "fileUtils.isAbsolutePath(path)", "contents": "fileUtils.isAbsolutePath(${1:path})" },
+		{ "trigger": "fileUtils.isDirectoryExist(dirPath)", "contents": "fileUtils.isDirectoryExist(${1:dirPath})" },
+		{ "trigger": "fileUtils.createDirectory(dirPath)", "contents": "fileUtils.createDirectory(${1:dirPath})" },
+		{ "trigger": "fileUtils.removeDirectory(dirPath)", "contents": "fileUtils.removeDirectory(${1:dirPath})" },
+		{ "trigger": "fileUtils.removeFile(filepath)", "contents": "fileUtils.removeFile(${1:filepath})" },
+		{ "trigger": "fileUtils.renameFile(path, name)", "contents": "fileUtils.renameFile(${1:path}, ${2:name})" },
+		{ "trigger": "fileUtils.renameFile(oldfullpath, newfullpath)", "contents": "fileUtils.renameFile(${1:oldfullpath}, ${2:newfullpath})" },
+		{ "trigger": "fileUtils.getFileSize(filepath)", "contents": "fileUtils.getFileSize(${1:filepath})" },
+
+		{ "trigger": "reflection.callStaticMethod_Java(className, methodName, methodSignature, parameters)", "contents": "reflection.callStaticMethod(${1:className}, ${2:methodName}, ${3:methodSignature}, ${4:parameters})" },
+		{ "trigger": "reflection.callStaticMethod_OC(className, methodName, parameters)", "contents": "reflection.callStaticMethod(${1:className}, ${2:methodName}, ${3:parameters})" } 
+   ]
+}
