@@ -7,10 +7,10 @@
 import os
 import re
 import codecs
-import sys
-
-reload(sys)
-sys.setdefaultencoding('utf-8')
+if sublime.version()[0] == '2':
+    import sys
+    reload(sys)
+    sys.setdefaultencoding('utf-8')
 
 try:
     import helper
