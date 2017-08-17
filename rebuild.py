@@ -4,6 +4,7 @@
 # Author: lonewolf
 # Date: 2013-11-11 23:08:52
 # 
+import sublime
 import os
 import re
 import codecs
@@ -65,7 +66,7 @@ def parseJs(file):
     className = file[end_index+1:-3]
 
     completionsList=[]
-    with open(file, "r", "utf-8") as f:
+    with open(file, "r", encoding='utf-8') as f:
         for line in f:
             #sample: onLoad: function () {
             m = re.match(' +(\w+): *function *\((.*?)\).*', line)
