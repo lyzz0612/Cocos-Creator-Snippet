@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[lastIndexOf(${1:searchvalue}, ${2:fromindex})]]></content>
+	<tabTrigger>lastIndexOf</tabTrigger>
+	<scope>source.js</scope>
+	<description>lastIndexOf char</description>
+</snippet>

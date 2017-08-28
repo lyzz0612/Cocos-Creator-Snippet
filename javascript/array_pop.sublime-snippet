@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[pop()]]></content>
+	<tabTrigger>pop</tabTrigger>
+	<scope>source.js</scope>
+	<description>remove last</description>
+</snippet>

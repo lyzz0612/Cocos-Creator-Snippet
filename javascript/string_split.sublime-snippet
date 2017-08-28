@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[split(${1:separator}, ${2:howmany})]]></content>
+	<tabTrigger>split</tabTrigger>
+	<scope>source.js</scope>
+	<description>split</description>
+</snippet>

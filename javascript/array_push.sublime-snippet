@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[push(${1:tmpData})]]></content>
+	<tabTrigger>push</tabTrigger>
+	<scope>source.js</scope>
+	<description>add to last</description>
+</snippet>

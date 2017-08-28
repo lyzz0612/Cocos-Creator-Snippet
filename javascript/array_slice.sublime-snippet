@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[slice(${1:startIndex}, ${2:endIndex})]]></content>
+	<tabTrigger>slice</tabTrigger>
+	<scope>source.js</scope>
+	<description>subArray</description>
+</snippet>

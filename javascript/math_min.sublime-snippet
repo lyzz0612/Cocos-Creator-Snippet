@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[Math.min(${1:x}, ${2:y})]]></content>
+	<tabTrigger>Math.min</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

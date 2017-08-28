@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[concat(${1:array1})]]></content>
+	<tabTrigger>concat</tabTrigger>
+	<scope>source.js</scope>
+	<description>add array</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[unshift(${1:tmpData})]]></content>
+	<tabTrigger>unshift</tabTrigger>
+	<scope>source.js</scope>
+	<description>add to first</description>
+</snippet>

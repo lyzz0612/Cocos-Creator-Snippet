@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[toLowerCase()]]></content>
+	<tabTrigger>toLowerCase</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

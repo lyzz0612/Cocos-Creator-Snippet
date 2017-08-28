@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[splice(${1:startIndex}, ${2:removeNum})]]></content>
+	<tabTrigger>splice</tabTrigger>
+	<scope>source.js</scope>
+	<description>remove item</description>
+</snippet>

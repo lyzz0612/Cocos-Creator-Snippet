@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[Math.max(${1:x}, ${2:y})]]></content>
+	<tabTrigger>Math.max</tabTrigger>
+	<scope>source.js</scope>
+</snippet>
