@@ -1,6 +1,11 @@
 # Cocos-Creator-Snippet
 Cocos-Creator-Snippet is a snippet for the game engine cocos creator.
 
+
+![new_file](https://github.com/lyzz0612/Cocos-Creator-Snippet/raw/master/docs/new_file.gif)
+![coding](https://github.com/lyzz0612/Cocos-Creator-Snippet/raw/master/docs/coding.gif)
+
+
 1. The snippets of Creator is generated according to the file ```creator.d.ts``` in a creator project. Current creator version is 1.3.0
 2. When you save a js file in sublime, the plugin will analyse its structure and convert functions and variables to snippet. the new snippets is saved in ```packageFolder/User/QuickXJs.cache/```
 3. right click on the left folder, and choose ```Rebuild js User Definition```, the plugin will analyse all js file in this folder and create snippets.
